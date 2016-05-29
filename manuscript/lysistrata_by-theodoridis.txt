@@ -9,13 +9,8 @@ Written in 411BCE
 
 ...  
   
-It’s clear that in this play the male characters all wear the comic phallus, which is an integral part of the action throughout. Note, too, that in several places in Lysistrata there is some confusion and debate over which speeches are assigned to which people. These moments occur, for the most part, in short conversational exchanges. Hence, there may be some differences between the speakers in this text and those in other translations.  
 
-...  
-  
-
-
-**DRAMATIS PERSONAE**  
+C> **DRAMATIS PERSONAE**  
 
 {title="The Characters", width="narrow"}  
 | *Women:*	| *Men:* |  
@@ -562,7 +557,7 @@ Right! Of course. Yes! Otherwise we’ll remain for ever as we always were: cowa
 *Exit all into the acropolis.*  
 
 
-## SCENE 2  
+## Scene 2  
 
 A group of twelve men walks in from  SL (stage left will henceforth be “their territory.”  It is where they will be retreating to when business asks for a retreat.)
 They all wear a surfeit of clothes which they take off one at a time at various instances for comedic effect.  
