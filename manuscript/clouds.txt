@@ -1,0 +1,3979 @@
+# CLOUDS {#book-2}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aristophanes/clouds.htm) translation by Ian Johnston*  
+  
+...  
+  
+
+**HISTORICAL NOTE**  
+
+*Clouds* was first produced in the drama festival in Athens—the City Dionysia—in 423 BC, where it placed third. Subsequently the play was revised, but the revisions were never completed. The text which survives is the revised version, which was apparently not performed in Aristophanes’ time but which circulated in manuscript form. This revised version does contain some anomalies which have not been fully sorted out (e.g., the treatment of Cleon, who died between the original text and the revisions). At the time of the first production, the Athenians had been at war with the Spartans, off and on, for a number of years.  
+
+...  
+
+  
+**DRAMATIS PERSONAE**  
+
+STREPSIADES: a middle-aged Athenian  
+PHEIDIPPIDES: a young Athenian, son of Strepsiades  
+XANTHIAS: a slave serving Strepsiades  
+STUDENT: one of Socrates’ pupils in the Thinkery  
+SOCRATES: chief teacher in the Thinkery  
+CHORUS OF CLOUDS  
+THE BETTER ARGUMENT: an older man  
+THE WORSE ARGUMENT: a young man  
+PASIAS: one of Strepsiades’ creditors  
+WITNESS: a friend of Pasias  
+AMYNIAS: one of Strepsiades’ creditors  
+STUDENTS OF SOCRATES  
+  
+
+*[Scene: In the centre of the stage area is a house with a door to Socrates’ educational establishment, the Thinkery.[^note-201] On one side of the stage is Strepsiades' house, in front of which are two beds. Outside the Thinkery there is a small clay statue of a round goblet, and outside Strepsiades’ house there is a small clay statue of Hermes. It is just before dawn. Strepsiades and Pheidippides are lying asleep in the two beds. Strepsiades tosses and turns restlessly. Pheidippides lets a very loud fart in his sleep. Strepsiades sits up wide awake]*  
+  
+
+  
+STREPSIADES 
+ Damn! Lord Zeus, how this night drags on and on!  
+ It’s endless. Won’t daylight ever come?  
+ I heard a cock crowing a while ago,  
+ but my slaves kept snoring. In the old days,  
+ they wouldn’t have dared. Oh, damn and blast this war—  
+ so many problems. Now I’m not allowed  
+ to punish my own slaves.[^note-202] And then there’s him—  
+ this fine young man, who never once wakes up,  
+ but farts the night away, all snug in bed,  
+ wrapped up in five wool coverlets. Ah well,  
+ I guess I should snuggle down and snore away.  
+
+[Strepsiades lies down again and tries to sleep. Pheidippidesfarts again. Strepsiades finally gives up trying to sleep]  
+
+STREPSIADES  
+ I can’t sleep. I’m just too miserable,  
+ what with being eaten up by all this debt—  
+ thanks to this son of mine, his expenses,  
+ his racing stables. He keeps his hair long  
+ and rides his horses—he’s obsessed with it—  
+ his chariot and pair. He dreams of horses.[^note-203]
+ And I’m dead when I see the month go by—  
+ with the moon’s cycle now at twenty days,  
+ as interest payments keep on piling up.[^note-204]                                                                         
+
+[Calling to a slave]  
+
+ Hey, boy! Light the lamp. Bring me my accounts.  
+
+[Enter the slave Xanthias with light and tablets]  
+
+ Let me take these and check my creditors.  
+ How many are there? And then the interest—                                                                           
+ I’ll have to work that out. Let me see now . . .  
+ What do I owe? “Twelve minai to Pasias?”  
+ Twelve minai to Pasias! What’s that for?  
+ O yes, I know—that’s when I bought that horse,  
+ the pedigree nag. What a fool I am!  
+ I’d sooner have a stone knock out my eye.[^note-205]
+
+PHEIDIPPIDES [talking in his sleep]  
+ Philon, that’s unfair! Drive your chariot straight.  
+
+STREPSIADES 
+ That there’s my problem—that’s what’s killing me.  
+ Even fast asleep he dreams of horses!  
+
+PHEIDIPPIDES [in his sleep] 
+ In this war-chariot race how many times  
+ do we drive round the track?  
+
+STREPSIADES  
+ You’re driving me,  
+ your father, too far round the bend. Let’s see,  
+ after Pasias, what’s the next debt I owe?                                                                                           
+ “Three minai to Amynias.” For what?  
+ A small chariot board and pair of wheels?  
+
+PHEIDIPPIDES [in his sleep] 
+ Let the horse have a roll. Then take him home.  
+
+STREPSIADES  
+ You, my lad, have been rolling in my cash.                                                                   
+ Now I’ve lost in court, and other creditors  
+ are going to take out liens on all my stuff  
+ to get their interest.  
+
+PHEIDIPPIDES [waking up]  
+ What’s the matter, dad?  
+ You’ve been grumbling and tossing around there  
+ all night long.  
+
+STREPSIADES  
+ I keep getting bitten—  
+ some bum bailiff in the bedding.  
+
+PHEIDIPPIDES  
+ Ease off, dad.  
+ Let me get some sleep.  
+
+STREPSIADES  
+ All right, keep sleeping.  
+ Just bear in mind that one fine day these debts                                                                        
+ will all be your concern.  
+
+[Pheidippides rolls over and goes back to sleep]  
+
+ Damn it, anyway.  
+ I wish that matchmaker had died in pain—                                         
+ the one who hooked me and your mother up.  
+ I’d had a lovely time up to that point,  
+ a crude, uncomplicated, country life,  
+ lying around just as I pleased, with honey bees,  
+ and sheep and olives, too. Then I married—  
+ the niece of Megacles—who was the son  
+ of Megacles. I was a country man,  
+ and she came from the town—a real snob,  
+ extravagant, just like Coesyra.[^note-206]
+ When I married her and we both went to bed,                                                          
+ I stunk of fresh wine, drying figs, sheep’s wool—                                                                    
+ an abundance of good things. As for her,  
+ she smelled of perfume, saffron, long kisses,  
+ greed, extravagance, lots and lots of sex.[^note-207]
+ Now, I’m not saying she was a lazy bones.  
+ She used to weave, but used up too much wool.  
+ To make a point I’d show this cloak to her  
+ and say, “Woman, your weaving’s far too thick.”[^note-208]
+
+[The lamp goes out]  
+
+XANTHIAS  
+ We’ve got no oil left in the lamp.  
+
+STREPSIADES  
+ Damn it!  
+ Why’d you light such a thirsty lamp? Come here.                                                    
+ I need to thump you.  
+
+XANTHIAS  
+ Why should you hit me?  
+
+STREPSIADES  
+ Because you stuck too thick a wick inside.  
+
+[The slave ignores Strepsiades and walks off into the house]  
+
+ After that, when this son was born to us—                                                                                     
+ I’m talking about me and my good wife—  
+ we argued over what his name should be.  
+ She was keen to add -hippos to his name,  
+ like Xanthippos, Callipedes, or Chaerippos.[^note-209]
+ Me, I wanted the name Pheidonides,  
+ his grandpa's name. Well, we fought about it,  
+ and then, after a while, at last agreed.                                                                                
+ And so we called the boy Pheidippides.  
+ She used to cradle the young lad and say,  
+ ”When you’re grown up, you’ll drive your chariot  
+ to the Acropolis, like Megacles,  
+ in a full-length robe . . .” I’d say, “No—                                                                                            
+ you’ll drive your goat herd back from Phelleus,  
+ like your father, dressed in leather hides . . .”  
+ He never listened to a thing I said.  
+ And now he’s making my finances sick—  
+ a racing fever. But I’ve spent all night                                                 
+ thinking of a way to deal with this whole mess,  
+ and I’ve found one route, something really good—  
+ it could work wonders. If I could succeed,  
+ if I could convince him, I’d be all right.  
+ Well, first I’d better wake him up. But how?  
+ What would be the gentlest way to do it?  
+
+[Strepsiades leans over and gently nudges Pheidippides]  
+
+ Pheidippides . . . my little Pheidippides . . .  
+
+PHEIDIPPIDES [very sleepily] 
+ What is it, father?                                                                                  
+
+STREPSIADES  
+ Give me a kiss—  
+ then give me your right hand.  
+
+[Pheidippides sits up, leans over, and does what his father has asked]  
+
+PHEIDIPPIDES  
+ All right. There.  
+ What’s going on?  
+
+STREPSIADES  
+ Tell me this—do you love me?                                                          
+
+PHEIDIPPIDES  
+ Yes, I do, by Poseidon, lord of horses.  
+
+STREPSIADES  
+ Don’t give me that lord of horses stuff—  
+ he’s the god who’s causing all my troubles.  
+ But now, my son, if you really love me,  
+ with your whole heart, then follow what I say.  
+
+PHEIDIPPIDES  
+ What do you want to tell me I should do?  
+
+STREPSIADES  
+ Change your life style as quickly as you can,  
+ then go and learn the stuff I recommend.  
+
+PHEIDIPPIDES  
+ So tell me—what are you asking me?  
+
+STREPSIADES: You’ll do just what I say?  
+
+PHEIDIPPIDES  
+ Yes, I’ll do it— 110              
+ I swear by Dionysus.  
+
+STREPSIADES  
+ All right then.  
+ Look over there—you see that little door,  
+ there on that little house?  
+
+PHEIDIPPIDES  
+ Yes, I see it.  
+ What are you really on about, father?  
+
+STREPSIADES  
+ That’s the Thinkery—for clever minds.  
+ In there live men who argue and persuade.  
+ They say that heaven’s an oven damper—  
+ it’s all around us—we’re the charcoal.  
+ If someone gives them cash, they’ll teach him  
+ how to win an argument on any cause,                                                                             
+ just or unjust.  
+
+PHEIDIPPIDES  
+ Who are these men?  
+
+STREPSIADES  
+ I’m not sure                                                      
+ just what they call themselves, but they’re good men,  
+ fine, deep-thinking intellectual types.  
+
+PHEIDIPPIDES  
+ Nonsense! They’re a worthless bunch. I know them—  
+ you’re talking about pale-faced charlatans,  
+ who haven’t any shoes, like those rascals  
+ Socrates and Chaerephon.[^note-210]
+
+STREPSIADES  
+ Shush, be quiet.  
+ Don’t prattle on such childish rubbish.  
+ If you care about your father’s daily food,  
+ give up racing horses and, for my sake,                                                                             
+ join their company.  
+
+PHEIDIPPIDES  
+ By Dionysus, no!  
+ Not even if you give me as a gift  
+ pheasants raised by Leogoras.[^note-211]
+
+STREPSIADES  
+ Come on, son—                                                                     
+ you’re the dearest person in the world to me.  
+ I’m begging you. Go there and learn something.  
+
+PHEIDIPPIDES  
+ What is it you want me to learn?  
+
+STREPSIADES  
+ They say  
+ that those men have two kinds of arguments—  
+ the Better, whatever that may mean,  
+ and the Worse. Now, of these two arguments,  
+ the Worse can make an unjust case and win.                                                              
+ So if, for me, you’ll learn to speak like this,  
+ to make an unjust argument, well then,  
+ all those debts I now owe because of you  
+ I wouldn’t have to pay—no need to give  
+ an obol’s worth to anyone.[^note-212]
+
+PHEIDIPPIDES  
+ No way.  
+ I can’t do that. With no colour in my cheeks  
+ I wouldn’t dare to face those rich young Knights.[^note-213]                                                                  
+
+STREPSIADES  
+ Then, by Demeter, you won’t be eating  
+ any of my food—not you, not your yoke horse,  
+ nor your branded thoroughbred. To hell with you—                               
+ I’ll toss you right out of this house.[^note-214]
+
+PHEIDIPPIDES  
+ All right—  
+ but Uncle Megacles won’t let me live  
+ without my horses. I’m going in the house.  
+ I don’t really care what you're going to do.  
+
+[Pheidippides stands up and goes inside the house. Strepsiades gets out of bed]  
+
+STREPSIADES  
+ Well, I’ll not take this set back lying down.  
+ I’ll pray to the gods and then go there myself—  
+ I’ll get myself taught in that Thinkery.  
+ Still, I’m old and slow—my memory’s shot.  
+ How’m I going to learn hair-splitting arguments,                                                                  
+ all that fancy stuff? But I have to go.                                                                                    
+ Why do I keep hanging back like this?  
+ I should be knocking on the door.  
+
+[Strepsiades marches up to the door of the Thinkery and knocks]  
+
+ Hey, boy . . . little boy.  
+
+STUDENT [from inside] 
+ Go to Hell!  
+
+[The door opens and the student appears]  
+
+ Who’s been knocking on the door?  
+
+STREPSIADES  
+ I’m Strepsiades, the son of Pheidon,  
+ from Cicynna.  
+
+STUDENT  
+ By god, what a stupid man,  
+ to kick the door so hard. You just don’t think.  
+ You made a newly found idea miscarry!  
+
+STREPSIADES  
+ I’m sorry. But I live in the country,  
+ far away from here. Tell me what’s happened.  
+ What’s miscarried?  
+
+STUDENT  
+ It’s not right to mention it, 170              
+ except to students.  
+
+STREPSIADES  
+ You needn’t be concerned—  
+ you can tell me. I’ve come here as a student,  
+ to study at the Thinkery.  
+
+STUDENT  
+ I’ll tell you, then.  
+ But you have to think of these as secrets,  
+ our holy mysteries. A while ago,  
+ a flea bit Chaerephon right on the eye brow,  
+ and then jumped onto Socrates’ head.  
+ So Socrates then questioned Chaerephon  
+ about how many lengths of its own feet  
+ a flea could jump.  
+
+STREPSIADES  
+ How’d he measure that?                                                           
+
+STUDENT  
+ Most ingeniously. He melted down some wax,  
+ then took the flea and dipped two feet in it.                                                                                
+ Once that cooled, the flea had Persian slippers.  
+ He took those off and measured out the space.  
+
+STREPSIADES  
+ By Lord Zeus, what intellectual brilliance!  
+
+STUDENT  
+ Would you like to hear more of Socrates,  
+ another one of his ideas? What do you say?  
+
+STREPSIADES  
+ Which one? Tell me . . .  
+
+[The student pretends to be reluctant]  
+
+ I’m begging you.  
+
+STUDENT  
+ All right.  
+ Chaerephon of Sphettus once asked Socrates  
+ whether, in his opinion, a gnat buzzed                                               
+ through its mouth or through its anal sphincter.  
+
+STREPSIADES  
+ What did Socrates say about the gnat?  
+
+STUDENT  
+ He said that the gnat’s intestinal tract                                                                                                 
+ was narrow—therefore air passing through it,  
+ because of the constriction, was pushed with force  
+ towards the rear. So then that orifice,  
+ being a hollow space beside a narrow tube,  
+ transmits the noise caused by the force of air.  
+
+STREPSIADES  
+ So a gnat’s arse hole is a giant trumpet!  
+ O triply blessed man who could do this,                                                                           
+ anatomize the anus of a gnat!  
+ A man who knows a gnat’s guts inside out  
+ would have no trouble winning law suits.  
+
+STUDENT  
+ Just recently he lost a great idea—  
+ a lizard stole it!  
+
+STREPSIADES  
+ How’d that happen? Tell me.                                                                         
+
+STUDENT  
+ He was studying movements of the moon—  
+ its trajectory and revolutions.  
+ One night, as he was gazing up, open mouthed,  
+ staring skyward, a lizard on the roof  
+ relieved itself on him.  
+
+STREPSIADES  
+ A lizard crapped on Socrates!                                                        
+ That’s good!  
+
+STUDENT  
+ Then, last night we had no dinner.  
+
+STREPSIADES  
+ Well, well. What did Socrates come up with,  
+ to get you all some food to eat?  
+
+STUDENT  
+ He spread some ashes thinly on the table,  
+ then seized a spit, went to the wrestling school,  
+ picked up a queer, and robbed him of his cloak,  
+ then sold the cloak to purchase dinner.[^note-215]
+
+STREPSIADES  
+ And we still admire Thales after that?[^note-216]                                                                                              
+ Come on, now, open up the Thinkery—  
+ let me see Socrates without delay.                                                                                           
+ I’m dying to learn. So open up the door.  
+
+[The doors of the Thinkery slide open to reveal Socrates’ students studying on a porch (not inside a room). They are in variously absurd positions and are all very thin and pale]  
+
+ By Hercules, who are all these creatures!  
+ What country are they from?  
+
+STUDENT  
+ You look surprised.  
+ What do they look like to you?  
+
+STREPSIADES  
+ Like prisoners—  
+ those Spartan ones from Pylos.[^note-217] But tell me—  
+ Why do these ones keep staring at the earth?  
+
+STUDENT  
+ They’re searching out what lies beneath the ground.  
+
+STREPSIADES  
+ Ah, they’re looking for some bulbs. Well now,  
+ you don’t need to worry any longer,  
+ not about that. I know where bulbs are found, 230             
+ lovely big ones, too. What about them?  
+ What are they doing like that, all doubled up?  
+
+STUDENT  
+ They’re sounding out the depths of Tartarus.  
+
+STREPSIADES  
+ Why are their arse holes gazing up to heaven?  
+
+STUDENT  
+ Directed studies in astronomy.  
+
+[The Student addresses the other students in the room]  
+
+ Go inside. We don’t want Socrates  
+ to find you all in here.  
+
+STREPSIADES  
+ Not yet, not yet.  
+ Let them stay like this, so I can tell them  
+ what my little problem is.  
+
+STUDENT  
+ It’s not allowed.  
+ They can’t spend too much time outside,                                                                        
+ not in the open air.  
+
+[The students get up from their studying positions and disappear into the interior of the Thinkery. Strepsiades starts inspecting the equipment on the walls and on the tables]  
+
+STREPSIADES  
+ My goodness,  
+ what is this thing? Explain it to me.                                                                                                       
+
+STUDENT  
+ That there’s astronomy.  
+
+STREPSIADES  
+ And what’s this?  
+
+STUDENT  
+ That’s geometry.  
+
+STREPSIADES  
+ What use is that?  
+
+STUDENT  
+ It’s used to measure land.  
+
+STREPSIADES  
+ You mean those lands  
+ handed out by lottery.[^note-218]
+
+STUDENT  
+ Not just that—  
+ it’s for land in general.  
+
+STREPSIADES  
+ A fine idea—  
+ useful . . . democratic, too.  
+
+STUDENT  
+ Look over here—  
+ here’s a map of the entire world. See?  
+ Right there, that’s Athens.  
+
+STREPSIADES  
+ What do you mean?                                                     
+ I don’t believe you. There are no jury men—  
+ I don’t see them sitting on their benches.  
+
+STUDENT  
+ No, no—this space is really Attica.[^note-219]
+
+STREPSIADES  
+ Where are the citizens of Cicynna,                                                                                                        
+ the people in my deme?[^note-220]
+
+STUDENT  
+ They’re right here.  
+ This is Euboea, as you can see,  
+ beside us, really stretched a long way out.  
+
+STREPSIADES  
+ I know—we pulled it apart, with Pericles.[^note-221]
+ Where abouts is Sparta?  
+
+STUDENT  
+ Where is it? Here.  
+
+STREPSIADES  
+ It’s close to us. You must rethink the place—                                      
+ shift it—put it far away from us.  
+
+STUDENT  
+ Can’t do that.  
+
+STREPSIADES [threatening] 
+ Do it, by god, or I’ll make you cry!  
+
+[Strepsiades notices Socrates descending from above in a basket suspended from a rope]  
+
+ Hey, who’s the man in the basket—up there?  
+
+STUDENT  
+ The man himself.  
+
+STREPSIADES  
+ Who’s that?  
+
+STUDENT  
+ Socrates.  
+
+STREPSIADES  
+ Socrates! Hey, call out to him for me—                                                                                             
+ make it loud.  
+
+STUDENT  
+ You’ll have to call to him yourself.  
+ I’m too busy now.  
+
+[The Student exits into the interior of the house]  
+
+STREPSIADES  
+ O Socrates . . .  
+ my dear little Socrates . . . hello . . .  
+
+SOCRATES  
+ Why call on me, you creature of a day?  
+
+STREPSIADES  
+ Well, first of all, tell me what you’re doing.                                                                  
+
+SOCRATES  
+ I tread the air, as I contemplate the sun.  
+
+STREPSIADES  
+ You’re looking down upon the gods up there,  
+ in that basket? Why not do it from the ground,  
+ if that’s what you’re doing?  
+
+SOCRATES  
+ Impossible!  
+ I’d never come up with a single thing  
+ about celestial phenomena,  
+ if I did not suspend my mind up high,  
+ to mix my subtle thoughts with what’s like them—                                                                  
+ the air. If I turned my mind to lofty things,  
+ but stayed there on the ground, I’d never make                                  
+ the least discovery. For the earth, you see,  
+ draws moist thoughts down by force into itself—  
+ the same process takes place with water cress.  
+
+STREPSIADES  
+ What are you talking about? Does the mind  
+ draw moisture into water cress? Come down,  
+ my dear little Socrates, down here to me,  
+ so you can teach me what I’ve come to learn.  
+
+[Socrates’ basket slowly descends]  
+
+SOCRATES  
+ Why have you come?  
+
+STREPSIADES  
+ I want to learn to argue.  
+ I’m being pillaged—ruined by interest                                                                                               
+ and by creditors I can’t pay off—                                                        
+ they’re slapping liens on all my property.  
+
+SOCRATES  
+ How come you got in such a pile of debt  
+ without your knowledge?  
+
+STREPSIADES  
+ I’ve been ravaged  
+ by disease—I’m horse sick. It’s draining me  
+ in the most dreadful way. But please teach me  
+ one of your two styles of arguing, the one  
+ which never has to discharge any debt.  
+ Whatever payment you want me to make,  
+ I promise you I’ll pay—by all the gods.  
+
+SOCRATES  
+ What gods do you intend to swear by?                                                                               
+ To start with, the gods hold no currency with us.  
+
+STREPSIADES  
+ Then, what currency do you use to swear?  
+ Is it iron coin, like in Byzantium?  
+
+SOCRATES  
+ Do you want to know the truth of things divine,                                                                     
+ the way they really are?  
+
+STREPSIADES  
+ Yes, by god, I do,  
+ if that’s possible.  
+
+SOCRATES  
+ And to commune and talk  
+ with our own deities the Clouds?  
+
+STREPSIADES  
+ Yes, I do.  
+
+SOCRATES  
+ Then sit down on the sacred couch.  
+
+STREPSIADES  
+ All right.  
+ I’m sitting down.  
+
+SOCRATES  
+ Take this wreath.  
+
+STREPSIADES  
+ Why a wreath?  
+ Oh dear, Socrates, don’t offer me up                                                   
+ in sacrifice, like Athamas.[^note-222]
+
+SOCRATES  
+ No, no.  
+ We go through all this for everyone—  
+ it’s their initiation.  
+
+STREPSIADES  
+ What do I get?  
+
+SOCRATES  
+ You’ll learn to be a clever talker,                                                                                                              
+ to rattle off a speech, to strain your words  
+ like flour. Just keep still.  
+
+[Socrates sprinkles flour all over Strepsiades]  
+
+STREPSIADES  
+ By god, that’s no lie!  
+ I’ll turn into flour if you keep sprinkling me.  
+
+SOCRATES  
+ Old man, be quiet. Listen to the prayer.  
+
+[Socrates shuts his eyes to recite his prayer]  
+
+ O Sovereign Lord, O Boundless Air,  
+ who keeps the earth suspended here in space,                                                           
+ O Bright Sky, O Sacred Goddesses—  
+ the Thunder-bearing Clouds—arise,  
+ you holy ladies, issue forth on high,  
+ before the man who holds you in his mind.  
+
+STREPSIADES [lifting his cloak to cover his head]  
+ Not yet, not yet. Not ‘til I wrap this cloak  
+ like this so I don’t get soaked. What bad luck,  
+ to leave my home without a cap on.  
+
+SOCRATES [ignoring Strepsiades]  
+ Come now, you highly honoured Clouds, come—  
+ manifest yourselves to this man here—  
+ whether you now sit atop Olympus, 330             
+ on those sacred snow-bound mountain peaks,  
+ or form the holy choruses with nymphs  
+ in gardens of their father Ocean,  
+ or gather up the waters of the Nile  
+ in golden flagons at the river’s mouths,  
+ or dwell beside the marsh of Maeotis  
+ or snowy rocks of Mimas—hear my call,  
+ accept my sacrifice, and then rejoice  
+ in this holy offering I make.  
+
+CHORUS [heard offstage]  
+ Everlasting Clouds—                                                                          
+ let us arise, let us reveal  
+ our moist and natural radiance—  
+ moving from the roaring deep  
+ of father Ocean to the tops  
+ of tree-lined mountain peaks,                                                                                                              
+ where we see from far away  
+ the lofty heights, the sacred earth,  
+ whose fruits we feed with water,  
+ the murmuring of sacred rivers,  
+ the roaring of the deep-resounding sea.                                                                     
+ For the unwearied eye of heaven  
+ blazes forth its glittering beams.  
+ Shake off this misty shapelessness  
+ from our immortal form and gaze upon  
+ the earth with our far-reaching eyes.                                                                                             
+
+SOCRATES  
+ O you magnificent and holy Clouds,  
+ you’ve clearly heard my call.  
+
+[To Strepsiades]  
+
+ Did you hear that voice  
+ intermingled with the awesome growl of thunder?  
+
+STREPSIADES  
+ O you most honoured sacred goddesses,  
+ in answer to your thunder call I’d like to fart—                                  
+ it’s made me so afraid—if that’s all right . . .  
+
+[Strepsiades pull down his pants and farts loudly in the direction of the offstage Chorus]  
+
+ Oh, oh, whether right nor not, I need to shit.  
+
+SOCRATES  
+ Stop being so idiotic, acting like  
+ a stupid damn comedian. Keep quiet.  
+ A great host of deities is coming here—  
+ they’re going to sing.  
+
+CHORUS [still offstage]  
+ O you maidens bringing rain—  
+ let’s move on to that brilliant place,                                                                                               
+ to gaze upon the land of Pallas,  
+ where such noble men inhabit                                                        
+ Cecrops’ lovely native home,[^note-223]
+ where they hold those sacred rites  
+ no one may speak about,  
+ where the temple of the mysteries  
+ is opened up in holy festivals,[^note-224]
+ with gifts for deities in heaven,  
+ what lofty temples, holy statues,  
+ most sacred supplication to the gods,  
+ with garlands for each holy sacrifice,  
+ and festivals of every kind 380             
+ in every season of the year,  
+ including, when the spring arrives,  
+ that joyful Dionysian time,  
+ with rousing choruses of song,  
+ resounding music of the pipes.  
+
+STREPSIADES  
+ By god, Socrates, tell me, I beg you,  
+ who these women are who sing so solemnly.  
+ Are they some special kind of heroines?  
+
+SOCRATES  
+ No—they’re heavenly Clouds, great goddesses  
+ for lazy men—from them we get our thoughts,                                                        
+ our powers of speech, our comprehension,  
+ our gift for fantasy and endless talk,  
+ our power to strike responsive chords in speech  
+ and then rebut opponents’ arguments.  
+
+STREPSIADES  
+ Ah, that must be why, as I heard their voice,  
+ my soul took wing, and now I’m really keen  
+ to babble on of trivialities,  
+ to argue smoke and mirrors, to deflate                                                                                              
+ opinions with a small opinion of my own,  
+ to answer someone’s reasoned argument                                            
+ with my own counter-argument. So now,  
+ I’d love to see them here in front of me,  
+ if that’s possible.  
+
+SOCRATES  
+ Just look over there—  
+ towards Mount Parnes. I see them coming,  
+ slowly moving over here.[^note-225]
+
+STREPSIADES  
+ Where? Point them out.  
+
+SOCRATES  
+ They’re coming down here through the valleys—  
+ a whole crowd of them—there in the thickets,  
+ right beside you.  
+
+STREPSIADES  
+ This is weird. I don’t see them.  
+
+SOCRATES [pointing into the wings of the theatre]  
+ There—in the entrance way.  
+
+STREPSIADES  
+ Ah, now I see—  
+ but I can barely make them out.  
+
+[The Clouds enter from the wings]  
+
+SOCRATES  
+ There—                               
+ surely you can see them now, unless your eyes  
+ are swollen up like pumpkins.  
+
+STREPSIADES  
+ I see them.  
+ My god, what worthy noble presences!  
+ They’re taking over the entire space.  
+
+SOCRATES  
+ You weren’t aware that they are goddesses?  
+ You had no faith in them?  
+
+STREPSIADES  
+ I’d no idea.  
+ I thought clouds were mist and dew and vapour.                                                                     
+
+SOCRATES  
+ You didn’t realize these goddesses  
+ support a multitude of charlatans—  
+ prophetic seers from Thurium, quacks                                                
+ who specialize in books on medicine,  
+ lazy long-haired types with onyx signet rings,  
+ poets who produce the twisted choral music  
+ for dithyrambic songs, those with airy minds—  
+ all such men so active doing nothing  
+ the Clouds support, since in their poetry  
+ these people celebrate the Clouds.  
+
+STREPSIADES  
+ Ah ha, so that’s why they poeticize  
+ ”the whirling radiance of watery clouds  
+ as they advance so ominously,”                                                                                                 
+ ”waving hairs of hundred-headed Typho,”[^note-226]
+ with “roaring tempests,” and then “liquid breeze,”  
+ or ”crook-taloned, sky-floating birds of prey,”  
+ ”showers of rain from dewy clouds”—and then,  
+ as a reward for this, they stuff themselves  
+ on slices carved from some huge tasty fish  
+ or from a thrush.[^note-227]
+
+SOCRATES  
+ Yes, thanks to these Clouds.                                                                  
+ Is that not truly just?  
+
+STREPSIADES  
+ All right, tell me this—  
+ if they’re really clouds, what’s happened to them?  
+ They look just like mortal human women.                                                                    
+ The clouds up there are not the least like that.  
+
+SOCRATES  
+ What are they like?  
+
+STREPSIADES  
+ I don’t know exactly.  
+ They look like wool once it’s been pulled apart—  
+ not like women, by god, not in the least.  
+ These ones here have noses.  
+
+SOCRATES  
+ Let me ask you something.  
+ Will you answer me?  
+
+STREPSIADES  
+ Ask me what you want.  
+ Fire away.  
+
+SOCRATES  
+ Have you ever gazed up there  
+ and seen a cloud shaped like a centaur,  
+ or a leopard, wolf, or bull?  
+
+STREPSIADES  
+ Yes, I have.  
+ So what?  
+
+SOCRATES  
+ They become anything they want.                                                  
+ So if they see some hairy savage type,  
+ one of those really wild and wooly men,  
+ like Xenophantes’ son, they mock his moods,  
+ transforming their appearance into centaurs.[^note-228]                                                                          
+
+STREPSIADES  
+ What if they glimpse a thief of public funds,  
+ like Simon? What do they do then?[^note-229]
+
+SOCRATES  
+ They expose  
+ just what he’s truly like—they change at once,  
+ transform themselves to wolves.  
+
+STREPSIADES  
+ Ah ha, I see.  
+ So that’s why yesterday they changed to deer.  
+ They must have caught sight of Cleonymos—                                     
+ the man who threw away his battle shield—  
+ they knew he was fearful coward.[^note-230]
+
+SOCRATES  
+ And now it’s clear they’ve seen Cleisthenes—  
+ that’s why, as you can see, they’ve changed to women.[^note-231]
+
+STREPSIADES [to the Chorus of Clouds]  
+ All hail to you, lady goddesses.  
+ And now, if you have ever spoken out  
+ to other men, let me hear your voice,  
+ you queenly powers.  
+
+CHORUS LEADER  
+ Greetings to you, old man born long ago,  
+ hunter in love with arts of argument—                                               
+ you, too, high priest of subtlest nonsense,  
+ tell us what you want. Of all the experts                                                                                           
+ in celestial matters at the present time,  
+ we take note of no one else but you—  
+ and Prodicus[^note-232]—because he’s sharp and wise,  
+ while you go swaggering along the street,  
+ in bare feet, shifting both eyes back and forth.  
+ You keep moving on through many troubles,  
+ looking proud of your relationship with us.  
+
+STREPSIADES  
+ By the Earth, what voices these Clouds have—                                    
+ so holy, reverent, and marvelous!  
+
+SOCRATES  
+ Well, they’re the only deities we have—  
+ the rest are just so much hocus pocus.  
+
+STREPSIADES  
+ Hang on—by the Earth, isn’t Zeus a god,  
+ the one up there on Mount Olympus?  
+
+SOCRATES  
+ What sort of god is Zeus? Why spout such rubbish?  
+ There’s no such being as Zeus.  
+
+STREPSIADES  
+ What do you mean?  
+ Then who brings on the rain? First answer that.  
+
+SOCRATES  
+ Why, these women do. I’ll prove that to you  
+ with persuasive evidence. Just tell me— 490             
+ where have you ever seen the rain come down  
+ without the Clouds being there? If Zeus brings rain,  
+ then he should do so when the sky is clear,  
+ when there are no Clouds in view.  
+
+STREPSIADES  
+ By Apollo, you’ve made a good point there—  
+ it helps your argument. I used to think  
+ rain was really Zeus pissing through a sieve.  
+ Tell me who causes thunder? That scares me.  
+
+SOCRATES  
+ These Clouds do, as they roll around.  
+
+STREPSIADES  
+ But how?  
+ Explain that, you who dares to know it all.                                                                    
+
+SOCRATES  
+ When they are filled with water to the brim  
+ and then, suspended there with all that rain,  
+ are forced to move, they bump into each other.  
+ They’re so big, they burst with a great boom.  
+
+STREPSIADES  
+ But what’s forcing them to move at all?  
+ Doesn’t Zeus do that?  
+
+SOCRATES  
+ No—that’s the aerial Vortex.[^note-233]
+
+STREPSIADES  
+ Vortex? Well, that’s something I didn’t know.                                                                            
+ So Zeus is now no more, and Vortex rules  
+ instead of him. But you still have not explained  
+ a thing about those claps of thunder.                                                                                   
+
+SOCRATES  
+ Weren’t you listening to me? I tell you,  
+ when the Clouds are full of water and collide,  
+ they’re so thickly packed they make a noise.  
+
+STREPSIADES  
+ Come on now—who’d ever believe that stuff?  
+
+SOCRATES  
+ I’ll explain, using you as a test case.  
+ Have you ever gorged yourself on stew  
+ at the Panathenaea and later  
+ had an upset stomach—then suddenly  
+ some violent movement made it rumble?[^note-234]
+
+STREPSIADES  
+ Yes, by Apollo! It does weird things—                                                 
+ I feel unsettled. That small bit of stew  
+ rumbles around and makes strange noises,  
+ just like thunder. At first it’s quite quiet—                                                                                      
+ ”pappax pappax”—then it starts getting louder—  
+ ”papapappax”—and when I take a shit,  
+ it really thunders “papapappax”—  
+ just like these Clouds.  
+
+SOCRATES  
+ So think about it—  
+ if your small gut can make a fart like that,  
+ why can’t the air, which goes on for ever,  
+ produce tremendous thunder. Then there’s this—                               
+ consider how alike these phrases sound,  
+ ”thunder clap” and “fart and crap.”  
+
+STREPSIADES  
+ All right, but then explain this to me—  
+ Where does lightning come from, that fiery blaze,  
+ which, when it hits, sometimes burns us up,  
+ sometimes just singes us and lets us live?  
+ Clearly Zeus is hurling that at perjurers.  
+
+SOCRATES  
+ You stupid driveling idiot, you stink  
+ of olden times, the age of Cronos![^note-235] If Zeus  
+ is really striking at the perjurers,                                                                                              
+ how come he’s not burned Simon down to ash,  
+ or else Cleonymos or Theorus?  
+ They perjure themselves more than anyone.                                                                               
+ No. Instead he strikes at his own temple  
+ at Sunium, our Athenian headland,  
+ and at his massive oak trees there. Why?  
+ What’s his plan? Oak trees can’t be perjured.  
+
+STREPSIADES  
+ I don’t know. But that argument of yours  
+ seems good. All right, then, what’s a lightning bolt?  
+
+SOCRATES  
+ When a dry wind blows up into the Clouds                                         
+ and gets caught in there, it makes them inflate,  
+ like the inside of a bladder. And then  
+ it has to burst them all apart and vent,  
+ rushing out with violence brought on  
+ by dense compression—its force and friction  
+ cause it to consume itself in fire.  
+
+STREPSIADES  
+ By god, I went through that very thing myself—  
+ at the feast for Zeus. I was cooking food,  
+ a pig’s belly, for my family. I forgot  
+ to slit it open. It began to swell— 560             
+ then suddenly blew up, splattering blood  
+ in both my eyes and burning my whole face.  
+
+CHORUS LEADER  
+ O you who seeks from us great wisdom,  
+ how happy you will be among Athenians,  
+ among the Greeks, if you have memory,  
+ if you can think, if in that soul of yours  
+ you’ve got the power to persevere,  
+ and don't get tired standing still or walking,  
+ nor suffer too much from the freezing cold,  
+ with no desire for breakfast, if you abstain                                         
+ from wine, from exercise, and other foolishness,  
+ if you believe, as all clever people should,  
+ the highest good is victory in action,  
+ in deliberation and in verbal wars.  
+
+STREPSIADES  
+ Well, as for a stubborn soul and a mind                                                                                           
+ thinking in a restless bed, while my stomach,  
+ lean and mean, feeds on bitter herbs, don’t worry.  
+ I’m confident about all that—I’m ready  
+ to be hammered on your anvil into shape.  
+
+SOCRATES  
+ So now you won’t acknowledge any gods                                            
+ except the ones we do—Chaos, the Clouds,  
+ the Tongue—just these three?  
+
+STREPSIADES  
+ Absolutely—  
+ I’d refuse to talk to any other gods,  
+ if I ran into them—and I decline  
+ to sacrifice or pour libations to them.  
+ I’ll not provide them any incense.  
+
+CHORUS LEADER  
+ Tell us then what we can do for you.  
+ Be brave—for if you treat us with respect,  
+ if you admire us, and if you’re keen  
+ to be a clever man, you won’t go wrong.                                                                         
+
+STREPSIADES  
+ O you sovereign queens,  
+ from you I ask one really tiny favour—  
+ to be the finest speaker in all Greece,                                                                                                 
+ within a hundred miles.  
+
+CHORUS LEADER  
+ You’ll get that from us.  
+ From now on, in time to come, no one will win  
+ more votes among the populace than you.  
+
+STREPSIADES  
+ No speaking on important votes for me!  
+ That’s not what I’m after. No, no. I want  
+ to twist all legal verdicts in my favour,  
+ to evade my creditors.  
+
+CHORUS LEADER  
+ You’ll get that,                                                                      
+ just what you desire. For what you want  
+ is nothing special. So be confident—  
+ give yourself over to our agents here.  
+
+STREPSIADES  
+ I’ll do that—I’ll place my trust in you.  
+ Necessity is weighing me down—the horses,  
+ those thoroughbreds, my marriage—all that  
+ has worn me out. So now, this body of mine                                                                               
+ I’ll give to them, with no strings attached,  
+ to do with as they like—to suffer blows,  
+ go without food and drink, live like a pig,                                                                      
+ to freeze or have my skin flayed for a pouch—  
+ if I can just get out of all my debt  
+ and make men think of me as bold and glib,  
+ as fearless, impudent, detestable,  
+ one who cobbles lies together, makes up words,  
+ a practised legal rogue, a statute book,  
+ a chattering fox, sly and needle sharp,  
+ a slippery fraud, a sticky rascal,  
+ foul whipping boy or twisted villain,                                                                                                     
+ troublemaker, or idly prattling fool.                                                                                     
+ If they can make those who run into me  
+ call me these names, they can do what they want—  
+ no questions asked. If, by Demeter, they’re keen,  
+ they can convert me into sausages  
+ and serve me up to men who think deep thoughts.  
+
+CHORUS  
+ Here’s a man whose mind’s now smart,  
+ no holding back—prepared to start  
+ When you have learned all this from me                                                                                         
+ you know your glory will arise 
+ among all men to heaven’s skies.                                                                                            
+
+STREPSIADES  
+ What must I undergo?  
+
+CHORUS  
+ For all time, you’ll live with me  
+ a life most people truly envy.  
+
+STREPSIADES  
+ You mean I’ll really see that one day?  
+
+CHORUS  
+ Hordes will sit outside your door  
+ wanting your advice and more—                                                                                                             
+ to talk, to place their trust in you  
+ for their affairs and lawsuits, too,  
+ things which merit your great mind.  
+ They’ll leave you lots of cash behind.                                                                                   
+
+CHORUS LEADER [to Socrates]  
+ So get started with this old man’s lessons,  
+ what you intend to teach him first of all—  
+ rouse his mind, test his intellectual powers.  
+
+SOCRATES  
+ Come on then, tell me the sort of man you are—  
+ once I know that, I can bring to bear on you  
+ my latest batteries with full effect.                                                                                                          
+
+STREPSIADES  
+ What’s that? By god, are you assaulting me?  
+
+SOCRATES  
+ No—I want to learn some things from you.  
+ What about your memory?  
+
+STREPSIADES  
+ To tell the truth  
+ it works two ways. If someone owes me something,                                                  
+ I remember really well. But if it’s poor me  
+ that owes the money, I forget a lot.  
+
+SOCRATES  
+ Do you have any natural gift for speech?  
+
+STREPSIADES  
+ Not for speaking—only for evading debt.  
+
+SOCRATES  
+ So how will you be capable of learning?  
+
+STREPSIADES  
+ Easily—that shouldn’t be your worry.  
+
+SOCRATES  
+ All right. When I throw out something wise  
+ about celestial matters, you make sure  
+ you snatch it right away.                                                                                                                                   
+
+STREPSIADES  
+ What’s that about?  
+ Am I to eat up wisdom like a dog?                                                                                          
+
+SOCRATES [aside] 
+ This man’s an ignorant barbarian!  
+ Old man, I fear you may need a beating.  
+
+[to Strepsiades]  
+
+ Now, what do you do if someone hits you?  
+
+STREPSIADES  
+ If I get hit, I wait around a while,  
+ then find witnesses, hang around some more,  
+ then go to court.  
+
+SOCRATES  
+ All right, take off your cloak.  
+
+STREPSIADES  
+ Have I done something wrong?  
+
+SOCRATES  
+ No. It’s our custom  
+ to go inside without a cloak.  
+
+STREPSIADES  
+ But I don’t want  
+ to search your house for stolen stuff.[^note-236]
+
+SOCRATES  
+ What are you going on about? Take it off.                                                                     
+
+STREPSIADES [removing his cloak and his shoes]  
+ So tell me this—if I pay attention                                                                                                            
+ and put some effort into learning,  
+ which of your students will I look like?  
+
+SOCRATES  
+ In appearance there’ll be no difference  
+ between yourself and Chaerephon.  
+
+STREPSIADES  
+ Oh, that’s bad.  
+ You mean I’ll be only half alive?  
+
+SOCRATES  
+ Don’t talk such rubbish! Get a move on  
+ and follow me inside. Hurry up!  
+
+STREPSIADES  
+ First, put a honey cake here in my hands.                                                                      
+ I’m scared of going down in there. It’s like  
+ going in Trophonios’ cave.[^note-237]
+
+SOCRATES  
+ Go inside.  
+ Why keep hanging round this doorway?  
+
+[Socrates picks up Strepsiades’ cloak and shoes. Then Strepsiades and Socrates exit into the interior of theThinkery]  
+
+CHORUS LEADER  
+ Go. And may you enjoy good fortune,                                                         
+ a fit reward for all your bravery.  
+
+CHORUS  
+ We hope this man  
+ thrives in his plan.  
+ For at his stage  
+ of great old age                                                                    
+ he’ll take a dip  
+ in new affairs  
+ to act the sage.  
+
+CHORUS LEADER [stepping forward to address the audience directly]  
+ You spectators, I’ll talk frankly to you now,  
+ and speak the truth, in the name of Dionysus,  
+ who has cared for me ever since I was a child.  
+ So may I win and be considered a wise man.[^note-238]                                                                           
+ For I thought you were a discerning audience  
+ and this comedy the most intelligent  
+ of all my plays. Thus, I believed it worth my while                               
+ to produce it first for you, a work which cost me  
+ a great deal of effort. But I left defeated,  
+ beaten out by vulgar men—which I did not deserve.  
+ I place the blame for this on you intellectuals,  
+ on whose behalf I went to all that trouble.  
+ But still I won’t ever willingly abandon  
+ the discriminating ones among you all,  
+ not since that time when my play about two men—  
+ one was virtuous, the other one depraved—  
+ was really well received by certain people here,                                                       
+ whom it pleases me to mention now. As for me,  
+ I was still unmarried, not yet fully qualified                                                                                  
+ to produce that child. But I exposed my offspring,  
+ and another woman carried it away.  
+ In your generosity you raised and trained it.[^note-239]
+ Since then I’ve had sworn testimony from you  
+ that you have faith in me. So now, like old Electra,  
+ this comedy has come, hoping she can find,  
+ somewhere in here, spectators as intelligent.  
+ If she sees her brother’s hair, she’ll recognize it.[^note-240]                                                    
+ Consider how my play shows natural restraint.  
+ First, she doesn't have stitched leather dangling down,  
+ with a thick red knob, to make the children giggle.[^note-241]
+ She hasn’t mocked bald men or danced some drunken reel.                                              
+ There’s no old man who talks and beats those present  
+ with a stick to hide bad jokes. She doesn’t rush on stage  
+ with torches or raise the cry “Alas!” or “Woe is me!”  
+ No—she’s come trusting in herself and in the script.  
+ And I’m a poet like that. I don’t preen myself.  
+ I don’t seek to cheat you by re-presenting here                                  
+ the same material two or three times over.  
+ Instead I base my art on framing new ideas,  
+ all different from the rest, and each one very deft.  
+ When Cleon was all-powerful, I went for him.  
+ I hit him in the gut. But once he was destroyed,  
+ I didn’t have the heart to kick at him again.                                                                                 
+ Yet once Hyperbolos let others seize on him,  
+ they’ve not ceased stomping on the miserable man—  
+ and on his mother, too.[^note-242] The first was Eupolis—  
+ he dredged up his Maricas, a wretched rehash                                    
+ of my play The Knights—he’s such a worthless poet—  
+ adding an aging female drunk in that stupid dance,  
+ a woman Phrynichos invented years ago,  
+ the one that ocean monster tried to gobble up.[^note-243]
+ Then Hermippos wrote again about Hyperbolos,  
+ Now all the rest are savaging the man once more,  
+ copying my images of eels. If anyone  
+ laughs at those plays, I hope mine don’t amuse him.                                                                  
+ But if you enjoy me and my inventiveness,  
+ then future ages will commend your worthy taste.                                                  
+
+CHORUS  
+ For my dance I first here call  
+ on Zeus, high-ruling king of all  
+ among the gods—and on Poseidon,  
+ so great and powerful—the one  
+ who with his trident wildly heaves  
+ the earth and all the brine-filled seas,  
+ and on our famous father Sky,  
+ the most revered, who can supply                                                                                
+ all things with life. And I invite  
+ the Charioteer whose dazzling light                                    
+ fills this wide world so mightily  
+ for every man and deity.  
+
+CHORUS LEADER  
+ The wisest in this audience should here take note—  
+ you’ve done us wrong, and we confront you with the blame.  
+ We confer more benefits than any other god  
+ upon your city, yet we’re the only ones  
+ to whom you do not sacrifice or pour libations,  
+ though we’re the gods who keep protecting you.  
+ If there’s some senseless army expedition,                                                                                     
+ then we respond by thundering or bringing rain.                                                  
+ And when you were selecting as your general  
+ that Paphlagonian tanner hated by the gods,[^note-244]
+ we frowned and then complained aloud—our thunder pealed  
+ among the lightning bursts, the moon moved off her course,  
+ the sun at once pulled his wick back inside himself,  
+ and said if Cleon was to be your general  
+ then he’d give you no light. Nonetheless, you chose him.  
+ They say this city likes to make disastrous choices,  
+ but that the gods, no matter what mistakes you make,  
+ convert them into something better. If you want                                
+ your recent choice to turn into a benefit,  
+ I can tell you how—it’s easy. Condemn the man—                                                                  
+ that seagull Cleon—for bribery and theft.[^note-245]
+ Set him in the stocks, a wooden yoke around his neck.  
+ Then, even if you’ve made a really big mistake,  
+ for you things will be as they were before your vote,  
+ and for the city this affair will turn out well.  
+
+CHORUS  
+ Phoebus Apollo, stay close by,  
+ lord of Delos, who sits on high,  
+ by lofty Cynthos mountain sides;                                                                  
+ and holy lady, who resides  
+ in Ephesus, in your gold shrine,  
+ where Lydian girls pray all the time;                                                                          
+ Athena, too, who guards our home,  
+ her aegis raised above her own,  
+ and he who holds Parnassus peaks  
+ and shakes his torches as he leaps,  
+ lord Dionysus, whose shouts call  
+ amid the Delphic bacchanal.[^note-246]
+
+CHORUS LEADER  
+ When we were getting ready to move over here,                                                    
+ Moon met us and told us, first of all, to greet,  
+ on her behalf, the Athenians and their allies.  
+ Then she said she was upset—the way you treat her                                                                  
+ is disgraceful, though she brings you all benefits—  
+ not just in words but in her deeds. To start with,  
+ she saves you at least one drachma every month            
+ for torchlight— in the evening, when you go outside,  
+ you all can say, “No need to buy a torch, my boy,  
+ Moon’s light will do just fine.” She claims she helps you all  
+ in other ways, as well, but you don’t calculate                                     
+ your calendar the way you should—no, instead             
+ you make it all confused, and that’s why, she says,  
+ the gods are always making threats against her,  
+ when they are cheated of a meal and go back home  
+ because their celebration has not taken place  
+ according to a proper count of all the days.[^note-247]
+ And then, when you should be making sacrifice,                                                                     
+ you’re torturing someone or have a man on trial.  
+ And many times, when we gods undertake a fast,  
+ because we’re mourning Memnon or Sarpedon,[^note-248]                                                  
+ you’re pouring out libations, having a good laugh.  
+ That’s the reason, after his choice by lot this year  
+ to sit on the religious council, Hyperbolos  
+ had his wreath of office snatched off by the gods.  
+ That should make him better understand the need  
+ to count the days of life according to the moon.[^note-249]
+
+[Enter Socrates from the interior of the Thinkery]  
+
+SOCRATES  
+ By Respiration, Chaos, and the Air,  
+ I’ve never seen a man so crude, stupid,  
+ clumsy, and forgetful. He tries to learn  
+ the tiny trifles, but then he forgets 830             
+ before he’s even learned them. Nonetheless,  
+ I’ll call him outside here into the light.  
+
+[Socrates calls back into the interior of the Thinkery]  
+
+ Strepsiades, where are you? Come on out—  
+ and bring your bed.  
+
+STREPSIADES [from inside]  
+ I can’t carry it out—  
+ the bugs won’t let me.  
+
+SOCRATES  
+ Get a move on. Now!  
+
+[Strepsiades enters carrying his bedding]  
+
+SOCRATES  
+ Put it there. And pay attention.  
+
+STREPSIADES [putting the bed down]  
+ There!  
+
+SOCRATES  
+ Come now, of all the things you never learned  
+ what to you want to study first? Tell me.  
+
+[Strepsiades is very puzzled by the question]  
+
+SOCRATES  
+ Poetic measures? Diction? Rhythmic verse?  
+
+STREPSIADES  
+ I’ll take measures. Just the other day                                                   
+ the man who deals in barley cheated me—                                                                                   
+ about two quarts.  
+
+SOCRATES  
+ That’s not what I mean.  
+ Which music measure is most beautiful—  
+ the triple measure or quadruple measure?  
+
+STREPSIADES  
+ As a measure nothing beats a gallon.  
+
+SOCRATES  
+ My dear man, you’re just talking nonsense.  
+
+STREPSIADES  
+ Then make me a bet—I say a gallon  
+ is made up of quadruple measures.  
+
+SOCRATES 
+ O damn you—you’re such a country bumpkin—  
+ so slow! Maybe you can learn more quickly                                        
+ if we deal with rhythm.  
+
+STREPSIADES  
+ Will these rhythms  
+ help to get me food?  
+
+SOCRATES  
+ Well, to begin with,  
+ they’ll make you elegant in company—  
+ and you’ll recognize the different rhythms,                                                                                   
+ the enoplian and the dactylic,  
+ which is like a digit.[^note-250]
+
+STREPSIADES  
+ Like a digit!  
+ By god, that’s something I do know!  
+
+SOCRATES  
+ Then tell me.  
+
+STREPSIADES  
+ When I was a lad a digit meant this!  
+
+[Strepsiades sticks his middle finger straight up under Socrates’ nose]  
+
+SOCRATES  
+ You’re just a crude buffoon!  
+
+STREPSIADES  
+ No, you’re a fool—  
+ I don’t want to learn any of that stuff.                                                                                
+
+SOCRATES  
+ Well then, what?  
+
+STREPSIADES  
+ You know, that other thing—  
+ how to argue the most unjust cause.  
+
+SOCRATES  
+ But you need to learn these other matters  
+ before all that. Now, of the quadrupeds  
+ which one can we correctly label male?  
+
+STREPSIADES  
+ Well, I know the males, if I’m not witless—                                                                                  
+ the ram, billy goat, bull, dog, and fowl.  
+
+SOCRATES  
+ And the females?  
+
+STREPSIADES  
+ The ewe, nanny goat,  
+ cow, bitch and fowl.[^note-251]
+
+SOCRATES  
+ You see what you’re doing?  
+ You’re using that word “fowl” for both of them,                                                       
+ Calling males what people use for females.  
+
+STREPSIADES  
+ What’s that? I don’t get it.  
+
+SOCRATES  
+ What’s not to get?  
+        ”Fowl” and “Fowl” . . .  
+
+STREPSIADES  
+ By Poseidon, I see your point.  
+ All right, what should I call them?  
+
+SOCRATES  
+ Call the male a “fowl”—  
+ and call the other one “fowlette.”  
+
+STREPSIADES  
+                                                                “Fowlette?”  
+ By the Air, that’s good! Just for teaching that  
+ I’ll fill your kneading basin up with flour,  
+ right to the brim.[^note-252]
+
+SOCRATES  
+ Once again, another error!                                                                                      
+ You called it basin—a masculine word—  
+ when it’s feminine.  
+
+STREPSIADES  
+ How so? Do I call                                            
+ the basin masculine?  
+
+SOCRATES  
+ Indeed you do.  
+ It’s just like Cleonymos.[^note-253]
+
+STREPSIADES  
+ How’s that?  
+ Tell me.  
+
+SOCRATES  
+ You treated the word basin  
+ just as you would treat Cleonymos.  
+
+STREPSIADES [totally bewildered by the conversation]  
+ But my dear man, he didn’t have a basin—  
+ not Cleonymos—not for kneading flour.  
+ His round mortar was his prick—the wanker—  
+ he kneaded that to masturbate.[^note-254] 
+ But what should I call a basin from now on?  
+
+SOCRATES  
+ Call it a basinette, just as you’d say                                                     
+ the word Sostratette.  
+
+STREPSIADES  
+ Basinette—it’s feminine?  
+
+SOCRATES  
+ It is indeed.  
+
+STREPSIADES  
+ All right, then, I should say  
+ Cleonymette and basinette.[^note-255]                                                                                                                       
+
+SOCRATES  
+ You’ve still got to learn about people’s names—  
+ which ones are male and which are female.  
+
+STREPSIADES  
+ I know which ones are feminine.  
+
+SOCRATES  
+ Go on.  
+
+STREPSIADES  
+ Lysilla, Philinna, Cleitagora,  
+ Demetria . . .  
+
+SOCRATES  
+ Which names are masculine?  
+
+STREPSIADES  
+ There are thousands of them—Philoxenos,  
+ Melesias, Amynias . . .  
+
+SOCRATES  
+ You fool,                                                                                  
+ those names are not all masculine.[^note-256]
+
+STREPSIADES  
+ What?  
+ You don’t think of them as men?  
+
+SOCRATES  
+ Indeed I don’t.  
+ If you met Amynias, how would you greet him?  
+
+STREPSIADES 
+ How? Like this, “Here, Amynia, come here.”[^note-257]                                                                            
+
+SOCRATES  
+ You see? You said "Amynia," a woman’s name.  
+
+STREPSIADES  
+ And that’s fair enough, since she’s unwilling  
+ to do army service. But what’s the point?  
+ Why do I need to learn what we all know?  
+
+SOCRATES  
+ That’s irrelevant, by god. Now lie down—  
+
+[indicating the bed] 
+
+ right here.  
+
+STREPSIADES  
+ And do what?  
+
+SOCRATES  
+ You should contemplate—                               
+ think one of your own problems through.  
+
+STREPSIADES  
+ Not here,  
+ I beg you—no. If I have to do it,  
+ let me do my contemplating on the ground.  
+
+SOCRATES  
+ No—you’ve got no choice.  
+
+STREPSIADES [crawling very reluctantly into the bedding]  
+ Now I’m done for—  
+ these bugs are going to punish me today.  
+
+[Socrates exits back into the Thinkery]  
+
+CHORUS  
+ Now ponder and think,                                                                                                           
+ focus this way and that.  
+ Your mind turn and toss.  
+ And if you’re at a loss,  
+ then quickly go find                                                             
+ a new thought in your mind.  
+ From your eyes you must keep  
+ all soul-soothing sleep.  
+
+STREPSIADES  
+ O god . . . ahhhhh . . .  
+
+CHORUS  
+ What’s wrong with you? Why so distressed?  
+
+STREPSIADES  
+ I’m dying a miserable death in here!  
+ These Corinthian crawlers keep biting me.[^note-258]                                                                                
+ gnawing on my ribs,  
+ slurping up my blood,  
+ yanking off my balls,                                                                                                                            
+ tunneling up my arse hole—  
+ they’re killing me!  
+
+CHORUS  
+ Don’t complain so much.  
+
+STREPSIADES  
+ Why not? When I’ve lost my goods,  
+ lost the colour in my cheeks, lost my blood,  
+ lost my shoes, and, on top of all these troubles,                                                                       
+ I’m here like some night watchman singing out—  
+ it won’t be long before I’m done for.  
+
+{Enter Socrates from inside the Thinkery]  
+
+SOCRATES  
+ What are you doing? Aren’t you thinking something?  
+
+STREPSIADES  
+ Me? Yes I am, by Poseidon.  
+
+SOCRATES  
+ What about?                                                                
+
+STREPSIADES  
+ Whether there’s going to be any of me left           
+ once these bugs have finished.  
+
+SOCRATES  
+ You imbecile,  
+ why don’t you drop dead!  
+
+[Socrates exits back into the Thinkery]  
+
+STREPSIADES  
+ But my dear man,  
+ I’m dying right now.  
+
+CHORUS LEADER  
+ Don’t get soft. Cover up—  
+ get your whole body underneath the blanket.  
+ You need to find a good idea for fraud,  
+ a sexy way to cheat.  
+
+STREPSIADES  
+ Damn it all—  
+ instead of these lambskins here, why won’t someone  
+ throw over me a lovely larcenous scheme?                                                                                    
+
+[Strepsiades covers his head with the wool blankets. Enter Socrates from the Thinkery and looks around thinking what to do]  
+
+SOCRATES  
+ First, I’d better check on what he’s doing.                                                                       
+ You in there, are you asleep?  
+
+STREPSIADES [uncovering his head]  
+ No, I’m not.  
+
+SOCRATES  
+ Have you grasped anything?  
+
+STREPSIADES  
+ No, by god, I haven’t.  
+
+SOCRATES  
+ Nothing at all?  
+
+STREPSIADES  
+ I haven’t grasped a thing—  
+ except my right hand’s wrapped around my cock.  
+
+SOCRATES  
+ Then cover your head and think up something—  
+ get a move on!  
+
+STREPSIADES  
+ What should I think about?  
+ Tell me that, Socrates.  
+
+SOCRATES  
+ First you must formulate  
+ what it is you want. Then tell me.  
+
+STREPSIADES  
+ You’ve heard  
+ what I want a thousand times—I want to know  
+ about interest, so I’ll not have to pay                                                  
+ a single creditor.  
+
+SOCRATES  
+ Come along now,  
+ cover up.  
+
+[Strepsiades covers his head again, and Socrates speaks to him through the blanket]  
+
+ Now, carve your slender thinking                                                                  
+ into tiny bits, and think the matter through,  
+ with proper probing and analysis.  
+
+STREPSIADES 
+ Ahhh . . . bloody hell!  
+
+SOCRATES  
+ Don’t shift around.  
+ If one of your ideas is going nowhere,  
+ let it go, leave it alone. Later on,  
+ start it again and weigh it one more time.  
+
+STREPSIADES  
+ My dear little Socrates . . .  
+
+SOCRATES  
+ Yes, old man,  
+ what is it?  
+
+STREPSIADES  
+ I’ve got a lovely scheme                                       
+ to avoid paying interest.  
+
+SOCRATES  
+ Lay it out.  
+
+STREPSIADES  
+ All right. Tell me now . . .  
+
+SOCRATES  
+ What is it?  
+
+STREPSIADES  
+ What if I purchased a Thessalian witch  
+ and in the night had her haul down the moon—                                                                     
+ then shut it up in a circular box,  
+ just like a mirror, and kept watch on it.  
+
+SOCRATES  
+ How would that provide you any help?  
+
+STREPSIADES  
+ Well, if no moon ever rose up anywhere,  
+ I’d pay no interest.  
+
+SOCRATES  
+ And why is that?  
+
+STREPSIADES  
+ Because they lend out money by the month.                                                               
+
+SOCRATES  
+ That’s good. I’ll give you another problem—  
+ it’s tricky. If in court someone sued you  
+ to pay five talents, what would you do  
+ to get the case discharged.  
+
+STREPSIADES  
+ How? I don’t know.  
+ I’ll have to think.                                                                                                                                                       
+
+SOCRATES  
+ These ideas of yours—  
+ don’t keep them wound up all the time inside you.  
+ Let your thinking loose—out into the air—  
+ with thread around its foot, just like a bug.[^note-259]
+
+STREPSIADES  
+ Hey, I’ve devised a really clever way  
+ to make that lawsuit disappear—it’s so good,                                                              
+ you’ll agree with me.  
+
+SOCRATES  
+ What’s your way?  
+
+STREPSIADES  
+ At the drug seller’s shop have you seen  
+ that beautiful stone you can see right through,  
+ the one they use to start a fire?  
+
+SOCRATES  
+ You mean glass?  
+
+STREPSIADES  
+ Yes.  
+
+SOCRATES  
+ So what?  
+
+STREPSIADES  
+ What if I took that glass,  
+ and when the scribe was writing out the charge,                                                                      
+ I stood between him and the sun—like this—  
+ some distance off, and made his writing melt,  
+ just the part about my case?[^note-260]
+
+SOCRATES  
+ By the Graces,  
+ that’s a smart idea!  
+
+STREPSIADES  
+ Hey, I’m happy—                                           
+ I’ve erased my law suit for five talents.  
+
+SOCRATES  
+ So hurry up and tackle this next problem.  
+
+STREPSIADES  
+ What is it?  
+
+SOCRATES  
+ How would you evade a charge  
+ and launch a counter-suit in a hearing  
+ you’re about to lose without a witness?  
+
+STREPSIADES  
+ No problem there—it’s easy.  
+
+SOCRATES: So tell me.  
+
+STREPSIADES: I will. If there was a case still pending,  
+ another one before my case was called,  
+ I’d run off and hang myself.                                                                                                                          
+
+SOCRATES  
+ That’s nonsense.  
+
+STREPSIADES  
+ No, by the gods, it’s not. If I were dead,                                                                            
+ no one could bring a suit against me.  
+
+SOCRATES  
+ That’s rubbish. Just get away from here.  
+ I’ll not instruct you any more.  
+
+STREPSIADES  
+ Why not?  
+ Come on, Socrates, in god’s name.  
+
+SOCRATES  
+ There’s no point—  
+ as soon as you learn anything, it’s gone,  
+ you forget it right away. Look, just now,  
+ what was the very first thing you were taught?  
+
+STREPSIADES  
+ Well, let’s see . . . The first thing—what was it?  
+ What was that thing we knead the flour in?  
+ Damn it all, what was it?  
+
+SOCRATES  
+ To hell with you!                                                           
+ You’re the most forgetful, stupidest old man . . .                                                                     
+ Get lost!  
+
+STREPSIADES  
+ Oh dear! Now I’m in for it.  
+ What going to happen to me? I’m done for,  
+ if I don’t learn to twist my words around.  
+ Come on, Clouds, give me some good advice.  
+
+CHORUS LEADER  
+ Old man, here’s our advice: if you’ve a son  
+ and he’s full grown, send him in there to learn—  
+ he’ll take your place.  
+
+STREPSIADES  
+ Well, I do have a son—  
+ a really good and fine one, too—trouble is  
+ he doesn’t want to learn. What should I do?                                                                
+
+CHORUS LEADER  
+ You just let him do that?  
+
+STREPSIADES  
+ He’s a big lad—  
+ and strong and proud—his mother’s family  
+ are all high-flying women like Coesyra.                                                                                            
+ But I’ll take him in hand. If he says no,  
+ then I’ll evict him from my house for sure.  
+
+ [to Socrates] 
+
+ Go inside and wait for me a while.  
+
+[Strepsiades moves back across the stage to his own house]  
+
+CHORUS [to Socrates]  
+ Don’t you see you’ll quickly get  
+ from us all sorts of lovely things  
+ since we’re your only god?  
+ This man here is now all set                                                                
+ to follow you in anything,  
+ you simply have to prod.  
+
+ You know the man is in a daze.  
+ He’s clearly keen his son should learn.  
+ So lap it up—make haste—  
+ get everything that you can raise.                                                                                                            
+ Such chances tend to change and turn  
+ into a different case.  
+
+[Socrates exits into the Thinkery. Strepsiades andPheidippides come out of their house. Strepsiades is pushing his son in front of him]  
+
+STREPSIADES  
+ By the foggy air, you can’t stay here—  
+ not one moment longer! Off with you—                                             
+ go eat Megacles out of house and home!  
+
+PHEIDIPPIDES  
+ Hey, father—you poor man, what’s wrong with you?  
+ By Olympian Zeus, you’re not thinking straight.  
+
+STREPSIADES  
+ See that—“Olympian Zeus”! Ridiculous—  
+ to believe in Zeus—and at your age!  
+
+PHEIDIPPIDES  
+ Why laugh at that?  
+
+STREPSIADES  
+ To think you’re such a child—  
+ and your views so out of date. Still, come here,  
+ so you can learn a bit. I’ll tell you things.  
+ When you understand all this, you’ll be a man.  
+ But you mustn’t mention this to anyone.                                                                        
+
+PHEIDIPPIDES  
+ All right, what is it?  
+
+STREPSIADES  
+ You just swore by Zeus.  
+
+PHEIDIPPIDES  
+ That’s right. I did.  
+
+STREPSIADES  
+ You see how useful learning is?  
+ Pheidippides, there’s no such thing as Zeus.  
+
+PHEIDIPPIDES  
+ Then what is there?  
+
+STREPSIADES  
+ Vortex now is king—  
+ he’s pushed out Zeus.  
+
+PHEIDIPPIDES  
+ Bah, that’s nonsense!  
+
+STREPSIADES  
+ You should know that’s how things are right now.  
+
+PHEIDIPPIDES  
+ Who says that?  
+
+STREPSIADES  
+ Socrates of Melos[^note-261]                                                              
+ and Chaerephon—they know about fleas’ footprints.  
+
+PHEIDIPPIDES  
+ Have you become so crazy you believe  
+ these fellows? They’re disgusting!  
+
+STREPSIADES  
+ Watch your tongue.                                                    
+ Don’t say nasty things about such clever men—  
+ men with brains, who like to save their money.  
+ That’s why not one of them has ever shaved,  
+ or oiled his skin, or visited the baths  
+ to wash himself. You, on the other hand,  
+ keep on bathing in my livelihood,  
+ as if I’d died.[^note-262] So now get over there,  
+ as quickly as you can. Take my place and learn.  
+
+PHEIDIPPIDES  
+ But what could anyone learn from those men  
+ that’s any use at all?                                                                                                                                               
+
+STREPSIADES  
+ You have to ask?                                      
+ Why, wise things—the full extent of human thought.  
+ You’ll see how thick you are, how stupid.  
+ Just wait a moment here for me.  
+
+[Strepsiades goes into his house]  
+
+PHEIDIPPIDES  
+ O dear,  
+ What will I do? My father’s lost his wits.  
+ Do I haul him off to get committed,  
+ on the ground that he’s a lunatic,  
+ or tell the coffin-makers he’s gone nuts.  
+
+[Strepsiades returns with two birds, one in each hand. He holds out one of them]  
+
+STREPSIADES  
+ Come on now, what do you call this? Tell me.  
+
+PHEIDIPPIDES  
+ It’s a fowl.  
+
+STREPSIADES  
+ That’s good. What’s this?  
+
+PHEIDIPPIDES  
+ That’s a fowl.  
+
+STREPSIADES  
+ They’re both the same? You’re being ridiculous.                                                      
+ From now on, don’t do that. Call this one “fowl,”                                                                  
+ and this one here “fowlette.”  
+
+PHEIDIPPIDES  
+                                                          “Fowlette”? That’s it?  
+ That’s the sort of clever stuff you learned in there,  
+ by going in with these Sons of Earth?[^note-263]
+
+STREPSIADES  
+ Yes, it is—  
+ and lots more, too. But everything I learned,  
+ I right away forgot, because I’m old.  
+
+PHEIDIPPIDES  
+ That why you lost your cloak?  
+
+STREPSIADES  
+ I didn’t lose it—  
+ I gave it to knowledge—a donation.  
+
+PHEIDIPPIDES  
+ And your sandals—what you do with them,  
+ you deluded man?  
+
+STREPSIADES  
+ Just like Pericles,                                                                           
+ I lost them as a “necessary expense.”[^note-264]
+ But come on, let’s go. Move it. If your dad                                                                                     
+ asks you to do wrong, you must obey him.  
+ I know I did just what you wanted long ago,  
+ when you were six years old and had a lisp—  
+ with the first obol I got for jury work,  
+ at the feast of Zeus I got you a toy cart.  
+
+PHEIDIPPIDES  
+ You’re going to regret this one fine day.  
+
+STREPSIADES  
+ Good—you’re doing what I ask.  
+
+[Strepsiades calls inside the Thinkery]  
+
+ Socrates,  
+ come out here . . .  
+
+[Enter Socrates from inside the Thinkery]  
+
+ Here—I’ve brought my son to you.                                      
+ He wasn’t keen, but I persuaded him.  
+
+SOCRATES  
+ He’s still a child—he doesn’t know the ropes.  
+
+PHEIDIPPIDES  
+ Go hang yourself up on some rope,                                                                                                       
+ and get beaten like a worn-out cloak.  
+
+STREPSIADES  
+ Damn you! Why insult your teacher?  
+
+SOCRATES  
+ Look how he says “hang yourself”—it sounds  
+ like baby talk. No crispness in his speech.[^note-265]
+ With such a feeble tone how will he learn  
+ to answer to a charge or summons  
+ or speak persuasively? And yet it’s true                                               
+ Hyperbolos could learn to master that—  
+ it cost him one talent.[^note-266]
+
+STREPSIADES  
+ Don’t be concerned.  
+ Teach him. He’s naturally intelligent.  
+ When he was a little boy—just that tall—  
+ even then at home he built small houses,  
+ carved out ships, made chariots from leather,                                                                             
+ and fashioned frogs from pomegranate peel.  
+ You can’t imagine! Get him to learn  
+ those two forms of argument—the Better,  
+ whatever that may be, and the Worse.                                                                               
+ If not both, then at least the unjust one—  
+ every trick you’ve got.  
+
+SOCRATES  
+ He’ll learn on his own  
+ from the two styles of reasoning. I’ll be gone.  
+
+STREPSIADES  
+ But remember this—he must be able  
+ to speak against all just arguments.  
+
+[Enter the Better Argument from inside the Thinkery, talking to the Worse Argument who is still inside]  
+
+BETTER ARGUMENT  
+ Come on. Show yourself to the people here—  
+ I guess you’re bold enough for that.                                                                                                      
+
+[The Worse Argument emerges from the Thinkery]  
+
+WORSE ARGUMENT  
+ Go where you please.  
+ The odds are greater I can wipe you out  
+ with lots of people there to watch us argue.  
+
+BETTER ARGUMENT  
+ You’ll wipe me out? Who’d you think you are?                                                          
+
+WORSE ARGUMENT  
+ An argument.  
+
+BETTER ARGUMENT  
+ Yes, but second rate.  
+
+WORSE ARGUMENT  
+ You claim that you’re more powerful than me,  
+ but I’ll still conquer you.  
+
+BETTER ARGUMENT  
+ What clever tricks  
+ do you intend to use?  
+
+WORSE ARGUMENT  
+ I’ll formulate  
+ new principles.  
+
+BETTER ARGUMENT [indicating the audience]     
+ Yes, that’s in fashion now,  
+ thanks to these idiots.  
+
+WORSE ARGUMENT  
+ No, no. They’re smart.  
+
+BETTER ARGUMENT  
+ I’ll destroy you utterly.  
+
+WORSE ARGUMENT  
+ And how?  
+ Tell me that.  
+
+BETTER ARGUMENT  
+ By arguing what’s just.                                                                                               
+
+WORSE ARGUMENT  
+ That I can overturn in my response,  
+ by arguing there’s no such thing as Justice.                                                                    
+
+BETTER ARGUMENT  
+ It doesn’t exist? That’s what you maintain?  
+
+WORSE ARGUMENT  
+ Well, if it does, where is it?  
+
+BETTER ARGUMENT  
+ With the gods.  
+
+WORSE ARGUMENT  
+ Well, if Justice does exist, how come Zeus  
+ hasn’t been destroyed for chaining up his dad.[^note-267]
+
+BETTER ARGUMENT  
+ This is going from bad to worse. I feel sick.  
+ Fetch me a basin.  
+
+WORSE ARGUMENT  
+ You silly old man—  
+ you’re so ridiculous.  
+
+BETTER ARGUMENT  
+ And you’re quite shameless,  
+ you bum fucker.  
+
+WORSE ARGUMENT  
+ Those words you speak—like roses!  
+
+BETTER ARGUMENT  
+ Buffoon!                                                                                                                                                                             
+
+WORSE ARGUMENT  
+ You adorn my head with lilies.  
+
+BETTER ARGUMENT  
+ You destroyed your father!  
+
+WORSE ARGUMENT  
+ You don’t mean to,                                                       
+ but you’re showering me with gold.  
+
+BETTER ARGUMENT  
+ No, not gold—  
+ before this age, those names were lead.  
+
+WORSE ARGUMENT  
+ But now,  
+ your insults are a credit to me.  
+
+BETTER ARGUMENT  
+ You’re too obstreperous.  
+
+WORSE ARGUMENT  
+ You’re archaic.  
+
+BETTER ARGUMENT  
+ It’s thanks to you that none of our young men  
+ is keen to go to school. The day will come  
+ when the Athenians will all realize  
+ how you teach these silly fools.  
+
+WORSE ARGUMENT  
+ You’re dirty—  
+ it’s disgusting.  
+
+BETTER ARGUMENT  
+ But you’re doing very well—                                                                        
+ although in earlier days you were a beggar,                                                                  
+ claiming to be Telephos from Mysia,  
+ eating off some views of Pandeletos,  
+ which you kept in your wallet.[^note-268]
+
+WORSE ARGUMENT  
+ That was brilliant—  
+ you just reminded me . . .  
+
+BETTER ARGUMENT  
+ It was lunacy!  
+ Your own craziness—the city’s, too.  
+ It fosters you while you corrupt the young.  
+
+WORSE ARGUMENT  
+ You can’t teach this boy—you’re old as Cronos.  
+
+BETTER ARGUMENT  
+ Yes, I must—if he’s going to be redeemed                                                                                     
+ and not just prattle empty verbiage.  
+
+WORSE ARGUMENT [to Pheidippides]  
+ Come over here—leave him to his foolishness.                                                         
+
+BETTER ARGUMENT  
+ You’ll regret it, if you lay a hand on him.  
+
+CHORUS LEADER  
+ Stop this fighting, all these abusive words.  
+
+[addressing first the Better Argument and then the Worse Argument]  
+
+ Instead, explain the things you used to teach  
+ to young men long ago—then you lay out  
+ what’s new in training now. He can listen  
+ as you present opposing arguments  
+ and then decide which school he should attend.  
+
+BETTER ARGUMENT  
+ I’m willing to do that.  
+
+WORSE ARGUMENT  
+ All right with me.  
+
+CHORUS LEADER  
+ Come on then, which one of you goes first?                                                                                 
+
+WORSE ARGUMENT  
+ I’ll grant him that right. Once he’s said his piece,                                                    
+ I’ll shoot it down with brand-new expressions  
+ and some fresh ideas. By the time I’m done,  
+ if he so much as mutters, he’ll get stung  
+ by my opinions on his face and eyes—  
+ like so many hornets—he’ll be destroyed.  
+
+CHORUS  
+ Trusting their skill in argument,  
+ their phrase-making propensity,                                                                                    
+ these two men here are now intent  
+ to show which one will prove to be  
+ the better man in oratory.                                                                                    
+ For wisdom now is being hard pressed—  
+ my friends, this is the crucial test.  
+
+CHORUS LEADER [addressing the Better Argument]  
+ First, you who crowned our men in days gone by  
+ with so much virtue in their characters,  
+ let’s hear that voice which brings you such delight—  
+ explain to us what makes you what you are.                                                                                
+
+BETTER ARGUMENT  
+ All right, I’ll set out how we organized  
+ our education in the olden days,  
+ when I talked about what’s just and prospered,  
+ when people wished to practise self-restraint.                                                            
+ First, there was a rule—children made no noise,  
+ no muttering. Then, when they went outside,  
+ walking the streets to the music master’s house,  
+ groups of youngsters from the same part of town  
+ went in straight lines and never wore a cloak,  
+ not even when the snow fell thick as flour.  
+ There he taught them to sing with thighs apart.[^note-269]
+ They had memorize their songs—such as,  
+        ”Dreadful Pallas Who Destroys Whole Cities,”  
+ and “A Cry From Far Away.” These they sang                                     
+ in the same style their fathers had passed down.  
+ If any young lad fooled around or tried  
+ to innovate with some new flourishes,  
+ like the contorted sounds we have today  
+ from those who carry on the Phrynis style,[^note-270]                                                                                
+ he was beaten, soundly thrashed, his punishment  
+ for tarnishing the Muse. At the trainer’s house,  
+ when the boys sat down, they had to keep  
+ their thighs stretched out, so they would not expose  
+ a thing which might excite erotic torments                                         
+ in those looking on. And when they stood up,  
+ they smoothed the sand, being careful not to leave  
+ imprints of their manhood there for lovers.  
+ Using oil, no young lad rubbed his body  
+ underneath his navel—thus on his sexual parts  
+ there was a dewy fuzz, like on a peach.  
+ He didn’t make his voice all soft and sweet  
+ to talk to lovers as he walked along,  
+ or with his glances coyly act the pimp.                                                                                               
+ When he was eating, he would not just grab                                       
+ a radish head, or take from older men  
+ some dill or parsley, or eat dainty food.  
+ He wasn’t allowed to giggle, or sit there  
+ with his legs crossed.  
+
+WORSE ARGUMENT  
+ Antiquated rubbish!  
+ Filled with festivals for Zeus Polieus,  
+ cicadas, slaughtered bulls, and Cedeides.[^note-271]
+
+BETTER ARGUMENT  
+ But the point is this—these very features  
+ in my education brought up those men  
+ who fought at Marathon. But look at you—  
+ you teach these young men now right from the start                               
+ to wrap themselves in cloaks. It enrages me  
+ when the time comes for them to do their dance  
+ at the Panathenaea festival  
+ and one of them holds his shield low down,  
+ over his balls, insulting Tritogeneia.[^note-272]
+ And so, young man, that’s why you should choose me,                                                        
+ the Better Argument. Be resolute.  
+ You’ll find out how to hate the market place,  
+ to shun the public baths, to feel ashamed  
+ of shameful things, to fire up your heart                                             
+ when someone mocks you, to give up your chair  
+ when older men come near, not to insult  
+ your parents, nor act in any other way  
+ which brings disgrace or which could mutilate  
+ your image as an honourable man.  
+ You’ll learn not to run off to dancing girls,  
+ in case, while gaping at them, you get hit  
+ with an apple thrown by some little slut,  
+ and your fine reputation’s done for,  
+ and not to contradict your father,                                                                                           
+ or remind him of his age by calling him  
+ Iapetus—not when he spent his years  
+ in raising you from infancy.[^note-273]
+
+WORSE ARGUMENT  
+ My boy, if you’re persuaded by this man,                                                                                        
+ then by Dionysus, you’ll finish up  
+ just like Hippocrates’ sons—and then  
+ they’ll all call you a sucker of the tit.[^note-274]
+
+BETTER ARGUMENT  
+ You’ll spend your time in the gymnasium—  
+ your body will be sleek, in fine condition.  
+ You won’t be hanging round the market place,                                                         
+ chattering filth, as boys do nowadays.  
+ You won’t keep on being hauled away to court  
+ over some damned sticky fierce dispute  
+ about some triviality. No, no.  
+ Instead you’ll go to the Academy,[^note-275]
+ to race under the sacred olive trees,  
+ with a decent friend the same age as you,  
+ wearing a white reed garland, with no cares.  
+ You’ll smell yew trees, quivering poplar leaves,  
+ as plane trees whisper softly to the elms,                                                                         
+ rejoicing in the spring. I tell you this—  
+ if you carry out these things I mention,  
+ if you concentrate your mind on them,                                                                                             
+ you’ll always have a gleaming chest, bright skin,  
+ broad shoulders, tiny tongue, strong buttocks,  
+ and a little prick. But if you take up  
+ what’s in fashion nowadays, you’ll have,  
+ for starters, feeble shoulders, a pale skin,  
+ a narrow chest, huge tongue, a tiny bum,  
+ and a large skill in framing long decrees.[^note-276]  
+ And that man there will have you believing  
+ what’s bad is good and what’s good is bad.                                                                                     
+ Then he’ll give you Antimachos’ disease—  
+ you’ll be infected with his buggery.[^note-277]
+
+CHORUS  
+ O you whose wisdom stands so tall,  
+ the most illustrious of all.  
+ The odour of your words is sweet,  
+ the flowering bloom of modest ways—  
+ happy who lived in olden days!  
+
+[to the Worse Argument]  
+
+ Your rival’s made his case extremely well,                                                                      
+ so you who have such nice artistic skill.  
+ must in reply give some new frill.                                                                                                           
+
+CHORUS LEADER  
+ If you want to overcome this man  
+ it looks as if you’ll need to bring at him  
+ some clever stratagems —unless you want  
+ to look ridiculous.  
+
+WORSE ARGUMENT  
+ It’s about time!  
+ My guts have long been churning with desire  
+ to rip in fragments all those things he said,  
+ with counter-arguments. That’s why I’m called  
+ Worse Argument among all thinking men,                                                                   
+ because I was the very first of them  
+ to think of coming up with reasoning  
+ against our normal ways and just decrees.                                                                                     
+ And it’s worth lots of money—more, in fact,  
+ than drachmas in six figures[^note-278]—to select  
+ the weaker argument and yet still win.  
+ Now just see how I’ll pull his system down,  
+ that style of education which he trusts.  
+ First, he says he won’t let you have hot water  
+ when you take a bath. What’s the idea here?                                                               
+ Why object to having a warm bath?  
+
+BETTER ARGUMENT  
+ The effect they have is very harmful—  
+ they turn men into cowards.  
+
+WORSE ARGUMENT  
+ Wait a minute!  
+ The first thing you say I’ve caught you out.  
+ I’ve got you round the waist. You can’t escape.  
+ Tell me this—of all of Zeus’ children  
+ which man, in your view, had the greatest heart  
+ and carried out the hardest tasks? Tell me.  
+
+BETTER ARGUMENT  
+ In my view, no one was a better man                                                                                                 
+ than Hercules.  
+
+WORSE ARGUMENT  
+ And where’d you ever see                                         
+ cold water in a bath of Hercules? But who  
+ was a more manly man than him?[^note-279]
+
+BETTER ARGUMENT  
+ That’s it, the very things which our young men  
+ are always babbling on about these days—  
+ crowding in the bath house, leaving empty  
+ all the wrestling schools.  
+
+WORSE ARGUMENT  
+ Next, you’re not happy  
+ when they hang around the market place—  
+ but I think that’s good. If it were shameful,  
+ Homer would not have labelled Nestor—  
+ and all his clever men—great public speakers.[^note-280]                                                        
+ Now, I’ll move on to their tongues, which this man  
+ says the young lads should not train. I say they should.  
+ He also claims they should be self-restrained.  
+ These two things injure them in major ways.                                                                              
+ Where have you ever witnessed self-restraint  
+ bring any benefit to anyone?  
+ Tell me. Speak up. Refute my reasoning.  
+
+BETTER ARGUMENT  
+ There are lots of people. For example,  
+ Peleus won a sword for his restraint.[^note-281]
+
+WORSE ARGUMENT  
+ A sword! What a magnificent reward                                                  
+ the poor wretch received! While Hyperbolos,  
+ who sells lamps in the market, is corrupt  
+ and brings in lots of money, but, god knows,  
+ he’s never won a sword.  
+
+BETTER ARGUMENT  
+ But his virtue  
+ enabled Peleus to marry Thetis.[^note-282]
+
+WORSE ARGUMENT  
+ Then she ran off, abandoning the man,  
+ because he didn’t want to spend all night  
+ having hard sweet sex between the sheets—  
+ that rough-and-tumble love that women like.  
+ You’re just a crude old-fashioned Cronos.  
+ Now, my boy, just think off all those things  
+ that self-restraint requires—you’ll go without  
+ all sorts of pleasures—boys and women,  
+ drunken games and tasty delicacies,  
+ drink and riotous laughter. What’s life worth  
+ if you’re deprived of these? So much for that.  
+ I’ll now move on to physical desires.  
+ You’ve strayed and fallen in love—had an affair  
+ with someone else’s wife. And then you’re caught.  
+ You’re dead, because you don’t know how to speak.                                                  
+ But if you hang around with those like me,  
+ you can follow what your nature urges.  
+ You can leap and laugh and never think  
+ of anything as shameful. If, by chance,  
+ you’re discovered screwing a man’s wife,  
+ just tell the husband you’ve done nothing wrong.  
+ Blame Zeus—alleging even he’s someone                                                                                       
+ who can’t resist his urge for sex and women.  
+ And how can you be stronger than a god?  
+ You’re just a mortal man.  
+
+BETTER ARGUMENT  
+ All right—but suppose                                       
+ he trusts in your advice and gets a radish  
+ rammed right up his arse, and his pubic hairs  
+ are burned with red-hot cinders. Will he have  
+ some reasoned argument to demonstrate  
+ he’s not a loose-arsed bugger?[^note-283]
+
+WORSE ARGUMENT  
+ So his asshole's large—  
+ why should that in any way upset him?  
+
+BETTER ARGUMENT  
+ Can one suffer any greater harm  
+ than having a loose asshole?  
+
+WORSE ARGUMENT  
+ What will you say  
+ if I defeat you on this point?  
+
+BETTER ARGUMENT  
+ I’ll shut up.  
+ What more could a man say?  
+
+WORSE ARGUMENT  
+ Come on, then—                                        
+ Tell me about our legal advocates.  
+ Where are they from?  
+
+BETTER ARGUMENT  
+ They come from loose-arsed buggers.  
+
+WORSE ARGUMENT  
+ I grant you that. What’s next? Our tragic poets,                                                                       
+ where they from?  
+
+BETTER ARGUMENT  
+ They come from major assholes.  
+
+WORSE ARGUMENT  
+ That’s right. What about our politicians—  
+ where do they come from?  
+
+BETTER ARGUMENT  
+ From gigantic assholes!  
+
+WORSE ARGUMENT  
+ All right then—surely you can recognize  
+ how you’ve been spouting rubbish? Look out there—  
+ at this audience—what sort of people  
+ are most of them?  
+
+BETTER ARGUMENT  
+ All right, I’m looking at them.                                                      
+
+WORSE ARGUMENT  
+ Well, what do you see?  
+
+BETTER ARGUMENT  
+ By all the gods,  
+ almost all of them are men who spread their cheeks.  
+ It’s true of that one there, I know for sure . . .  
+ and that one . . . and the one there with long hair.                                                                  
+
+WORSE ARGUMENT  
+ So what do you say now?  
+
+BETTER ARGUMENT  
+ We’ve been defeated.  
+ O you fuckers, for gods’ sake take my cloak—  
+ I’m defecting to your ranks.  
+
+[The Better Argument takes off his cloak and exits into theThinkery]  
+
+WORSE ARGUMENT [to Strepsiades]  
+ What now?  
+ Do you want to take your son away?  
+ Or, to help you out, am I to teach him  
+ how to argue?  
+
+STREPSIADES  
+ Teach him—whip him into shape.                                                    
+ Don’t forget to sharpen him for me,  
+ one side ready to tackle legal quibbles. 
+ On the other side, give his jaw an edge  
+ for more important matters.                                                                                                                         
+
+WORSE ARGUMENT  
+ Don’t worry.  
+ You’ll get back a person skilled in sophistry.  
+
+PHEIDIPPIDES 
+ Someone miserably pale, I figure.  
+
+CHORUS LEADER  
+ All right. Go in.  
+ I think you may regret this later on.  
+
+[Worse Argument and Pheidippides go into the Thinkery, while Strepsiades returns into his own house]  
+
+CHORUS LEADER  
+ We’d like to tell the judges here the benefits  
+ they’ll get, if they help this chorus, as by right they should.  
+ First, if you want to plough your lands in season,                                                  
+ we’ll rain first on you and on the others later.  
+ Then we’ll protect your fruit, your growing vines,  
+ so neither drought nor too much rain will damage them.                                                   
+ But any mortal who dishonours us as gods  
+ should bear in mind the evils we will bring him.  
+ From his land he’ll get no wine or other harvest.  
+ When his olive trees and fresh young vines are budding,  
+ we’ll let fire with our sling shots, to smash and break them.  
+ If we see him making bricks, we’ll send down rain,  
+ we’ll shatter roofing tiles with our round hailstones.                                                  
+ If ever there’s a wedding for his relatives,  
+ or friends, or for himself, we’ll rain all through the night,  
+ so he’d rather live in Egypt than judge this wrong.                                                                  
+
+[Strepsiades comes out of his house, with a small sack in his hand]  
+
+STREPSIADES  
+ Five more days, then four, three, two—and then  
+ the day comes I dread more than all the rest.  
+ It makes me shake with fear—the day that stands  
+ between the Old Moon and the New—the day  
+ when any man I happen to owe money to  
+ swears on oath he’ll put down his deposit,  
+ take me to court.[^note-284] He says he’ll finish me,                                                                     
+ do me in. When I make a modest plea  
+ for something fair, “My dear man, don’t demand  
+ this payment now, postpone this one for me,  
+ discharge that one,” they say the way things are  
+ they’ll never be repaid—then they go at me,                                                                               
+ abuse me as unfair and say they’ll sue.  
+ Well, let them go to court. I just don’t care,  
+ not if Pheidippides has learned to argue.  
+ I’ll find out soon enough. Let's knock here,  
+ at the thinking school.  
+
+[Strepsiades knocks on the door of the Thinkery]  
+
+ Boy . . . Hey, boy . . . boy!                      
+
+[Socrates comes to the door]  
+
+SOCRATES  
+ Hello there, Strepsiades.  
+
+STREPSIADES  
+ Hello to you.  
+ First of all, you must accept this present.  
+
+[Strepsiades hands Socrates the small sack]  
+
+ It’s proper for a man show respect  
+ to his son’s teacher in some way. Tell me—  
+ has the boy learned that style of argument  
+ you brought out here just now?  
+
+SOCRATES  
+ Yes, he has.  
+
+STREPSIADES  
+ In the name of Fraud, queen of everything,  
+ that’s splendid news!  
+
+SOCRATES  
+ You can defend yourself  
+ in any suit you like—and win.  
+
+STREPSIADES  
+ I can?  
+ Even if there were witnesses around                                                   
+ when I took out the loan?  
+
+SOCRATES  
+ The more the better—  
+ even if they number in the thousands.  
+
+STREPSIADES [in a parody of tragic style]  
+ Then I will roar aloud a mighty shout—  
+ Ah ha, weep now you petty money men,  
+ wail for yourselves, wail for your principal,  
+ wail for your compound interest. No more  
+ will you afflict me with your evil ways.  
+ On my behalf there’s growing in these halls  
+ a son who’s got a gleaming two-edged tongue—                                                                     
+ he’s my protector, saviour of my home,                                                                            
+ a menace to my foes. He will remove  
+ the mighty tribulations of his sire.  
+ Run off inside and summon him to me.  
+
+[Socrates goes back into the Thinkery]  
+
+ My son, my boy, now issue from the house—  
+ and hearken to your father’s words.  
+
+[Socrates and Pheidippides come out of the Thinkery.Pheidippides has been transformed in appearance, so that he now looks, moves, and talks like the other students in the Thinkery]  
+
+SOCRATES 
+ Here’s your young man.  
+
+STREPSIADES  
+ Ah, my dear, dear boy.  
+
+SOCRATES  
+ Take him and go away.  
+
+[Socrates exits back into the Thinkery]  
+
+STREPSIADES  
+ Ah ha, my lad—  
+ what joy. What sheer delight for me to gaze,                                                                               
+ first, upon your colourless complexion,  
+ to see how right away you’re well prepared                                         
+ to deny and contradict—with that look  
+ which indicates our national character  
+ so clearly planted on your countenance—  
+ the look which says, “What do you mean?”—the look  
+ which makes you seem a victim, even though  
+ you’re the one at fault, the criminal.  
+ I know that Attic stare stamped on your face.  
+ Now you must rescue me—since you’re the one  
+ who’s done me in.  
+
+PHEIDIPPIDES  
+ What are you scared about?  
+
+STREPSIADES  
+ The day of the Old Moon and the New.                                                                            
+
+PHEIDIPPIDES  
+ You mean there’s a day that’s old and new?  
+
+STREPSIADES  
+ The day they say they’ll make deposits  
+ to charge me in the courts!                                                                                                                             
+
+PHEIDIPPIDES  
+ Then those who do that  
+ will lose their cash. There’s simply no way  
+ one day can be two days.  
+
+STREPSIADES  
+ It can’t?  
+
+PHEIDIPPIDES: How?  
+ Unless it’s possible a single woman  
+ can at the same time be both old and young.  
+
+STREPSIADES  
+ Yet that seems to be what our laws dictate.  
+
+PHEIDIPPIDES  
+ In my view they just don’t know the law—  
+ not what it really means.  
+
+STREPSIADES  
+ What does it mean?                                                            
+
+PHEIDIPPIDES  
+ Old Solon by his nature loved the people.[^note-285]
+
+STREPSIADES  
+ But that’s got no bearing on the Old Day—  
+ or the New.  
+
+PHEIDIPPIDES  
+ Well, Solon set up two days                                                                           
+ for summonses—the Old Day and the New,  
+ so deposits could be made with the New Moon.[^note-286]
+
+STREPSIADES  
+ Then why did he include Old Day as well?  
+
+PHEIDIPPIDES  
+ So the defendants, my dear fellow,  
+ could show up one day early, to settle  
+ by mutual agreement, and, if not,  
+ they should be very worried the next day                                            
+ was the start of a New Moon.  
+
+STREPSIADES  
+ In that case,  
+ why do judges not accept deposits  
+ once the New Moon comes but only on the day  
+ between the Old and New?  
+
+PHEIDIPPIDES  
+ It seems to me  
+ they have to act like those who check the food—                                                                    
+ they want to grab as fast as possible  
+ at those deposits, so they can nibble them  
+ a day ahead of time.  
+
+STREPSIADES  
+ That’s wonderful!  
+
+ [to the audience] 
+
+ You helpless fools! Why do you sit there—                                          
+ so idiotically, for us wise types  
+ to take advantage of? Are you just stones,  
+ ciphers, merely sheep or stacked-up pots?  
+ This calls for a song to me and my son here,  
+ to celebrate good luck and victory.  
+
+[He sings]  
+
+ O Strepsiades is truly blessed  
+ for cleverness the very best,  
+ what a brainy son he’s raised.  
+ So friends and townsfolk sing his praise.  
+ Each time you win they’ll envy me— 1540            
+ you’ll plead my case to victory.  
+ So let’s go in—I want to treat,  
+ and first give you something to eat.  
+
+[Strepsiades and Pheidippides go together into their house. Enter one of Strepsiades’ creditors, Pasias, with a friend as his witness]  
+
+PASIAS  
+ Should a man throw away his money?  
+ Never! But it would have been much better,  
+ back then at the start, to forget the loan  
+ and the embarrassment than go through this—  
+ to drag you as a witness here today  
+ in this matter of my money. I’ll make  
+ this man from my own deme my enemy.[^note-287] 1550 
+ But I’ll not let my country down—never—                                                                                    
+ not as long as I’m alive. And so . . .  
+
+[raising his voice] 
+
+ I’m summoning Strepsiades . . .  
+
+[Enter Strepsiades]  
+
+STREPSIADES  
+ Who is it?  
+
+PASIAS  
+       . . . on this Old Day and the New.  
+
+STREPSIADES  
+ I ask you here  
+ to witness that he’s called me for two days.  
+ What’s the matter?  
+
+PASIAS  
+ The loan you got, twelve minai,  
+ when you bought that horse—the dapple grey.  
+
+STREPSIADES  
+ A horse? Don’t listen to him. You all know  
+ how I hate horses.  
+
+PASIAS  
+ What’s more, by Zeus,  
+ you swore on all the gods you’d pay me back.                                                            
+
+STREPSIADES  
+ Yes, by god, but Pheidippides back then  
+ did not yet know the iron-clad argument  
+ on my behalf.  
+
+PASIAS  
+ So now, because of that,  
+ you’re intending to deny the debt?                                                                                                        
+
+STREPSIADES  
+ If I don’t, what advantage do I gain  
+ from everything he’s learned?  
+
+PASIAS  
+ Are you prepared  
+ to swear you owe me nothing—by the gods—  
+ in any place I tell you?  
+
+STREPSIADES  
+ Which gods?  
+
+PASIAS  
+ By Zeus, by Hermes, by Poseidon.  
+
+STREPSIADES  
+ Yes, indeed, by Zeus—and to take that oath                                       
+ I’d even pay three extra obols.[^note-288]
+
+PASIAS  
+ You’re shameless—may that ruin you some day!  
+
+STREPSIADES [patting Pasias on the belly]  
+ This wine skin here would much better off  
+ if you rubbed it down with salt.[^note-289]
+
+PASIAS  
+ Damn you—  
+ you’re ridiculing me!  
+
+STREPSIADES [still patting Pasias’ paunch]  
+ About four gallons,  
+ that’s what it should hold.  
+
+PASIAS  
+ By mighty Zeus,  
+ by all the gods, you’ll not make fun of me  
+ and get away with it!  
+
+STREPSIADES  
+ Ah, you and your gods—                                                                                     
+ that’s so incredibly funny. And Zeus—  
+ to swear on him is quite ridiculous                                                      
+ to those who understand.  
+
+PASIAS  
+ Some day, I swear, 
+ you’re going to have to pay for all of this.  
+ Will you or will you not pay me my money?  
+ Give me an answer, and I’ll leave.  
+
+STREPSIADES  
+ Calm down—  
+ I’ll give you a clear answer right away.  
+
+[Strepsiades goes into his house, leaving Pasias and the Witness by themselves]  
+
+PASIAS  
+ Well, what do you think he’s going to do?  
+ Does it strike you he’s going to pay?  
+
+[Enter Strepsiades carrying a kneading basin]  
+
+STREPSIADES  
+ Where’s the man who’s asking me for money?  
+ Tell me—what’s this?  
+
+PASIAS  
+ What’s that? A kneading basin.  
+
+STREPSIADES  
+ You’re demanding money when you’re such a fool?                                                  
+ I wouldn’t pay an obol back to anyone                                                                                              
+ who called a basinette a basin.  
+
+PASIAS  
+ So you won’t repay me?  
+
+STREPSIADES  
+ As far as I know,  
+ I won’t. So why don’t you just hurry up  
+ and quickly scuttle from my door.  
+
+PASIAS  
+ I’m off.  
+ Let me tell you—I’ll be making my deposit.  
+ If not, may I not live another day!  
+
+[Pasias exits with the Witness]  
+
+STREPSIADES [calling after them]  
+ That’ll be more money thrown away—  
+ on top of the twelve minai. I don’t want  
+ you going thorough that just because you’re foolish                               
+ and talk about a kneading basin.  
+
+[Enter Amynias, another creditor, limping He has obviously been hurt in some way]  
+
+AMYNIAS 
+ Oh, it’s bad. Poor me!  
+
+STREPSIADES  
+ Hold on. Who’s this  
+ who’s chanting a lament? Is that the cry                                                                                           
+ of some god perhaps—one from Carcinus?[^note-290]
+
+AMYNIAS  
+ What’s that? You wish to know who I am?  
+ I’m a man with a miserable fate!  
+
+STREPSIADES 
+ Then go off on your own.  
+
+AMYNIAS [in a grand tragic manner]             
+ “O cruel god,  
+ O fortune fracturing my chariot wheels,  
+ O Pallas, how you’ve annihilated me!”[^note-291]
+
+STREPSIADES  
+ How’s Tlepolemos done nasty things to you?[^note-292]                                                           
+
+AMYNIAS  
+ Don’t laugh at me, my man—but tell your son  
+ to pay me back the money he received,  
+ especially when I’m going through all this pain.  
+
+STREPSIADES  
+ What money are you talking about?  
+
+AMYNIAS  
+ The loan he got from me.                                                                                                                                
+
+STREPSIADES  
+ It seems to me  
+ you’re having a bad time.  
+
+AMYNIAS  
+ By god, that’s true—  
+ I was driving in my chariot and fell out.  
+
+STREPSIADES  
+ Why then babble on such utter nonsense,  
+ as if you’d just fallen off a donkey?  
+
+AMYNIAS  
+ If I want him to pay my money back                                                   
+ am I talking nonsense?  
+
+STREPSIADES  
+ I think it’s clear  
+ your mind’s not thinking straight.  
+
+AMYNIAS  
+ Why’s that?  
+
+STREPSIADES  
+ From your behaviour here, it looks to me  
+ as if your brain’s been shaken up.  
+
+AMYNIAS  
+ Well, as for you,  
+ by Hermes, I’ll be suing you in court,  
+ if you don’t pay the money.  
+
+STREPSIADES  
+ Tell me this—  
+ do you think Zeus always sends fresh water  
+ each time the rain comes down, or does the sun                                                                     
+ suck the same water up from down below  
+ for when it rains again?  
+
+AMYNIAS  
+ I don’t know which—                                         
+ and I don’t care.  
+
+STREPSIADES  
+ Then how can it be just  
+ for you to get your money reimbursed,  
+ when you know nothing of celestial things?  
+
+AMYNIAS  
+ Look, if you haven’t got the money now,  
+ at least repay the interest.  
+
+STREPSIADES  
+ This “interest”—  
+ What sort of creature is it?  
+
+AMYNIAS  
+ Don’t you know?  
+ It’s nothing but the way that money grows,  
+ always getting larger day by day  
+ month by month, as time goes by.  
+
+STREPSIADES  
+ That’s right.  
+ What about the sea? In your opinion, 1640            
+ is it more full of water than before?  
+
+AMYNIAS  
+ No, by Zeus— it’s still the same. If it grew,  
+ that would violate all natural order.  
+
+STREPSIADES  
+ In that case then, you miserable rascal,  
+ if the sea shows no increase in volume  
+ with so many rivers flowing into it,  
+ why are you so keen to have your money grow?  
+ Now, why not chase yourself away from here?  
+
+[calling inside the house] 
+
+ Bring me the cattle prod!  
+
+AMYNIAS  
+ I have witnesses!  
+
+[The slave comes out of the house and gives Strepsiades a cattle prod. Strepsiades starts poking Amynias with it]  
+
+STREPSIADES  
+ Come on! What you waiting for? Move it,                                                                      
+ you pedigree nag!  
+
+AMYNIAS  
+ This is outrageous!  
+
+STREPSIADES [continuing to poke Amynias away]  
+ Get a move on—or I’ll shove this prod                                                                                                  
+ all the way up your horse-racing rectum!  
+
+[Amynias runs off stage]  
+
+ You running off? That’s what I meant to do,  
+ get the wheels on that chariot of yours  
+ really moving fast.  
+
+[Strepsiades goes back into his house]  
+
+CHORUS  
+ Oh, it’s so nice  
+ to worship vice.  
+ This old man here  
+ adores it so                                                                          
+ he will not clear  
+ the debts he owes.  
+ But there’s no way  
+ he will not fall  
+ some time today,  
+ done in by all  
+ his trickeries,  
+ he’ll quickly fear  
+ depravities  
+ he’s started here.                                                                                                            
+
+ It seems to me  
+ he’ll soon will see  
+ his clever son  
+ put on the show  
+ he wanted done  
+ so long ago—  
+ present a case  
+ against what’s true  
+ and beat all those  
+ he runs into                                                                         
+ with sophistry.  
+ He’ll want his son  
+ (it may well be)  
+ to be struck dumb.  
+
+[Enter Strepsiades running out of his house with Pheidippides close behind him hitting him over the head]  
+
+STREPSIADES  
+ Help! Help! You neighbours, relatives,  
+ fellow citizens, help me—I’m begging you!  
+ I’m being beaten up! Owww, I’m in such pain—  
+ my head . . . my jaw.  
+
+[To Pheidippides] 
+
+ You good for nothing,  
+ are you hitting your own father?  
+
+PHEIDIPPIDES  
+ Yes, dad, I am.  
+
+STREPSIADES  
+ See that! He admits he’s beating me.                                                                                    
+
+PHEIDIPPIDES  
+ I do indeed.  
+
+STREPSIADES  
+ You scoundrel, criminal—  
+ a man who abuses his own father!  
+
+PHEIDIPPIDES  
+ Go on—keep calling me those very names—  
+ the same ones many times. Don’t you realize  
+ I just love hearing streams of such abuse?  
+
+STREPSIADES  
+ You perverted asshole!  
+
+PHEIDIPPIDES  
+ Ah, some roses!                                                                                   
+ Keep pelting me with roses!!  
+
+STREPSIADES  
+ You’d hit your father?  
+
+PHEIDIPPIDES  
+ Yes, and by the gods I’ll now demonstrate  
+ how I was right to hit you.  
+
+STREPSIADES  
+ You total wretch,  
+ how can it be right to strike one’s father?                                                                        
+
+PHEIDIPPIDES  
+ I'll prove that to you—and win the argument.  
+
+STREPSIADES  
+ You’ll beat me on this point?  
+
+PHEIDIPPIDES  
+ Indeed, I will.  
+ It’s easy. So of the two arguments  
+ choose which one you want.  
+
+STREPSIADES  
+ What two arguments?  
+
+PHEIDIPPIDES  
+ The Better or the Worse.  
+
+STREPSIADES  
+ By god, my lad,  
+ I really did have you taught to argue  
+ against what’s just, if you succeed in this—  
+ and make the case it’s fine and justified  
+ for a father to be beaten by his son.  
+
+PHEIDIPPIDES  
+ Well, I think I’ll manage to convince you,                                                                      
+ so that once you’ve heard my arguments,  
+ you won’t say a word.  
+
+STREPSIADES  
+ Well, to tell the truth,  
+ I do want to hear what you have to say.  
+
+CHORUS  
+ You’ve some work to do, old man.  
+ Think how to get the upper hand.  
+ He’s got something he thinks will work,  
+ or he’d not act like such a jerk.  
+ There’s something makes him confident—  
+ his arrogance is evident.                                                                                                                                    
+
+CHORUS LEADER [addressing Strepsiades]  
+ But first you need to tell the Chorus here                                             
+ how your fight originally started.  
+ That’s something you should do in any case.  
+
+STREPSIADES  
+ Yes, I’ll tell you how our quarrel first began.  
+ As you know, we were having a fine meal.  
+ I first asked him to take up his lyre  
+ and sing a lyric by Simonides[^note-293]—  
+ the one about the ram being shorn.  
+ But he immediately refused—saying  
+ that playing the lyre while we were drinking  
+ was out of date, like some woman singing                                          
+ while grinding barley.  
+
+PHEIDIPPIDES  
+ Well, at that point,  
+ you should have been ground up and trampled on—  
+ asking for a song, as if you were feasting                                                                                         
+ with cicadas.  
+
+STREPSIADES  
+ The way he's talking now—  
+ that’s just how he was talking there before.  
+ He said Simonides was a bad poet.  
+ I could hardly stand it, but at first I did.  
+ Then I asked him to pick up a myrtle branch  
+ and at least recite some Aeschylus for me.[^note-294]
+ He replied at once, “In my opinion,                                                                                      
+ Aeschylus is first among the poets  
+ for lots of noise, unevenness, and bombast—  
+ he piles up words like mountains.” Do you know  
+ how hard my heart was pounding after that?  
+ But I clenched my teeth and kept my rage inside,  
+ and said, “Then recite me something recent,  
+ from the newer poets, some witty verse.”                                                                                        
+ So he then right off started to declaim  
+ some passage from Euripides in which,  
+ spare me this, a brother was enjoying sex                                           
+ with his own sister— from a common mother.  
+ I couldn’t keep my temper any more—  
+ so on the spot I verbally attacked  
+ with all sorts of nasty, shameful language.  
+ Then, as one might predict, we went at it—  
+ hurling insults at each other back and forth.  
+ But then he jumped up, pushed me, thumped me,  
+ choked me, and started killing me.  
+
+PHEIDIPPIDES  
+ Surely I was entitled to do that  
+ to a man who will not praise Euripides,                                                                             
+ the cleverest of all.  
+
+STREPSIADES  
+ Him? The cleverest? Ha!  
+ What do I call you? No, I won’t say—  
+ I’d just get beaten one more time.  
+
+PHEIDIPPIDES  
+ Yes, by Zeus,  
+ you would—and with justice, too.  
+
+STREPSIADES  
+ How would that be just? You shameless man,  
+ I brought you up. When you lisped your words,  
+ I listened ‘til I recognized each one.  
+ If you said “waa,” I understood the word  
+ and brought a drink; if you asked for “foo foo,”  
+ I’d bring you bread. And if you said “poo poo”  
+ I’d pick you up and carry you outside,  
+ and hold you up. But when you strangled me  
+ just now, I screamed and yelled I had to shit—  
+ but you didn’t dare to carry me outside,  
+ you nasty brute, you kept on throttling me,  
+ until I crapped myself right where I was.                                                                                          
+
+CHORUS  
+ I think the hearts of younger spry  
+ are pounding now for his reply—  
+ for if he acts in just this way  
+ and yet his logic wins the day                                                              
+ I’ll not value at a pin  
+ any older person’s skin.  
+
+CHORUS LEADER  
+ Now down to work, you spinner of words,  
+ you explorer of brand new expressions.  
+ Seek some way to persuade us, so it will appear  
+ that what you’ve been saying is right.  
+
+PHEIDIPPIDES  
+ How sweet it is to be conversant with  
+ things which are new and clever, capable                                                                                        
+ of treating with contempt established ways.  
+ When I was only focused on my horses,                                                                           
+ I couldn’t say three words without going wrong.  
+ But now this man has made me stop all that,  
+ I’m well acquainted with the subtlest views,  
+ and arguments and frames of mind. And so,  
+ I do believe I’ll show how just it is  
+ to punish one’s own father.  
+
+STREPSIADES  
+ By the gods,  
+ keep on with your horses then—for me  
+ caring for a four-horse team is better  
+ than being beaten to a pulp.  
+
+PHEIDIPPIDES  
+ I’ll go back  
+ to where I was in my argument,                                                                                                
+ when you interrupted me. First, tell me this—  
+ Did you hit me when I was a child?  
+
+STREPSIADES  
+ Yes.  
+ But I was doing it out of care for you.  
+
+PHEIDIPPIDES  
+ Then tell me this: Is it not right for me  
+ to care for you in the same way—to beat you—  
+ since that’s what caring means—a beating?  
+ Why must your body be except from blows,  
+ while mine is not? I was born a free man, too.  
+ ”The children howl—you think the father  
+ should not howl as well?” You’re going to claim                                  
+ the laws permit this practice on our children.  
+ To that I would reply that older men  
+ are in their second childhood. More than that—  
+ it makes sense that older men should howl  
+ before the young, because there’s far less chance  
+ their natures lead them into errors.  
+
+STREPSIADES  
+ There’s no law that fathers have to suffer this.                                                                           
+
+PHEIDIPPIDES  
+ But surely some man first brought in the law,  
+ someone like you and me? And way back then  
+ people found his arguments convincing.                                                                          
+ Why should I have less right to make new laws  
+ for future sons, so they can take their turn  
+ and beat their fathers? All the blows we got  
+ before the law was brought in we’ll erase,  
+ and we’ll demand no payback for our beatings.  
+ Consider cocks and other animals—  
+ they avenge themselves against their fathers.  
+ And yet how are we different from them,  
+ except they don’t propose decrees?  
+
+STREPSIADES  
+ Well then,                                                                           
+ since you want to be like cocks in all you do,                                                              
+ why not sleep on a perch and feed on shit?  
+
+PHEIDIPPIDES  
+ My dear man, that’s not the same at all—  
+ not according to what Socrates would think.  
+
+STREPSIADES  
+ Even so, don’t beat me. For if you do,  
+ you’ll have yourself to blame.  
+
+PHEIDIPPIDES  
+ Why’s that?  
+
+STREPSIADES  
+ Because I have the right to chastise you,  
+ if you have a son, you’ll have that right with him.  
+
+PHEIDIPPIDES  
+ If I don’t have one, I’ll have cried for nothing,  
+ and you’ll be laughing in your grave.  
+
+STREPSIADES [addressing the audience]  
+ All you men out there my age, it seems to me                                    
+ he’s arguing what’s right. And in my view,  
+ we should concede to these young sons what’s fair.  
+ It’s only right that we should cry in pain  
+ when we do something wrong.  
+
+PHEIDIPPIDES  
+ Consider now another point.  
+
+STREPSIADES  
+ No, no.  
+ It’ll finish me!                                                                                                                                                               
+
+PHEIDIPPIDES  
+ But then again  
+ perhaps you won’t feel so miserable  
+ at going through what you’ve suffered.  
+
+STREPSIADES  
+ What’s that?  
+ Explain to me how I benefit from this.  
+
+PHEIDIPPIDES  
+ I’ll thump my mother, just as I hit you.                                                                              
+
+STREPSIADES  
+ What’s did you just say? What are you claiming?  
+ This second point is even more disgraceful.  
+
+PHEIDIPPIDES  
+ But what if, using the Worse Argument,  
+ I beat you arguing this proposition—  
+ that it’s only right to hit one’s mother?  
+
+STREPSIADES  
+ What else but this—if you do a thing like that,  
+ then why stop there? Why not throw yourself  
+ and Socrates and the Worse Argument                                                                                              
+ into the execution pit?  
+
+[Strepsiades turns towards the Chorus]  
+
+ It’s your fault,  
+ you Clouds, that I have to endure all this.                                                                       
+ I entrusted my affairs to you.  
+
+CHORUS LEADER  
+ No.  
+ You’re the one responsible for this.  
+ You turned yourself toward these felonies.  
+
+STREPSIADES  
+ Why didn’t you inform me at the time,  
+ instead of luring on an old country man?  
+
+CHORUS  
+ That’s what we do each time we see someone  
+ who falls in love with evil strategies,  
+ until we hurl him into misery,                                                                                                                     
+ so he may learn to fear the gods.  
+
+STREPSIADES 
+ O dear. That’s harsh, you Clouds, but fair enough.                                                  
+ I shouldn’t have kept trying not to pay  
+ that cash I borrowed. Now, my dearest lad,  
+ come with me—let’s exterminate those men,  
+ the scoundrel Chaerephon and Socrates,  
+ the ones who played their tricks on you and me.  
+
+PHEIDIPPIDES  
+ But I couldn't harm the ones who taught me.  
+
+STREPSIADES  
+ Yes, you must. Revere Paternal Zeus.[^note-295]
+
+PHEIDIPPIDES  
+ Just listen to that—Paternal Zeus.  
+ How out of date you are! Does Zeus exist?  
+
+STREPSIADES  
+ He does.  
+
+PHEIDIPPIDES  
+ No, no, he doesn’t—there's no way,  
+ for Vortex has now done away with Zeus  
+ and rules in everything.  
+
+STREPSIADES  
+ He hasn’t killed him.  
+
+[He points to a small statue of a round goblet which stands outside Thinkery]  
+
+ I thought he had because that statue there,  
+ the cup, is called a vortex.[^note-296] What a fool  
+ to think this piece of clay could be a god!  
+
+PHEIDIPPIDES  
+ Stay here and babble nonsense to yourself.  
+
+[Pheidippides exits][^note-297]
+
+STREPSIADES  
+ My god, what lunacy. I was insane  
+ to cast aside the gods for Socrates.  
+
+[Strepsiades goes up and talks to the small statue of Hermes outside his house]  
+
+ But, dear Hermes, don’t vent your rage on me,  
+ don’t grind me down. Be merciful to me.                                                                        
+ Their empty babbling made me lose my mind.                                                                         
+ Give me your advice. Shall I lay a charge,  
+ go after them in court. What seems right to you?  
+
+[He looks for a moment at the statue]  
+
+ You counsel well. I won’t launch a law suit.  
+ I’ll burn their house as quickly as I can,  
+ these babbling fools.  
+
+[Strepsiades calls into his house]  
+
+ Xanthias, come here.  
+ Come outside—bring a ladder—a mattock, too.  
+ then climb up on top of that Thinkery  
+ and, if you love your master, smash the roof,  
+ until the house collapses in on them.                                                  
+
+[Xanthias comes out with ladder and mattock, climbs up onto the Thinkery and starts demolishing the roof]  
+
+ Someone fetch me a flaming torch out here.  
+ They may brag all they like, but here today                                                                                  
+ I’ll make somebody pay the penalty  
+ for what they did to me.  
+
+[Another slave comes out and hands Strepsiades a torch. He joins Xanthias on the roof and tries to burn down the inside of the Thinkery]  
+
+STUDENT [from inside the Thinkery]  
+ Help! Help!  
+
+STREPSIADES  
+ Come on, Torch, put your flames to work.  
+
+[Strepsiades sets fire to the roof of the Thinkery. A student rushes outside and looks at Strepsiades and Xanthias on the roof]  
+
+STUDENT  
+ You there, what are you doing?  
+
+STREPSIADES  
+ What am I doing?  
+ What else but picking a good argument  
+ with the roof beams of your house?  
+
+[A second student appears at a window as smoke starts coming out of the house]  
+
+STUDENT  
+ Help! Who’s setting fire to the house?  
+
+STREPSIADES  
+ It’s the man  
+ whose cloak you stole.  
+
+STUDENT  
+ We’ll die. You’ll kill us all!                                                                                   
+
+STREPSIADES  
+ That’s what I want—unless this mattock  
+ disappoints my hopes or I fall through somehow                                                                     
+ and break my neck.  
+
+[Socrates comes out of the house in a cloud of smoke. He is coughing badly]  
+
+SOCRATES  
+ What are you doing up on the roof?  
+
+STREPSIADES  
+ I walk on air and contemplate the sun.  
+
+SOCRATES [coughing] 
+ This is bad—I’m going to suffocate.  
+
+STUDENT [still at the window] 
+ What about poor me? I’ll be burned up.  
+
+[Strepsiades and Xanthias come down from the roof]  
+
+STREPSIADES [to Socrates] 
+ Why were you so insolent with gods  
+ in what you studied and when you explored  
+ the moon’s abode? Chase them off, hit them,  
+ throw things at them—for all sorts of reasons,  
+ but most of all for their impiety.                                                                                               
+
+[Strepsiades and Xanthias chase Socrates and the students off the stage and exit after them]  
+
+CHORUS LEADER  
+ Lead us on out of here. Away!  
+ We’ve had enough of song and dance today.  
+
+[The Chorus exits]  
+  
+  
+
+  
+[^note-201]: *Thinkery*: The Greek word phrontisterion (meaning school or academy) is translated here as Thinkery, a term borrowed from William Arrowsmith's translation of The Clouds. 
+
+[^note-202]: During the war it was easy for slaves to run away into enemy territory, so their owners had to treat them with much more care. 
+
+[^note-203]: Wearing one’s hair long and keeping race horses were characteristics of the sons of very rich families. 
+
+[^note-204]: The interest on Strepsiades’ loans would increase once the lunar month came to an end. 
+
+[^note-205]: twelve minai is 100 drachmas, a considerable sum. The Greek reads “the horse branded with a koppa mark.” That brand was a guarantee of its breeding. 
+
+[^note-206]: Megacles was a common name in a very prominent aristocratic family in Athens. Coesyra was the mother of aMegacles from this family, a woman well known for her wasteful expenditures and pride. 
+
+[^note-207]: The Greek has “of Colias and Genetyllis” names associated with festivals celebrating women’s sexual and procreative powers. 
+
+[^note-208]: Packing the wool tight in weaving uses up more wool and therefore costs more. Strepsiades holds up his cloak which is by now full of holes. 
+
+[^note-209]: -hippos means “horse.” The mother presumably wanted her son to have the marks of the aristocratic classes.Xanthippos was the name of Pericles’ father and his son. The other names are less obviously aristocratic or uncommon. 
+
+[^note-210]: Chaerephon: a well-known associate of Socrates. 
+
+[^note-211]: pheasants were a rich rarity in Athens. Leogoras was a very wealthy Athenian. 
+
+[^note-212]: an obol was a relatively small amount, about a third of a day’s pay for a jury member. 
+
+[^note-213]: Knights is a term used to describe the affluent young men who made up the cavalry. Pheidippides has been mixing with people far beyond his father’s means. 
+
+[^note-214]: A yoke horse was part of the four-horse team which was harnessed to a yoke on the inside. 
+
+[^note-215]: I adopt Sommerstein’s useful reading of this very elliptical passage, which interprets the Greek word diabetes as meaning a passive homosexual (rather than its usual meaning, “a pair of compasses”—both senses deriving from the idea of spreading legs apart). The line about selling the cloak is added to clarify the sense. 
+
+[^note-216]: Thales was a very famous thinker from the sixth century BC. 
+
+[^note-217]: The Athenians had captured a number of Spartans at Pylos in 425 and brought them to Athens where they remained in captivity. 
+
+[^note-218]: Athenians sometimes apportioned land by lot outside the state which they had appropriated from other people. 
+
+[^note-219]: Attica is the territory surrounded by and belonging to Athens. 
+
+[^note-220]: A deme was a political unit in Athens. Membership in a particular deme was a matter of inheritance from one’s father. 
+
+[^note-221]: In 446 BC the Athenians under Pericles put down a revolt in Euboea, a large island just off the coast of Attica. 
+
+[^note-222]: Athamas, a character in one of Sophocles’ lost plays who was prepared for sacrifice. He was rescued by Hercules. 
+
+[^note-223]: Cecrops: a legendary king of Athens. Pallas is Pallas Athena, patron goddess of Athens. 
+
+[^note-224]: holy festivals: the Eleusinian mysteries, a traditionally secret and sacred festival for those initiated into the band of cult worshippers. 
+
+[^note-225]: Mount Parnes: a mountain range to the north of Athens. 
+
+[^note-226]: Typho: a monster with a hundred heads, father of the storm winds (hence, our word typhoon). 
+
+[^note-227]: thrush: meat from a thrush was considered a delicacy, something that might be given to the winner of a public competition. These lines are mocking the dithyrambic poets (perhaps in comparison with the writers of comic drama). 
+
+[^note-228]: Xenophantes’ son: a reference to Hieronymos, a dithyrambic and tragic poet. A centaur was known for its savage temper and wild appearance. 
+
+[^note-229]: Simon: an allegedly corrupt Athenian public official. 
+
+[^note-230]: Cleonymos: an Athenian accused of dropping his shield and running away from a battle. 
+
+[^note-231]: Cleisthenes: a notorious homosexual whom Aristophanes never tires of holding up to ridicule. 
+
+[^note-232]: Prodicus: a well-known Athenian intellectual, who wrote on a wide variety of subjects. Linking Socrates and Prodicus as intellectual equals would strike many Athenians as quite absurd. 
+
+[^note-233]: Vortex: the Greek word is dinos meaning a whirl or eddy. I adopt Sommerstein’s suggestion for this word here. 
+
+[^note-234]: Panathenaea: a major annual festival in Athens. 
+
+[^note-235]: Cronos: the divine father of Zeus, the age of Cronos is part of the mythic past. 
+
+[^note-236]: Legally an Athenian who believed someone had stolen his property could enter the suspect’s house to search. But he first had to remove any garments in which he might conceal something which he might plant in the house. 
+
+[^note-237]: Trophonios’ cave was a place people went to get prophecies. A suppliant carried a honey cake as an offering to the snakes in the cave. 
+
+[^note-238]: win: this is a reference to the fact that the play is part of a competition. The speech obviously is part of the revisions made after the play failed to win first prize in its initial production. The speaker may have been Aristophanes himself or the Chorus Leader speaking on his behalf. 
+
+[^note-239]: trained it: This passage is a reference to Aristophanes’ first play, The Banqueters, and to those who helped him get the work produced. The child mentioned is a metaphorical reference to that work or to his artistic talent generally. The other woman is a metaphorical reference to Callistratos, who produced The Banqueters. 
+
+[^note-240]: Electra was the sister of Orestes and spent a long time waiting to be reunited with him. That hope kept her going. When she saw her brother’s lock of hair on their father’s tomb, she was overjoyed that he had come back. The adjective “old” refers to the story, which was very well known to the audience. 
+
+[^note-241]: These lines may indicate that in The Clouds the male characters did not wear the traditional phalluses or that the phalluses they did wear were not of a particular kind. 
+
+[^note-242]: Cleon was a very powerful Athenian politician after Pericles. Aristophanes savagely attacked him in Knights. Cleon was killed in battle (in 422). Hyperbolos became a very influential politician after Cleon’s death. 
+
+[^note-243]: Eupolis, Phrynichos, and Hermippos were comic playwrights, rivals of Aristophanes. 
+
+[^note-244]: Paphlagonian tanner is a reference to Cleon, who earned his money from tanneries. Paphlagonia is an area in Asia Minor. The word here implies that Cleon was not a true Athenian. 
+
+[^note-245]: seagull was a bird symbolic of thievery and greed. The contradiction in these speeches in the attitude to Cleon (who died the year following the original production) may be accounted for by the incomplete revision of the script. 
+
+[^note-246]: holy lady is a reference to the goddess Artemis. The aegis is a divine cloak which has invincible powers to strike fear into the god’s enemies. Here it is invoked as a protection for Athens, Athena’s city. Dionysus lived in Delphi when Apollo was absent from the shrine during the winter. 
+
+[^note-247]: Athenians followed a lunar calendar, but there were important discrepancies due to a very careless control over inserting extra days. 
+
+[^note-248]: Memnon or Sarpedon: Memnon, the son of Dawn, was killed at Troy, as was Sarpedon, a son of Zeus, and leader of the Lycian allies of the Trojans. 
+
+[^note-249]: religious council: the Amphictyonic Council, which controlled some important religious shrines, was made up of delegates from different city states. In Athens the delegate was chosen by lot. It’s not clear how the gods could have removed the wreath in question. 
+
+[^note-250]: the dactyl is named from the Greek word for finger because it consists of one long stress followed by two short stresses, like the structure of bones in a finger. The phrase “which is like a digit” has been added to make the point clearer. 
+
+[^note-251]: I adopt Sommerstein’s suggested insertion of this line and a half in order to clarify what now follows in the conversation, which hinges on the gender of words (masculine, feminine, or neuter) and the proper ascription of a specific gender to words which describe male and female objects. The word “fowl” applies to both male and females and therefore is not, strictly speaking masculine. This whole section is a satire on the “nitpicking” attention to language attributed to the sophists. 
+
+[^note-252]: kneading basin: a trough for making bread. 
+
+[^note-253]: Cleonymos was an Athenian politician who allegedly ran away from the battle field, leaving his shield behind. 
+
+[^note-254]: to masturbate: the Greek here says literally “Cleonymosdidn’t have a kneading basin but kneaded himself with a round mortar [i.e., masturbated].” 
+
+[^note-255]: The point of this very laboured joke seems to be making Cleonymos feminine, presumably because of his cowardice (running away in battle). 
+
+[^note-256]: The three names mentioned belong to well known Athenians, who may have all been famous for their dissolute life style. Socrates is taking issue with the spelling of the last two names which (in some forms) look like feminine names. Strepsiades, of course, thinks Socrates is talking about the sexuality of the people. 
+
+[^note-257]: Amynia: in Greek (as in Latin) the name changes when it is used as a direct form of address—in this case the last letter is dropped, leaving a name ending in -a, normally a feminine ending. 
+
+[^note-258]: Corinthian is obviously a reference to bed bugs, but the link with Corinth is unclear (perhaps it was a slang expression). 
+
+[^note-259]: bug: children sometimes tied a thread around the foot of a large flying bug and played with it. 
+
+[^note-260]: The scribe would be writing on a wax tablet which the heat would melt. 
+
+[^note-261]: Melos: Strepsiades presumably is confusing Socrates with Diagoras, a well known materialistic atheist, who came from Melos (whereas Socrates did not). 
+
+[^note-262]: died: part of the funeral rituals in a family required each member to bathe thoroughly. 
+
+[^note-263]: Sons of Earth: a phrase usually referring to the Titans who warred against the Olympian gods. Here it also evokes a sense of the materialism of Socrates’ doctrine in the play and, of course, ironically ridicules the Thinkery. 
+
+[^note-264]: “necessary expense”: refers to the well-known story of Pericles who in 445 BC used this phrase in official state accounts to refer to an expensive but secret bribe he paid to a Spartan general to withdraw his armies from Athenian territories around Athens. No one asked any embarrassing questions about the entry. 
+
+[^note-265]: speech: the Greek says “with his lips sagging [or loosely apart].” Socrates is criticizing Pheidippides’ untrained voice. 
+
+[^note-266]: talent: an enormous fee to pay for lessons in rhetoric. Socrates is, of course, getting Strepsiades ready to pay a lot for his son’s education. 
+
+[^note-267]: Zeus overthrew his father, Cronos, and the Titans and imprisoned them deep inside the earth. 
+
+[^note-268]: Telephos from Mysia was a hero in a play by Euripides in which a king was portrayed as a beggar. Pandeletos was an Athenian politician. The imputation here is that the Worse Argument once did very badly, barely surviving on his wits and borrowed ideas. 
+
+[^note-269]: thighs apart: keeping the thighs together was supposed to enable boys to stimulate themselves sexually. 
+
+[^note-270]: Phrynis style: Phrynis was a musician who introduced certain innovations in music around 450 BC. 
+
+[^note-271]: Cedeides: a dithyrambic poet well known for his old-fashioned style. The other references are all too ancient customs and rituals (like the old tradition of wearing a cicada broach or the ritual killing of oxen). 
+
+[^note-272]: Marathon: a battle in 490 BC in which a small band of Greeks, mainly Athenians, defeated the Persian armies which had landed near Athens. The Panathenaea was a major religious festival in Athens. Tritogeneia was one of Athena’s titles. 
+
+[^note-273]: Iapetus was a Titan, a brother of Cronos, and hence very ancient. 
+
+[^note-274]: Hippocrates was an Athenian, a relative of Pericles. He had three sons who had a reputation for childishness. 
+
+[^note-275]: Academy: this word refers, not to Plato’s school (which was not in existence yet) but to a public park and gymnasium in Athens. 
+
+[^note-276]: long decrees: The Greek says “and a long decree,” which makes little sense in English. The point of the joke is to set the audience up to expect “and a long prick” (which was considered a characteristic of barbarians). 
+
+[^note-277]: Antimachos was satirized in comedy as a particularly effeminate man. 
+
+[^note-278]: drachmas: the Greek has “more than ten thousandstaters.” A stater was a general term for non-Athenian coins, usually of high value. The idea, of course, is equivalent to “a ton of money.” 
+
+[^note-279]: bath of Hercules was a term commonly applied to thermal hot springs. 
+
+[^note-280]: This part of the argument is impossible to render quickly in English. Homer’s word is agoretes, meaning “speaking in the assembly.” The Worse Argument is implying that, since the word agora means market place, Homer is commending these men for “talking in the market place.” 
+
+[^note-281]: Peleus once refused the sexual advances of the wife of his host. She accused him of immoral activity, and her husband set Peleus unarmed on a mountain. The gods admired Peleus’ chastity and provided him a sword so he could defend himself against the wild animals. 
+
+[^note-282]: Peleus, a mortal king, married Thetis, a sea goddess, with the blessing of the gods. Their child was the hero Achilles. She later left him to return to her father (but not for the reason given in the lines following). 
+
+[^note-283]: asshole: Someone caught in the act of adultery was punished by having a radish shoved up his anus and his pubic hair singed with hot ash. The various insults here ("loose-arsed bugger," "gigantic asshole," and so on) stand for the Greek perjorative phrase "wide arsed," which, in addition to meaning "lewd" or "disgusting," also carries the connotation of passive homosexuality, something considered ridiculous in mature men. Terms like "bum fucker" are too active to capture this sense of the insult. 
+
+[^note-284]: The person making the charge in court had to make a cash deposit which was forfeit if he lost the case. 
+
+[^note-285]: Solon: was a very famous Athenian law maker. In the early sixth century he laid down the basis for Athenian laws. 
+
+[^note-286]: Pheidippides’ hair-splitting argument which follows supposedly establishes that the law suits against Strepsiades are illegal and should be tossed out because (in brief) the court had taken the deposit, which the creditor had to make to launch the suit, on the wrong day (the last day of the month instead of the first day of the new month). The case rests on a misinterpretation of the meaning of the term Old and New Day—which was single day between the old and the new moon. The passage is, of course, a satire on sophistic reasoning and legal quibbling for self-interest. 
+
+[^note-287]: my own deme: the deme was the basic political unit in Athens. Membership in it passed down from one’s father. 
+
+[^note-288]: three extra obols: Strepsiades means here that swearing the oath will be such fun he’s prepared to pay for the pleasure—an obvious insult to Pasias. 
+
+[^note-289]: salt: leather was rubbed down as part of the tanning process. The phrase “wine skin” has been added to clarify the sense. 
+
+[^note-290]: Carcinus: an Athenian writer of tragic drama. 
+
+[^note-291]: Amynias is here quoting from a tragedy written by Carcinus’ son Xenocles. 
+
+[^note-292]: Tlepolemos is a character in the tragedy mentioned in the previous note. 
+
+[^note-293]: Simonides: was a well-known lyric poet of the previous century. 
+
+[^note-294]: myrtle branch: traditionally a person singing at a drinking party held a myrtle branch unless he was playing a musical instrument. 
+
+[^note-295]: Paternal Zeus: This seems to be an appeal to Zeus as the guardian of the father’s rights and thus a way or urging Pheidippides to go along with what his father wants. The line may be a quote from a lost tragedy. 
+
+[^note-296]: Vortex: the Greek word dinos, meaning “whirl,” “eddy,” or “vortex,” also means a round goblet. The statue of such a goblet outside the Thinkery represents the presiding deity of the house. 
+
+[^note-297]: It’s not clear whether Pheidippides goes back into his house or back into the school. If he does the latter, then the comic violence at the end of the play takes on a much darker tone, since Strepsiades’ murderous anger includes his son. In fact, the loss of his son might be the key event which triggers the intensity of the final destruction. 
+  
+

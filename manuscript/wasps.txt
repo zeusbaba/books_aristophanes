@@ -1,0 +1,1931 @@
+# Wasps {#wasps}  
+  
+C> *This edition is based on the [publicly available](https://bacchicstage.wordpress.com/aristophanes/wasps/) translation by G.Theodoridis*  
+  
+Aristophanes’ “WASPS” Σφήκες   
+
+Written in 422BCE  
+
+
+...  
+  
+  
+
+**DRAMATIS PERSONAE**  
+
+**Philocleon**  
+**Misocleon** (his son)  
+**Sosias and Xanthias** (slaves of Philocleon)  
+
+**Boy** (son of the Chorus leader)  
+
+**Demagogue**  (Victim of Philocleon)  
+
+**Myrtia** (A Woman Baker)  
+
+**Accuser of Philocleon**  
+
+**Chorus** (of old jurymen, dressed as wasps)  
+
+**Silent Parts:**  
+
+Misocleon’s donkey  
+
+Boys (sons of Jurymen)  
+
+Midas, Masyntias, Frygas (Slaves of Misocleon)  
+
+Barker (Aexone’s dog)  
+
+Puppies of Barker  
+
+Kitchen Utensils  
+
+Dardanis (a girl flute player)  
+
+Victims of Philocleon  
+
+Chaerephon  
+
+Witness of the Accuser  
+
+Carcinus  
+
+Three dancers (sons of Carcinus)  
+
+...  
+
+*The set represents the house of Philocleon and Misocleon.  
+The altar of Dionysus stands at Front, Stage Right.  
+The whole house is wrapped with a huge net. 
+A large bar and a locked padlock are attached to the front door. 
+Here and there are planks of wood, stones, a millstone and some branches. 
+On the roof sleeps Misocleon.  
+A small room inside the house is Philocleon’s sleeping quarters. 
+Xanthias and Sosias guard the front door.  
+Dawn is breaking.  
+Xanthias is turning and tossing, making a great deal of noise.*  
+
+Sosias:  
+Hey, Xanthias, you evil demon, what’s the matter with you?  
+
+Xanthias:  
+I’m thinking about how to shorten the night watch.  
+
+Sosias:  
+You’re thinking about how to increase the pain on your arse, you mean! Don’t you know what sort of a bastard we’re guarding here?  
+
+Xanthias:  
+Yeah, I know but I just want to forget that for just a little while. Distance my brain from the task a bit…  
+
+Sosias:  
+You’re looking for trouble my friend. Still something delightful is weighing down upon my eyelids, too… sleeeeep… sleeeeep… *begins to snore heavily*  
+
+Xanthias:  
+Oi! Either you’re gone nuts or you’re in the middle of a beauty of a wet dream!  
+
+Sosias:  
+No, no… just a few… frenzied drunk women… slaves… sleeeeep… sleeeeep… ahhhh! Yes!  
+
+Xanthias:  
+Just as I thought! We’re in the same dream my friend! Caught me a moment ago when a delightful weight fell upon my eyelids too. Heavy weight. You’d reckon a whole platoon of Persians was standing on them! Ahhhh, and what an enchanting dream! Wondrous to behold!  
+
+Sosias:  
+No kidding, me too! I’ve never had a dream like it but you tell me yours first.  
+
+  
+Xanthias:  
+Well, it seems I saw this huge eagle flying over the market. Huge bastard. Flying around the market until down it comes and with its huge talons it snatches a shield made of bronze. Then it flew high up into the Heavens again and from there… and from there… Kleonymos the coward, the deserter, dropped it!  
+
+Sosias:  
+Yeah, Kleonymos the shield dropper does make a funny riddle, doesn’t he? I mean, fancy dropping your shield and running off in the middle of a battle.  Good ol’ Kleonymos!  
+
+Xanthias:  
+Yeah… What do you mean a “good riddle?”
+
+Sosias:  
+Well, a man could ask his mates at the pub “what sort of beast drops its shield on land, in the air and at sea?”
+
+Xanthias:  
+O, my! A dream like that! What rotten things are heading my way, I wonder?  
+
+  
+Sosias:  
+Nah! Don’t worry, mate. Nothing bad is going to happen to you… Not unless the gods will it!  
+
+Xanthias:  
+It’s a dreadful thing though, a man dropping his arms like that, I mean… Now tell me your dream!  
+
+Sosias:  
+Oh, mine’s huge! It’s about the whole ship of State!  
+
+Xanthias:  
+Well, hurry then, tell me… begin with the hull!  
+
+Sosias:  
+Well, at the first nod, I dreamed in my dream a whole lot of sheep gathering at the gates of the parliament and these sheep were wearing short leather jackets and carrying walking sticks. Then, all of a sudden a huge whale, an absolutely gluttonous beast started making a speech, with what I thought, was the shrill voice of a poked pig.  
+
+Xanthias:  
+Oh, no!  
+
+Sosias:  
+What’s up?  
+
+Xanthias:  
+Enough, enough! Shut up! Your dream stinks of rotten leather!  
+
+Sosias: Ignoring Xanthias  
+Then, this huge stinking beast was holding a pair of scales and was weighing… ox fat! Or was it fat people?  
+
+  
+Xanthias:  
+Frightening! Very frightening! I think he wants to divide the people!  
+
+Sosias:  
+And I dreamed that Theorus was there with the head of crow, squatting on the ground, next to the huge cock of a beast and then Alcibiades turned to me and said with his usual lisp, “Thee there? There’s Theowus with the head of a clow!”
+
+Xanthias:  
+He lithped cowwectly, that Althibiades!  
+
+Sosias:  
+Awkward idea that isn’t it? I mean Theorus turning into a crow?  
+
+Xanthias:  
+Not at all. It’s an excellent sign!  
+
+Sosias:  
+How do you mean?  
+
+Xanthias:  
+Well, look: First Theorus is a man and then he turns himself into a crow. Doesn’t this signify that he’s about to leave us and fly off to… the crows?  
+
+Sosias:  
+What an expert dream interpreter! Will you accept a two-obols-a-day permanent job with me?  
+
+  
+Xanthias:  
+Well, now, be quiet and let me delineate the play to our audience! First though a few words, like a sort of a prologue.  
+Turning to the audience  
+Don’t expect from us either anything grand or anything as low as those dreadful, coarse jokes told by the Megarians. Nor will you see the spectacle of two slaves holding a basket of nuts which they throw at you; nor Heracles whose food they pinch, nor stupid abuse thrown at Euripides. Nor will we make for the second time minced meat out of Cleon who had this recent bit of shining good luck!  
+No, what you will see is a bright little piece of work… but, of course, no brighter than you though, still not so low as to be insufferable.  
+Out there, snoring on the roof, we have our boss, a man most noteworthy. He has told us to guard his father and make sure he doesn’t escape from lock and key. This is because his father has this terrible and strange disease which if we were not to tell you what it is, you’d never think of it nor would you know of it, nor yet could guess of it! Go on, try guessing what it might be!  
+
+Sosias:  
+Pronapes’ son Amynias, says that the old man suffers from an acute case of dice-o-philia, in other words, love of the dice!  What a gambler the man is!  
+
+Xanthias:  
+Utter nonsense! He’s using his own affliction to judge that of our master, by Zeus, by Zeus!  
+But this word “philia” is the core of his problem.  There’s a certain Sosias who has told a certain Dercylus that he, Dercylus, suffers from wine-o-philia.  
+
+Sosias:  
+Utter nonsense! Everyone knows that wine-o-philia is the disease that afflicts the important men amongst us.  
+
+  
+Xanthias:  
+Nikostratus, though, our great and successful general, who hails from Scambonidae, is of another opinion. His guess is that our master suffers from sacrifice-o-philia… or xenophilia.  
+
+Sosias:  
+Now that’s a doggy poo, Nikostratus! Xenophilus is a… queer!  You know that!  
+
+Xanthias:  
+Stop guessing, you’re nowhere near the truth with all this chit chat. Shut up if you want to learn the truth.  I’ll tell you what my master suffers from. He suffers from jury-o-philia. And how! More than anyone else would ever love being a juror!  You’ll hear him sighing deep sighs if he’s too late to catch a front row seat!  
+Not a wink of sleep during the night! Even if sleep does have a chance at his eyelids for a moment his mind will be constantly hovering around the jury’s time piece. All night! Imagine, this habit he has of holding the vote between his three fingers, well, those fingers are now permanently stuck together –like this, see? – and when he gets up he rushes off as if he’s taking incense to the altar for the first of the month prayers!  
+And, by the gods, if he sees a sign on some door that says, let’s say, “Pyrilampes’ son, Demos, is a cutie pie,” he goes and writes next to it, “the ballot box is a cutie pie.”
+  
+If his own cock woke him up too late even as early as bedtime, our master would accuse him of waking him up too late because the magistrates had bribed him. The moment the evening meal is finished he shouts for his shoes to be brought to him. Then he runs off to the courthouse very early and, being too early he stands stuck by a post like a barnacle. Stuck there like that until the time comes for him to do his judging.  
+When the time comes for him to show the extent of the guilt of all the accused, he, being such a nasty bugger, draws this huge line across the wax tablet so that his finger nails are so thick with wax that he looks like a bee or a bumblebee. He is so frightened that he’ll run out of voting shells that he’s got the whole beach brought here into his house. That’s how crazy our master is and the more people try to reason with him the worse he gets –the more cases he wants to judge.  
+That’s why we’ve got him locked up, preventing him from escaping.  
+His son, up there (indicating Misocleon) is very worried about the old man’s madness. At first he tried to persuade him with words: not to wear the juror’s cape nor to keep running off to the courthouse like that but this old man just wouldn’t listen. Couldn’t care a less!  
+Then we gave him expiation baths but to no avail. Then his son took him to the temple of the Chorybants, hoping for some cure but off he goes again to the court banging on his little drum and there he is again, listening to more cases!  
+When all these efforts didn’t succeed, Misocleon carries him one night to the temple of Asclepios in Aigina and lies him down there but he, even before Dawn, there he is back at the court’s gate.  
+  
+From then on we’ve got him all locked up but still the bugger kept escaping from different holes or the gutters, so we stopped all the holes with plugs and sealed them up inscrutably. So what does he do then? He hammers great pegs into the wall and… runs up them like a pet crow and off he hops back to the courthouse! That’s why we’ve put the nets all over the house and the courtyard and we’re standing guard all around it.  
+The old guy has a name: Philocleon. It’s true! He’s a Cleon lover! His son, Misocleon hates Cleon and that’s why they say he’s a difficult man, sort of hoity-toity.  
+
+Pause. Snoring from Misocleon for a few seconds before we notice that Philocleon is creeping away from his bed room and has disappeared into the house. Suddenly great noises wake everyone up, including Misocleon  
+
+Misocleon: (From the roof)  
+Xanthias, Sosias are you asleep?  
+
+Xanthias:  
+Oh no!  
+
+Sosias:  
+What is it?  
+
+Xanthias:  
+Misocleon is up!  
+
+Misocleon:  
+One of you run around the house. My old man has managed to get himself into the oven and he’s spinning around like a mouse. You! Look into the bath room in case he tries to escape from the chimney stack. And you, stand by the door and watch it carefully.  
+
+Sosias runs around the back of the house, effectively exiting.  
+
+Xanthias:  
+Yes boss!  
+
+Misocleon:  
+By the Lord Poseidon! What’s the noise in the chimney? Ey, you down there! Who are you?  
+
+Philocleon: (appearing behind the netting)  
+Me? You’re talking to me? I am… smoke and I’m coming out.  
+
+Misocleon:  
+Ah! You’re smoke, ey?  Let me see now, from what sort of wood?  
+
+Philocleon:  
+Fig tree wood. Pride of the sycophants!  
+
+Misocleon:  
+Ah but of course! What other type would you be but the most irritating kind of smoke! Good for coughing and splattering your lungs to death. But you won’t escape! Searches for a plank. Now where is the plank? Here it is! Get back! He places the plank upon the chimney stack. There, I’ve put the piece of wood on the chimney. Now go find some other means of escape. Honestly, the troubles I’ve got. Soon they’ll be calling me son of Old Smokey! What a joke of a Comedian that man was!  
+
+Philocleon:  
+Ey, you, slave?  
+
+Xanthias:  
+Ah! He’s pushing at the door!  
+
+Misocleon:  
+Then lean hard against it! I’m coming down there as well. And keep an eye on the bar and the padlock. He might eat it!  
+
+  
+Philocleon:  
+What are you up to? Let me out, you… you stinkers! Let me out or else Mr Slippery will slip away scot free before I can even hear his case!  
+
+Xanthias:  
+And that would upset you so very much?  
+
+Philocleon:  
+Too right, it would! Look! When I went to the Delphic oracle seeking advice, the god prophesied that if I ever let anyone slip away, I’d be a carked man!  
+
+Xanthias:  
+Wow! What a prophesy! By Apollo the protector!  
+
+Philocleon:  
+Come on, I beg you! Let me out or I’ll blow up!  
+
+Xanthias:  
+No, by Poseidon, no way!  
+
+Philocleon:  
+Then I’ll chew up all the netting with my teeth.  
+
+Xanthias:  
+Teeth? What teeth?  
+
+  
+Philocleon:  
+Ah poor wretch! How can I kill him! Someone give a sword! Or the tablet to draw the length of his penalty!  
+
+Misocleon has by now come down from the roof.  
+
+Misocleon:  
+That man is up to something evil!  
+
+Philocleon:  
+No, by the gods! Trust me I just want to sell a donkey and some panniers. It’s market day today.  
+
+Misocleon:  
+I can do that.  
+
+Philocleon:  
+No, you can’t! Not as well as I can.  
+
+Misocleon:  
+No, I can do it better than you.  
+
+Philocleon:  
+All right then, get the donkey out!  
+
+Xanthias:  
+By the gods! What a clever man this is! What a clever lure he has devised for you to let him out!  
+
+Misocleon:  
+But his lure has failed and he caught nothing! I know him and his lures! Still I’ll go and get the donkey myself. I don’t want the old man to escape again!  
+Goes into the house and returns with the donkey. The donkey is braying.  
+Little ass, little ass, why are you crying? Don’t you want to be sold? Come on, walk a little faster. What’s all the noise? Don’t tell me you’re carrying some Odysseus or other?  
+
+Xanthias:  
+By Zeus, yes! She’s certainly carrying somebody under her belly. Here he is! Look!  
+
+Misocleon:  
+Who is it?  Let me look! Here he is! Now what is this? Who are you? Tell me my good man?  
+
+Philocleon:  
+My name is Nobody!  
+
+Misocleon:  
+Nobody? You’re Mr Nobody? And where are you from?  
+
+  
+Philocleon:  
+Me? I’m from Ithaca. Son of Escape-ass.  
+
+Misocleon:  
+Well, Mr Nobody, you’ll enjoy no scheme of escappe-ass. Quick, drag the fool out from under there. Look where the stinker crawled! Looks more like a summoner’s ass to me than Mr Escapeass’ ass!  
+
+Philocleon:  
+Let me go or else we’ll end up fighting!  
+
+Misocleon:  
+Indeed! Fighting about what?  
+
+Philocleon:  
+Eh… the ass’ shadow!  
+
+Misocleon:  
+You’re the sliest of the sly and the worst of the worse!  
+
+Philocleon:  
+Me? The worst of the worse? By Zeus, no! You don’t have a clue of my true worth! Not until you bite off a piece of a tough old juror’s gut!  
+
+Misocleon:  
+Go on! You and the old donkey get into the house.  
+
+Misocleon and the donkey are hustled into the house.  
+
+Philocleon:  
+Comrade jurors! General Cleon! Help!  
+
+Misocleon:  
+Now that you’re inside you may yell all you like. Xanthias pile up lots of stones around the door and pull that bolt back across into its slot… and reinforce it with another plank and hurry! Roll that big millstone against the door, too!  
+
+Xanthias completes the tasks and stands by the door. A moment later a small stone falls on his head.  
+
+Xanthias:  
+Ouch! Now where did this stone come from?  
+
+Misocleon:  
+Perhaps a mouse threw it from the roof!  
+
+  
+Xanthias:  
+What mouse are you talking about? Look up there! There’s someone hiding beneath the roof.  There he is, our juror! A juror of roofs!  
+
+Misocleon:  
+Damn it! He’s turning himself into a sparrow.  He’ll fly away. Where’s the netting gone? Shoo!  Shoo you shit and shoo again! Get back in there!  Damn it! I’d rather be a guard at the traitorous city Scione than have to deal with such a father!  
+
+Xanthias feels exhausted and under the impression that the hard work is over.  
+
+Xanthias:  
+Now that we’ve done with the old man and there’s no way he can escape, what do you say for a bit of a snooze, hey?  
+
+Misocleon:  
+You idiot! Any minute now his juror mates will turn up to take my father to the courthouse!  
+
+Xanthias:  
+What are you on about? It’s still the middle of the night!  
+
+Misocleon:  
+And I’m telling you, by Zeus, they’re late tonight. They always come out at midnight, swinging their torches and warbling their silly ancient Siddon melodies by that old crooner, Phrynicus. That’s how they call the old man out.  
+
+Xanthias:  
+If the worse comes to worst we’ll start throwing stones at them.  
+
+Misocleon:  
+You’re such an idiot, boy! Getting the old men angry is like getting a wasp’s nest angry. These old guys have great big, sharp stingers sticking out of their bums, which they use to sting people with. They jump and charge like scorching sparks.  
+
+Xanthias:  
+Don’t you worry boss. With enough stones I can scatter many nests of jurors.  
+
+The two lie down and soon begin to snore. 
+Enter the chorus of old jurors dressed as wasps and carrying torches. Part of their dress includes a cape 
+They are accompanied by the boys who are guiding them. 
+The boys are carrying on their shoulder a small “shopping bag.”
+
+  
+Chorus:  
+Onward and forward lusty chaps! Ey, you, Komias! You’re very slow these days.  Not like in the olden days when you were tough like a dog’s leash. See, now even Charinares walks faster than you!  
+
+Chorus:  
+Strymodorus of Conthyle, my best comrade juror! Can you see Evergides or Chabes of Phlya anywhere? No? Oh dear, look at us! I’m afraid that’s all that’s left of that beautiful youth that did guard duty at Byzantium. Just the two of us! Hey, remember when we went roaming about the streets one night, pinched a bread-woman’s kneading bowl, turned it into firewood and we cooked some pimpernel? Come on then boys, let’s get on with it. We’re hearing Laches’ case today. They’re all saying he stuffed his hive full of money! That’s why our patron the General Cleon has given orders yesterday for us to get there very early, each of us carrying three days’ rations of rotten rage for Laches so that he will not escape our punishment.  
+
+Chorus:  
+Come on then, old comrades before it gets to be daybreak. Let’s move on and make sure we look carefully everywhere with our torches that we don’t stumble on any stones and hurt our selves badly.  
+
+Boy:  
+Careful, daddy. Careful the mud there!  
+
+Chorus:  
+Well, pick up a twig from the ground and trim the torch!  
+
+  
+Boy: Holding up a finger 
+No, it’s all right, I think I’ll use this.  
+
+Chorus:  
+You idiot! Who taught you to trim the torch with you fingers? You know how expensive oil is? But then again, it’s not you who feels the bite when the prices rise like that! Slaps him one.  
+
+Boy:  
+Oi! Slap me once more to teach me a lesson and I promise you, we’ll blow out all the torches and run off home on our own. You’ll be stumbling around in the dark then and sloshing about in the mud like a partridge.  
+
+Chorus:  
+Watch it, me lad! I’ve taught lessons to bigger folk than you. But… damn! I think I’ve stepped into some mud! Well then, I say that this means that it will rain within four days! And I can see that the torch is gathering mold and that’s when the rain loves to come down. All those crops that aren’t up yet will need the rain followed by the breath of the North wind… They’ve reached Philocleon’s house Hey, what’s going on here? What’s the matter with our comrade juror, Philocleon? Isn’t he coming out to join our crew? I wonder what’s wrong with him. He’s never been late before.  He’s always been the first among us and he’d be singing the Phrynicus repertoire. He always loved those songs.  
+
+Chorus:  
+My friends, I think we should stand here for a while and sing him out of the house. Once he hears my voice he’ll be most happy to slide out of his door.  
+  
+What could the matter be with the old man?  
+Why isn’t he standing before us, by his door?  
+Has he lost his shoes perhaps?  
+Stubbed his toes, perhaps?  
+Hurt his ankle being such an oldie?  
+
+Chorus:  
+A case of swollen balls?  
+He used to be keener than all of us  
+Once!  
+Once he’d get a thought in his head,  
+He’d never let it go  
+And if anyone asked him for a favour  
+He’d say, “poor suck, up your Kyber!”
+
+Chorus:  
+Perhaps it is because of Caristos the Samian’s  
+Case yesterday! The rotten man tricked us into  
+Thinking he was pro-Athenian and  
+Told us the goings on at Samos. He slipped  
+Through our fingers.  
+
+Chorus:  
+Perhaps that made the old man so angry that  
+He’s lying in his bed with a fever!  
+That’s our old Philocleon,  
+What a man!  
+
+Chorus:Shouting  
+But, dear, sweet chap do get up and out of bed!  
+Don’t feel so bad or angry about your self,  
+They brought us a real heavyweight today  
+One of those who betrayed us at Thrace,  
+Let’s make sure we have him in the pot  
+Old boy!  
+Move on, boy, move on!  
+
+Boy:  
+Daddy, if I ask you for something will you give it me?  
+
+Chorus:  
+By all means my dear boy! Tell daddy what  
+Nice things you want him to buy for you.  
+Knuckle sandwich, perhaps?  
+
+Boy:  
+No daddy, I prefer some dried figs  
+They’re much sweeter!  
+
+Chorus:  
+No, by Zeus! Not even if you go hang yourself!  
+
+Boy: Pulls his torch away  
+Then I’ll stop guiding you.  
+
+  
+Chorus:  
+Listen you! With this tiny wage I’ve got to buy three things: flour, firewood and food for the three of us. What figs are you on about, boy?  
+
+Boy: Thinks for a moment  
+Tell me daddy, if the Minister doesn’t call the court into session today, how are we going to eat? Do you hold any hope for the provision of food for these little Hellenes?  
+
+Chorus:  
+Ah! Poor me! I have no idea how and from where I’ll get us a bite.  
+
+Boy:  
+Oh, my poor, wretched mother why did you give birth to me?  
+
+Chorus:  
+Why? She gave birth to you so that I would have to deal with the worry of feeding you, that’s why!  
+
+Boy: Talking to his shopping bag hanging from his shoulder  
+What a useless little ornament you turned out to be my poor, little shopping bag!  
+
+Philocleon: Pokes his head out of a window  
+My dear, dear friends! I’ve been listening to your sweet voices all this time with a broken heart because I just can’t get out of here. What shall I do? These men are guarding the door because I want to go with you to the court house and give someone some big sentence.  
+O Zeus! Zeus the great chunderer! Do turn me into smoke, or else into a Proxenides the great boaster or into the son of Sellus a real boaster of the vine climber nature.  
+Do me this favour great Lord! Pity my torture and smash your great burning thunder bolt upon my head, turn me into ashes, throw me into a hot sauce… either that or turn me into a pebble… the sort the jurors use to count votes!  
+
+Chorus:  
+But who is it that locked you up in there? Tell us, we’re your friends.  
+
+  
+Philocleon:  
+My son, but don’t yell. He’s asleep up there. Lower your voices.  
+
+Chorus:  
+You stupid suck! What excuse does he use to do this to you?  
+
+Philocleon:  
+He won’t let me do my judging, he won’t let me give out my heavy punishments but he forces me to wine and dine! Now I certainly don’t want that! Not what I want at all!  
+
+Chorus:  
+I know why. This young skunk dared to do a Demologocleon because you tell the truth about youth and boats. Such shame he wouldn’t dare inflict on you even he was a spy!  
+But it’s now about time you found a way of escaping without him noticing you, so you can come out here with us.  
+
+Philocleon:  
+But what could this idea be? You think one up for me. I’m willing to do anything. Anything! That’s how strong my desire is to be around the ballot boxes with a pebble in my hand.  
+
+Chorus:  
+Perhaps there’s some gap in the woodwork that you might be able to widen a bit and then you could come out disguised like sly old Odysseus, wearing rags when he entered Troy.  
+
+  
+Philocleon:  
+They’ve sealed everything so tightly that not even a gnat can escape from here. You have to think of something else. I certainly can’t turn myself into runny whey!  
+
+Chorus:  
+Do you remember when you were a soldier during our Naxos campaign?  You stole some skewers and poking them into the wall you managed to enter the city?  
+
+Philocleon:  
+I do, I do remember. Well? What of it? Not the same thing. I was young and brave those days. Sharp as a tack, I was! No one was guarding me then and I could escape without fear. Now there are armed guards in the streets. There’s two of them right there in front of the door, holding skewers – watching me like a cat that’s stolen some meat.  
+
+Chorus:  
+Well, my darling little honey bunny, you had better come up with a plan again and pronto, because it’s getting late.  
+
+Philocleon:  
+Well, the best plan that’s left then is for me to chew through the netting.  
+Oh, goddess Netting forgive me!  
+
+Chorus:  
+That’s the boy! That’s what a true man does when he wants to escape. Get those teeth working!  
+
+Philocleon: success  
+Done! But be quiet. We don’t want to wake up Misocleon!  
+
+Chorus:  
+Fear not at all, my friend! Fear not at all! If he just as make a mere boo, I’ll have him eating his own heart out and running wildly in the streets to try and save his life! That will teach him to treat the legislation of our two goddesses with such contempt! Tie the rope on the window frame, comrade and let yourself down. Come on, fill your heart with Diopeithes’ trust in the Divine.  
+
+Philocleon:  
+Yeah, sure but what if these two wake up and reel me up with their hook all the way inside? What will you do then? Quick, answer me!  
+
+Chorus:  
+What we’ll do is… we’ll all help you… We’ll gather our hardwood courage and defend you to the hilt and they won’t be able to hold onto you. That’s what we’ll do!  
+
+Philocleon:  
+All right, I’ll do it but –are you listening?-  if anything happens to me, take me with the usual laments and bury me next to the Court House.  
+
+Chorus:  
+Nothing will happen to you, stop trembling. Come down now, darling, courage and pray to the ancestral gods.  
+
+  
+Philocleon:praying  
+O, my neighbourhood hero Lycus!  
+We enjoy the same delightful things: the wailings and the lamentations of the defendants every day, every day! You chose to live where you could best hear them, next to them and you chose to sit next to those who cry the most. Come, pity our comrade now and save him and I swear that I’ll neither piss on your fence nor leave you with thunderous flatulence.  
+
+Misocleon: To Xanthias  
+Ey, you, wake up!  
+
+Xanthias:  
+Wwwwwhat? What is it?  
+
+  
+Misocleon:  
+I think I hear voices. The old man hasn’t tried to run off again has he?  
+
+Xanthias:  
+Indeed not, by Zeus but I can see him climbing down a rope!  
+
+Misocleon:  
+What are you up to, you stinker? Don’t you get down there!  To Xanthias Quick run around the other way and beat him with those branches. Perhaps if he’s beaten with the harvest wreath it will make him back water.  
+
+  
+Philocleon:  
+Help me! Comrade prosecutors, you who’ve got cases coming up this year, come and help me! Smicythion, Teisiades, Mr Needy and you, too, Mr Dinnerbringer! Come now before they drag me back inside the house!  
+
+Chorus:  
+Tell me, friend, why do we take so long to let our bile burst forth when someone tries to irritate our nest? Bring it out now, bring it out now, bring out now your sharp big prick. Stretch it out long and sharp, a real punishment for these two. (Handing their capes to the boys)  
+Take our capes boys and run to Cleon screaming.  Tell him the news, tell him to come and crush an enemy of the state, to destroy the man who insists that we must no longer judge!  
+
+Misocleon:  
+Friends! Friends! Stop shouting and listen to facts!  
+
+Chorus:  
+I’ll shout, by Zeus! All the way to the Heavens!  
+
+Misocleon:  
+In that case, forget it. I will not let him go!  
+
+Chorus:  
+What a frightful tyranny this is!  O Athens, my city! Athens that only has one Theorus, the rogue and only a few other cock suckers who stand up for us.  
+
+  
+Xanthias: indicating the stingers worn by the chorus  
+By Heracles! Look at them stingers! Look boss!  
+
+Misocleon:  
+The very same stingers they used to destroy Philipus, the son of Gorgias.  
+
+Chorus:  
+These very stingers will also destroy you!  
+Come comrades turn this way and drawing into a thick phalanx, stretch your stingers to the full and everyone attack with his heart full of wrathful passion and let’s teach him what sort of wasps’ nest he’s disturbed.  
+
+Xanthias:  
+Boss, I feel we’re in for a bastard of a battle. These stingers frighten me a lot!  
+
+Chorus: To Misocleon  
+Now let our comrade go! Otherwise you’d be wishing you were a turtle hidden in his shell!  
+
+Philocleon:  
+Come on, comrade jurors! Attack the bastards! One lot anger yourselves to the brim and shove your stinger up their arse! The other lot, sting them in their eyeballs!  Their fingers, too!  
+
+Misocleon: shouting into the house for more slaves  
+Midas, Masyntias, Frygas, come out here and help!  
+Grab the old man and don’t let anyone take him, otherwise I’ll have you all wrapped in chains and kept starving. I can recognise the sounds of empty bluster when I hear it!  
+
+Xanthias and Misocleon enter the house.  
+
+Chorus: Indicating his stinger  
+Let him go or something’s going to poke you!  
+
+Philocleon:  
+O Cecrops, my Lord, my Hero! Dragonfoot! Will you just look upon this disgrace and do nothing? Look how I’m pushed around by the very barbarians whom I taught the lesson of crying “four tears to the quart?”
+
+  
+Chorus:  
+And then they have the audacity to tell you that old age is an easy street with no mysteries or torture by the tonne! Yet it’s so obvious. Look there! Look how these two drag their old boss around! They’ve forgotten the leather jackets and tunics and caps he used to buy them and they’ve forgotten, too, the fact that he used to watch out their feet didn’t freeze during winter!  
+No, they see no need for respect at all for all their former shoes.  
+
+Philocleon: (held by Midas and Frygas)  
+You still won’t release me, you evil beast? Don’t you remember how once I caught you stealing grapes and I had you marched to the olive tree and had you submit to the right brave thing of being flayed raw and everyone envied you? Obviously you were ungrateful!  
+Come on now you two, let me go before my son rushes out!  
+
+Chorus:  
+Any minute now! You’ll pay for this dearly! Soon you’ll know what sort of full spirited and virtuous men we are! Men whose mere glance is mustard.  
+
+The Chorus attacks. Enter Misocleon with a bee-smoking device and Xanthias with a stick.  
+
+Misocleon:  
+Xanthias, beat the bees away from the house!  
+
+Xanthias:  
+I’m doing exactly that but you help also! Blow lots of smoke at them.  
+
+Misocleon:  
+Shoo, shoo, you buggers! Piss off to the crows with you! Boy, beat them up with your stick!  
+
+Xanthias:  
+And you, too, boss, choke them dead with a cloud of smoke, a cloud of Aeschines, son of Sellartius the hot air man.  
+
+The chorus retreats  
+
+  
+Misocleon:  
+Huh! I knew we’d eventually send you back!  
+
+Philocleon:  
+But you wouldn’t have done it so easily if they had swallowed some of the Spartan General Philocles’ songs.  
+
+Philocleon digs his phallus into the bum of one of the members of the chorus  
+
+Chorus:  
+Ouch! Surely the poor folk saw this? Tyranny has sneaked up on me from behind and tried to hump me! And all this because you, you bastard, you long-haired Spartan, bastard, you, you Amynias, you, hater of our lord Cleon, tried to deny us our country’s long-established rights with not as much as an excuse, or an argument. You want to be our State’s tyrant!  
+
+Misocleon:  
+Right, then! Can we do this? Can we enter into a logical discussion and bring about a compromise without all this shouting and squealing?  
+
+  
+Chorus:  
+Discussion? Discussion with you, you monarchy lover, you enemy of democracy, Brasida’s mate! Look at you! Little woollen tufts on your clothes and… and a rough beard on your face!  
+
+Misocleon:  
+By Zeus! I think, it’d be better, to give up and hand my father over to them than having to endure these sea battles on a daily basis!  
+
+Chorus:  
+Huh! You think these are troubles! Mate, you haven’t begun yet. To use a couple of metaphors you’re not even at the parsley, let alone at the main vegies!  Wait till a prosecutor comes and dumps your own phrases back all over your head, twists them and calls you a conspirator! No, boy, you battles are not over.  
+
+Misocleon:  
+By the heavens above! Have you decreed that we’re to spend the whole day trying to skin each other alive?  Can you get off my back?  
+
+  
+Chorus:  
+No, no way, never! Not even when there’s bugger all left of me. I won’t stop arguing with a man who wants to be our tyrant.  
+
+Misocleon:  
+No matter what issue is being talked about, whether it’s important or not, off you go turning it into a discussion about tyranny or conspiracy. I haven’t heard these words for at least fifty years but now, they’re like sardines in the market place. They’re everywhere! If someone, for example, wants to buy trout but reject the anchovy, the offended anchovy seller looks at him and says, “this gourmet prefers tyranny!” Or if you want a free onion to add a bit of taste to your dish, there’d be an offended cabbage vendor who’d cry out at you, “ah, so you prefer tyranny, ey? Do you think the Athenian’s taxes should be used to grow spices for the likes of you?”
+
+  
+Xanthias:  
+Yesterday afternoon I visited my whore and asked her to ride me. “Well,” she screamed at me, “you want to bring in Hippias’ junta back, do you?”
+
+Misocleon:  
+That’s the sort of stuff they love hearing about! But now I want my father to stop all this torture. No more waking up at the crack of Dawn and running off to sue everyone and everything and to serve in the jury. I want him to drop all these trouble-seeking habits and live a life of sweet rest, like that of Morychus. That’s why they call me a conspirator and a lover of tyranny.  
+
+Philocleon:  
+And they’re quite right, too! I wouldn’t swap my life with pigeon’s milk to get the sort of life you want me to have. Forget the mullet and the eels and all such like delicacies. Give me a delicious lawsuit-pot anytime!  
+
+  
+Misocleon:  
+Sure, that’s because you’re addicted to all this jury stuff. But be quiet for a moment and listen to my words. I’m certain I’ll prove to you that you’re wrong in all respects.  
+
+Philocleon:  
+Wrong to be a juror?  
+
+Misocleon:  
+Not only that but you’re the laughing stock of those whose arse you lick. You don’t even know you’ve become enslaved by them!  
+
+Philocleon:  
+Enslaved? Enslaved? Me? I’ll have you know that I am everyone’s master!  
+
+Misocleon:  
+No, you serve them like a slave but you think that you’re their master! Tell us father, what is your benefit from reaping the fruits of Greece?  
+
+Philocleon:  
+My rewards? Listen! Make these men here the arbitrators of the contest you’re setting up.  
+
+Misocleon:  
+All right. I agree. Let him loose, everyone!  
+
+The slaves release him and go inside.  
+
+Philocleon:  
+And give me a sword. If I lose this contest I’ll fall on it!  
+
+Misocleon:  
+But tell me, if you don’t respect the opinion of the judges? What then?  
+
+Philocleon:  
+If that happens I shall never toast the Good demon with unmixed… jury pay!  
+
+Chorus:  
+Now, Philocleon, since you’ve come out of our school you must say something that will show…  
+
+Misocleon interrupts them  
+
+Misocleon:  
+Someone bring me a pen to write down everything he says.  
+
+  
+Chorus: continues from above  
+…that your words differ from this young man’s. As you see, your contest is enormous and perhaps –knock on wood- he might win.  
+
+Misocleon:  
+Right! I’m writing down everything you say!  
+
+Philocleon:  
+Comrades, what did you say will happen if he beats me in this contest?  
+
+Chorus:  
+If he beats you it will mean that the elderly are no good at anything other than as olive bearers in the old men’s parade at the Panathenaic festival. They’ll be laughing at us from every corner, so since you’ve taken the task for the whole of our brotherhood, you’d better sharpen your tongue, take courage and work hard!  
+
+Philocleon:  
+I shall indeed and, bolting straight out of the racing gate I shall prove that our own sovereignty is just as mighty as any king’s. Is there a more fortunate being, more mollycoddled, more happy, more able to spread fear than a juror, especially if he’s old? Even before I’m awake, while I’m at the railings of the Court House, I’m watched by several important looking young men, six feet tall and more. The moment I approach the gate I can feel the soft hand of one of them touching me. It’s a hand that had dipped itself deep into the public purse. The men beg me with a soft, humbled voice, “please, father, pity my plight, I beg you! Surely you, too, once, when you were a holder of some office, pocketed something. Perhaps even during your military service you might have pinched some of your messmates’ field rations.”
+The young idiot, had he not survived a judgement before, he wouldn’t know I existed!  
+
+Misocleon:  
+Hold on, let me make a note of this… Hmmm! Begging… Right, go on!  
+
+  
+Philocleon:  
+Then, the moment I’m inside the Court House, I forget all of my promises and let my anger subside from all that begging and I sit and listen to all sorts of voices from those who want to be found innocent. And there you will hear all sorts of excuses. Is there any piece of flattery that does not give a juror sweet pleasure? Some blubber on about their poverty. Talk about exaggerations! They pile on upon what they’ve got all sorts of other dreadful circumstances, so much so that they make their troubles look greater than mine!  
+Some entertain us with myths, others tell us funny stories from Aesop and others again, perform all sorts of funny acts to make me laugh and forget my anger. And if, after all that, we jurors don’t change our mind, the man will roll out his children, one by one, holding both girl and boy by the arm. And they begin to cringe and bleat with their heads bowed. Then their father comes and, with trembling knees, he begs me –as if I were a god!- to give him the verdict of innocence. “Please sir, if you love the sound of a lamb, of my young boy here, pity us. Or, if it’s little cunts you want to hear, here’s my young daughter’s voice. Let it make you change your mind!”
+Then, we loosen a bit the strings of our wild anger.  
+Now isn’t this a sign of huge authority over and a total contempt of wealth?  
+
+  
+Misocleon:  
+A second note: Contempt of wealth. Got it.Now remind me of the benefits you supposedly get since you tell us you’re master of Greece.  
+
+Philocleon:  
+The first benefit is that when the young boys are being checked for registration with the various precincts, we get to look at their dicks; and if an actor like Oeagrus arrives before us as a defendant he won’t be freed until he chooses the best speech from the play Niobe and recites it to us. As well, if a flute player wins his case, he must pay the jurors by playing a tune for us to exit with. Or, if some dying father bequeaths in his will, his heiress daughter, to someone, we can tell that bequest to go soak itself and we do the same to the fancy clasp and the seal over which it’s sitting prettily and we award the girl to whoever talks us into it.  
+And for all this, we are accountable to no one. Such benefits are gained by no other office bearers.  
+
+Misocleon:  
+Yes, so far that’s the only thing I praise you on but it’s a terrible thing for you to undo the clasp that holds an heiress’ endowments!  
+
+  
+Philocleon:  
+As well, when the Parliament and the people find it difficult to judge an important case, they hold a vote and send the defendants to the jurors. Then our nice sycophant orator, Euathlos and the greater sycophant still, Mr Bumlicker (who had disappeared after throwing away his shield) come and swear that they will always fight on the side of the populus and will never betray us. And no one carries a motion before the Council unless he says, “the jurors may retire even after judging one case only.”
+As well, Cleon the loudmouth, looks after us only. He’ll even shoo away the flies and pat us on the back. Have you ever done such a lovely thing for your father? Even Theorus, not at all a lesser arselicker than Euphemius, drops a sponge into a bowl of water and wipes clean our shoes.  
+See what benefits you drag me out of and hold me back from, by saying that they’re slavery and servitude.  
+
+Misocleon:  
+Go on, guts yourself with your own words, you’ll have enough of them eventually and then you’ll be found to be no more than an unwashed bum hole, one who, with all its grandstanding, can’t find the time to wash its shit.  
+
+  
+Philocleon:  
+Ah, but I’ve forgotten the sweetest benefit of them all! And I get this when I come home with my payment, because everyone welcomes me at the front door and goes after my money. First in line is my darling daughter who gives me a bath, rubs my feet and relaxes them splendidly before she bends down and kisses me with “daddy this and daddy that” while at the same time she uses her tongue to fish out my three obols from inside my mouth. Next comes the little wife who pats me and hugs me and brings me nice, frothy pastries, sits down next me and coaxes me with, “eat this, honey, eat this, too, my sweetheart.”  These things bring joy to my heart. Not like having to rely on you and your cook to deliver me my meal with insolence and whining curses in case I ask for another piece of pie!  Against all this torture I’ve got my three obols to protect me and they do an excellent job –like an armour plate against the arrows!  
+And as for your measly goblet of wine which you won’t serve me anyway, well, I simply fill up my donkey-eared flask and, on my way back, I tip it up and gulp myself a drink. This good old donkey-eared flask opens wide and lets out a huge fart directed at your stupid goblet!  
+Well, then, isn’t this authority of mine as great as that of Zeus? What he hears, I hear. For instance if we’re in an uproar inside the Court House, the passers by outside exclaim, “Zeus Almighty, the jury’s really thundering today!” And if anger make me look like lightning, both the mighty and the rich turn pale and whisper, “O, my God!” and shit in their pants with fear.  In fact, admit it by Demeter: you, too, are afraid of me as well! Shaking in your sandals you are. Yet I’d be damned if I’m afraid of you, boy!  
+
+Chorus:  
+What articulation! What intelligence! Such oratory we’ve never heard been uttered by anyone!  
+
+Philocleon:  
+Too right! Indicating his son, The silly boy thought he was going to run into an unguarded vineyard and quick as a flash, steal all the grapes he wanted!  He knows very well that in this type of business I’m the boss!  
+
+  
+Chorus:  
+How he analysed the whole situation! He mentioned everything, one by one and forgetting nothing!  Oh, what joy it was to listen to our comrade! It felt like I was getting so tall, I was a juror in the Isles of the Blessed Immortals!  
+
+Philocleon:  
+Look at him squirm, boys! Look at him twist and turn his body! He’s completely lost it! Ha! Today I’ll make you ask yourself, “where can I hide?”
+
+Chorus: To Misocleon  
+So, young man, in order for you to escape you must come up with all sorts of schemes.  It will be difficult for anyone to temper my anger if he doesn’t say things that are to my taste. So now the right moment has arrived for you to find a newly made millstone with new treads and hard enough to soften my anger –that’s if you can’t say anything logical.  
+
+Misocleon:  
+A very difficult task, indeed, one that needs the sharpest of wits, sharper than that of comedians even.  What remedy can one possibly use for such an ancient sickness that enthroned itself in the city? Still, here goes: Our father, who art the son of Cronus…  
+
+Philocleon:  
+Stop! Stop all this “father” stuff!  Your job is to prove that I, a juror am a slave and if you fail to do this then you won’t escape your death even if it means I’ll be barred from all sacrifices because I’ll be a murderer!  
+
+  
+Misocleon:  
+Relax then poppy and listen. Lose a bit of that frown of yours and listen to me.  Let’s do a bit of a rough arithmetic first. No counters, no calculators, just a rough bit of counting with your fingers.  Let’s add up all the taxes that we get from our allies, shall we? Then, on a separate account, check out all the taxes, all the many “one percenters”, all the court taxes, the money from the mines, the taxes from all the buying and  the selling, from all the harbours, all the rents and all the receipts from confiscations. What is our total income from all this? I’ll tell you: it’s some 2000 talents. From this sum subtract all the pay given to the jurors for a whole year –some 6000 of them! Our city was never burdened by so many of you! What does this pay come to? I’ll tell you: it comes to some 150 talents…  
+
+Philocleon:  
+God! We don’t even get one tenth of the city’s revenue!  
+
+Misocleon:  
+But of course you don’t. By Zeus you certainly don’t!  
+
+  
+Philocleon:  
+Well then where does all the rest of it go?  
+
+Misocleon:  
+Where does it all go? I’ll tell you. It goes to that lot who swear the oath, “I won’t betray the masses of our city, Athens, but I shall always fight for the people!”  You, father, have chosen to let them rule you because you’ve been tricked by their fat, juicy words. After that, they rip off fifty talents out of our allies by frightening them witless with threats like, “give us the dough, or will thunder upon you and turn you into ashes!”  And you are endlessly grateful that due to your “high office” you are allowed a few bread crumbs to chew onto. When the allies have figured out your true state of living conditions, that you have nothing to eat and less to enjoy, they began thinking of you as an insect, lesser than a fly. At the same time they bring the best of everything to the thugs: fish, wine, rugs cheese honey, urns for their pickles, horseman’s cloaks, mugs, cushions and wreaths, jewellery, tumblers –wealth upon wealth! You, however, of all those you supposedly rule and from whom you’ve suffered all this torment on both, land and sea, of all those people, not one of them brings you as much as a head of garlic for your fish and cabbage soup.  
+
+  
+Philocleon:  
+By Zeus, you’re right! I had to send for three cloves from Eucharides’ grocery myself! But still you’ve said nothing about my being a slave and this is making me angry.  
+
+Misocleon:  
+Well, isn’t this “slavery?” All these thugs and their little cronies to have the good life and the high offices, while you, you live on the three obols a day? For which, mind you, you fought, on foot, against castles and ships? What’s more, it’s “yes, sir, no sir, three bags full sir,” with you lot. But what really sticks up my craw is the fact that you’ll also cop some young queer–Chaeres’ son, for example, who’ll come here swing his dandied up arse about, like this, opens his legs wiiiiide, like this and command you to get to the Court House bright and early for your jury duty and not to be late because if any of you “misses the signal” you’ll miss out on your three obols! Zeus forbid!  
+Of course the little shit, even if he gets there late himself, he still gets his six obols – as a prosecutor, of course! Not only that but if some defendant offers him a bribe he splits it up with one of his colleagues and the two of them “work” on the case like two expert sawyers, one pulling the saw this way while the other pulls it the opposite way. All this while you lot are so keen to get your three obols that you have no idea what’s going on!  
+
+  
+Philocleon:  
+Is that what they’re up to?  
+Really?  
+You’ve shaken up me up good and proper and you’ve got me to believe your views! I’ve no idea what I’m doing now! What have you done to me?  
+
+Misocleon:  
+What have they done to you? Well think of this poopy: Instead of making you lot rich, these so called “defenders of the Athenian people” have got you totally surrounded –and I don’t know how they did this, you who have come back from victory after victory of a whole lot of cities all the way from the Pontus to Sardinia! You lot have ended up with this miserly three obols –which they give you as if it were droplets of oil – drip by drip –just enough to keep you alive. And why? I’ll tell you why! So that you stay poor and hungry and so that you know who’s the boss, who’s the man who grabs you by the reins and when he whistles and puts you in front of some enemy of his, you rush at that man like a wild savage.  
+Yet if they really wanted the people to be living in luxury all they’d have to do is this: There are now one thousand cities that pay us tribute. If everyone of them had been ordered to look after twenty citizens, then, immediately 20,000 Athenians would be living in the lap of luxury, with hare meat, with cream, with pure milk and with crowns and they’d be enjoying all the benefits that a city like this –a city, mind, which has won in the battle of Marathon- deserves!  
+But, instead, what do you do? I’ll tell you what you do!  You go about following the man who holds your obols, bent over like the little old ladies who gather the fallen olives.  
+
+Philocleon:  
+Oh, no! What’s happened to me? I feel like my hand has gone numb and I can’t even hold onto my sword… I’m feeling knackered, boys!  
+
+  
+Misocleon:  
+Yet whenever they’re scared, out they come with their fat words, promising you the whole of Euboa and getting you thinking that they’ll be also distributing to each of you a fifty-bushel ration of wheat. But, of you course, you never get that. Yesterday they gave you five bushels of barley –in one quart instalments, mind- instead and even that you’ve got only after a challenge to your citizenship which, let me remind you, you’ve won only narrowly!  
+That’s why I’m keeping you locked up in here. Prevent them from mocking you and turning you into an utter fool with their fat words. I want to feed you myself…  
+Now, I really want to give you whatever your heart desires, except of course the milk of the public purse.  
+
+  
+Chorus:  
+What a wise man he was who said, “don’t judge till you heard both sides of the story!” (indicating Misocleon) I reckon you’re right and so I throw my stick away along with my anger.  
+Turning to Philocleon  
+But you, comrade and one of the same age, heed his words and don’t be foolish. Nor be too hard a nut or obstinate like a mule! I only wish I had such a relative to look after me and to give me such reasonable words of advice! It’s quite clear that a god has intervened just now to help you. You should accept his help most readily.  
+
+Misocleon:  
+Yes, tell him! Because I’ll be providing for him everything that an old man needs: gruel to slurp up, a thick coat, a porn star to massage his cock and bum hole… Oh no! Now look! He’s not even making a sound. I don’t like the looks of this.  
+
+Chorus:  
+Well, he’s been educated now about all those things that used to make him mad. He’s wiser now and so he’s criticising himself for not having listened to your good advice all this time. Perhaps he’s now churning everything up in his head and trying to adjust his thinking so as to be listening to you from now on.  
+
+  
+Philocleon: after a short pause of silence  
+Ahhhhhhhh!  Ahhhhhh!  
+
+Misocleon:  
+Oi! What are you screaming at?  
+
+Philocleon:  
+Promise me none of all your promises! What I yearn for is to be over there! There where the herald cries out, “Those who have not voted they should do so now!”  That’s what I yearn for!  To be the last juror to come up to the ballot box.  “Run my poor soul, run!” But where is my soul? “Let me pass, you shadows…”
+I swear by the great Heracles, that I hope I’ll never be put on the jury that convicts Cleon of stealing!  
+
+  
+Misocleon:  
+Please, poopy, for god’s sake trust me!  
+
+Philocleon:  
+Trust you about what? Tell me. Anything! Anything but…  
+
+Misocleon:  
+Anything but what?  
+
+Philocleon:  
+About anything except being a juror. Before I ever get to do that, it’ll be Death who’ll do the deciding.  
+
+Misocleon:  
+All right then, if you love doing your jury service so much, stop going to the Court House and stay here to judge the slaves.  
+
+Philocleon:  
+Judge them about what? What are you crapping on about?  
+
+Misocleon:  
+It’s not crap. You’ll be doing nothing different to what you’ve always been doing in court. For example, if, let’s say the maid opens the door without your permission, you give her a fine… a stiff one like you used to do in court, only now you’ll be doing it in a reasonable sort of way. Like if it’s warm at dawn, you’ll be doing your judging out in the sun, if it’s snowing, then you’ll be sitting by the fire, if it’s pouring rain then you’ll be indoors and, finally, if you’re still snoring at noon, there’ll be no magistrate who’ll close the gate on you.  
+
+  
+Philocleon:  
+Now that I like!  
+
+Misocleon:  
+What’s more, if someone is making a long and unbearable speech,  you, as well as the defendant, don’t have to sit there, starving and gnashing your teeth.  
+
+Philocleon:  
+But how on earth would I be able to perform my duty as competently as I have been doing so far if I’m sitting there with my jaws busy with food?  
+
+Misocleon:  
+How? I’ll tell you how. Don’t people say, when witnesses lie, that the jurors head straight for the meat of the issue by… chewing it over?  
+
+Philocleon:  
+Yes… I’m beginning to trust you… still there’s still one little matter you haven’t discussed. Where do I get my obols?  
+
+Misocleon:  
+I’ll tell you. You’ll get them from me.  
+
+Philocleon:  
+Great, Then I’ll be getting my pay all to my self instead of having to split a drachma into obols with someone else.  You know what a thief that Lysistratus is?  A few days ago he played a very dirty trick on me. No sooner we got our drachma and he ran off to the market to change it. When he came back, instead of shoving the three obols into my mouth, he tossed three fish scales in there. Mullet to be exact. Well, I immediately smelled them, retched and spat them out. But I’ve managed to grab a hold of him and to run him down to the court…  
+
+Misocleon:  
+And? And what did he have to say for himself?  
+
+Philocleon:  
+What did he say? He said that I have the stomach of a cock and that I’ve sucked the obols in a hurry.  
+
+  
+Misocleon:  
+You see? You won’t have to worry about this sort of stuff either!  
+
+Philocleon:  
+Quite right! Well then get on with it. Get on with your plan.  
+
+Misocleon:  
+Hold on, I’ll bring out all the necessary equipment.  
+
+Misocleon goes indoors.  
+
+Philocleon:  
+Well look how the prophecies come true! I heard once that some day all the Athenians would be holding court inside their very own houses and that everyone would build himself a tiny little law court in his yard and, just like the shrines of Hecate. They’ll be on the threshold of every house.  
+
+Misocleon and the slaves enter carrying court room paraphernalia, including a chamber pot, a casserole, a rooster (which he places on the roof).  
+
+Misocleon:  
+Here you are.  Look what I brought you. What do you think ey? I’ve brought you everything you need plus more. This chamber pot, for example, I’ll hook it up on this peg here in case you need to have a piss.  
+
+Philocleon:  
+Ah, this is fantastic! You’re a genius! Everything an old man wants. You’ve just discovered a cure for an old man’s incontinence.  
+
+  
+Misocleon:  
+Indeed. Here’s some fire, too and some lentils for you to slurp down if you need to.  
+
+Philocleon:  
+Hmmm, that’s good too. Even if I am running a fever, I’ll still get paid because I’ll be here, slurping up my lentils!  But what’s with the rooster?  
+
+Misocleon:  
+Why? Because if you get to fall asleep while the defendant is talking, that there cock will wake you up!  
+
+Philocleon:  
+Hmmm, yes, everything is just right except that… except I’m still missing one tiny thing!  
+
+Misocleon:  
+Oh, yes? And what might that be?  
+
+Philocleon:  
+Can you get me a painting of Lycus?  
+
+  
+Misocleon: motioning one of the slaves to approach  
+Sure, here is the man himself!  
+
+Philocleon:  
+My lord, my hero! Wow what a hard face!  
+
+Misocleon:  
+Identical, I reckon to Cleonymus!  
+
+Philocleon: Pointing at the fact that the slave has no phallus  
+Yes, I must admit, hero or not he’s lost his equipment too.  
+
+Misocleon:  
+Come on, come on! The sooner you take your seat the sooner I’ll call the first case!  
+
+Philocleon:  
+Go on then! Here I am, sitting patiently.  
+
+Misocleon:  
+Right, now let’s see… whom should I bring out first?  Any of the slaves misbehaved recently?  What about that Thracian girl who scorched the pot yesterday…  
+
+Philocleon: Interrupting him  
+Hold on, hold on, there sonny! You’re killing me with this. You’re calling a case for me to hear without even a tiny bit of railing? Railings are the first of the holy objects we see when we’re at the Court House!  
+
+Misocleon:  
+Oh, dear Zeus, there is none around!  
+
+Philocleon:  
+Well, hang on then and I’ll run into the house and find some that will do the job.  
+
+Philocleon goes into the house.  
+
+Misocleon:  
+See what a powerful thing a habit is?  
+
+Enter Philocleon carrying some fencing wood.  
+
+Philocleon:  
+Damn it, what a dog to look after!  
+
+Misocleon:  
+Now what?  
+
+Philocleon:  
+That bitch of a dog, Barker, came into the kitchen and pinched a whole wheel of Sicilian soft cheese!  
+
+Misocleon:  
+Well then, that’s the first indictment I shall bring before my daddy. Come, Mr prosecutor, come and sit here.  
+
+Philocleon:  
+O, no! No, no, no! Not me! He says that the prosecutor should be the other dog if someone else reads out the case.  
+
+Misocleon:  
+All right then, bring both of them out here.  
+
+Philocleon:  
+Done!  
+
+Misocleon: Indicating the rails  
+What’s this?  
+
+Philocleon:  
+The pigpen of the goddess Hestia.  
+
+Misocleon:  
+Did you steal it, you sacrilegious bastard?  
+
+Philocleon:  
+Not at all. I’ll be slaughtering someone so I’ll begin with Hestia.  So, come on then, read the case! I can smell the fines already!  
+
+Misocleon:  
+Hold on, I’ll go and bring the tablets and the dockets.  
+
+Philocleon:  
+God damn it! You’ll kill me with all your delays! All I need to do is to draw a line!  
+
+Misocleon: Showing a tablet  
+Here you are.  
+
+Philocleon:  
+Come on then, come on, call the case!  
+
+Misocleon:  
+All right.  
+
+Philocleon:  
+Now who is the first among this lot?  
+
+Misocleon: Gets up and heads for indoors  
+Oh, no, damn it! This will kill me! I’ve forgotten to bring out the voting urns!  
+
+Philocleon:  
+Where are you off to now? Hold on!  
+
+Misocleon:  
+I need to bring the ballot boxes.  
+
+  
+Philocleon:  
+Forget them. We don’t need them. I’ve brought these ladles.  
+
+Misocleon:  
+Fine. Then we’ve got everything except the water clock.  
+
+Philocleon: Indicating the chamber pot  
+So what’s this then if it isn’t a water clock?  
+
+Misocleon:  
+You’re a true Athenian, full of wisdom! Quickly, someone bring out of the house fire, myrtle and incense, so that we may begin with a prayer to the gods.  
+
+Chorus:  
+We too, will add our propitious prayer for you, to celebrate your truce and the way you’ve settled your enmity and strife so politely.  
+
+Misocleon:  
+Silence! Let there be sacred silence first!  
+
+  
+Chorus:  
+O Phoebus Apollo, Pythian!  
+Let this strange machination which this man has started inside his doors be a success for him as well as for us all and let all our errors be forgotten.  
+O, Paian, Io!  
+
+Misocleon:  
+O, Lord and Master, Apollo, my neighbourhood god who protects my threshold! Receive this new ceremony, Lord, as I have prepared it for my father.  
+Soften him, Lord! Let some honey run into his heart!  
+Soften his oaken disposition, make him feel more for the accused than the accuser, extricate his hatred for humanity and make him feel the tears that fall when people beg him for a mercy call.  
+Tear away his nasty temper and cut away the anger from his waspy sting.  
+
+  
+Chorus:  
+We join in your song and in your prayers for your new system. Your utterances were well received.  
+Now that we know that you of all the young men, love the people more than anyone else, we stand by you.  
+
+Misocleon:  
+Let any juror standing at the door enter now. No admittance once the show starts.  
+
+Philocleon:  
+So, let’s see. Who’s this defendant then? He’s really going to cop it!  
+
+  
+Misocleon:  
+Hear ye, hear ye all! This is the charge against the defendant: “The Watchdog, a citizen of Cydatheneum, accuses Barker, citizen of Aixone, of having grossly cheated him of his share of one rich Cicilian wheel of cheese because he ate it all by himself. Penalty, a collar made of sycophantic wood.”
+
+Philocleon:  
+Not on your life! If this dog is found guilty, he’ll cop the ultimate dog’s death penalty!  
+
+Misocleon:  
+And here’s the accused, Barker.  
+
+Philocleon:  
+Wow, what a dirty stinker! His face says it all: Thief! Look how he shows his teeth! He thinks he’ll pull the wool over my eyes.  Where is his accuser, the watchdog of Cydatheneum?  
+
+Watchdog:  
+Woof, woof!  
+
+Misocleon:  
+He’s present, sir.  
+
+Philocleon:  
+Good one. Just another Barker, if you ask me. He barks well but licks the bowls better!  
+
+Misocleon: To Watchdog  
+Quiet you. Come here at the stand and pronounce your accusation!  
+
+Philocleon:  
+Meantime I shall sip some lentil soup.  
+
+Watchdog:  
+You’ve already heard my accusations, friends of the jury. Barker here has committed unspeakable atrocities against me and our whole navy. He ran off into a dark corner of the house and there he wolfed down a whole Sicilian cheese…  
+
+Philocleon:  
+By Zeus, that’s obvious! What a dreadful cheese-stinking burp he just gave in my direction!  
+
+  
+Watchdog:  
+…and when I asked him for some he refused. Tell me then who’ll be able to do you justice if your watchdog doesn’t get a scrap or two thrown his way?  
+
+Philocleon:  
+Didn’t share it with you and he didn’t share it with me, the public. The dog is as blistering as this lentil soup, damn him!  
+
+Misocleon:  
+By the gods, pappy, don’t prejudge! You must hear both sides of the story.  
+
+  
+Philocleon:  
+But my dear son! This is a most obvious case. Can’t you hear it? It barks at you!  
+
+Watchdog:  
+Don’t you let him off then! Of all the dogs he’s the most unilateral eater! He circumnavigated all around the island and ate the place out completely –every rind of every city!  
+
+Philocleon:  
+And here I am, not having the tiniest bit of plaster to patch my urn!  
+
+Watchdog:  
+That’s why you should definitely punish him! No single bush can feed two thieves! And don’t make me bark unnecessarily here, or else I’ll never bark again!  
+
+  
+Philocleon:  
+Ho, ho! What a lot of deplorable deeds this man has denounced! What a thief! (to the rooster on the roof) What do you say Mr Cock?  Yes, judging by the wink he gave me, I do believe he agrees with me. Now Mr Chairman… where is he?  Pass me the chamber pot.  
+
+Misocleon:  
+Get it down yourself. I’m calling in the witnesses. Calls into the house All those witnesses for the defendant, Barker, come out, please: Bowl, Pestle, Cheese grater, Brazier, Pot and the rest of the utensils come out and testify.  
+Meantime, Philocleon has brought down the chamber pot and began pissing into it.  
+The utensils have entered the “court room.”
+Are you still doing your wees? Come on, finish up and sit down!  
+
+Philocleon:  
+Sure but as for this defendant here, I think he’ll be shitting himself today.  
+
+Misocleon:  
+Will you stop being so difficult and awful to the defendants? Must you constantly be biting them?  
+To Barker 
+Come on then, take over and defend yourself. Come on, speak, say something!  
+
+  
+Philocleon:  
+It seems he’s got nothing to say.  
+
+Misocleon:  
+No. Hmmm, I think the same happened to Melisia’s son, Thucydides, Pericles’ chief enemy. He was testifying one day when his jaws suddenly became numb. Gentlemen of the jury, it’s difficult to defend a dog that’s been slandered. Nevertheless, I shall try and speak for him. Gentlemen, Barker, here, is a good dog, a brave dog that chaces away the wolves.  
+
+Philocleon:  
+Rubbish!  This dog is nothing more than a thief and a conspirator!  
+
+Misocleon:  
+On the contrary. Barker, here, is superior to any dog of the current generation. He can look after a great many sheep.  
+
+Philocleon:  
+What’s the good of that, if he eats our cheese? What’s the good of him?  
+
+Misocleon:  
+What’s the good of him?  He guards your door, he fights for you and he is, in all other respects, a virtuoso! All right, he might have stolen from you but… well, he’s not exactly highly educated.  He hasn’t been sent to the lyre school to learn how to play the instrument, so you must forgive him.  
+
+  
+Philocleon:  
+Indeed, I wish he hadn’t got educated at all so that he wouldn’t be stuffing up our accounts.  
+
+Misocleon:  
+Listen to my witnesses, my dear man…  
+
+To Barker 
+You, cheese grater!Come, take the stand and speak loudly so that we can all hear. You were an Accountant at the time, is that right? Speak clearly. Explain what were your duties.  All that cheese you grated off, you distributed among the soldiers, didn’t you?  
+Barker barks a “yes” 
+He says “yes.”
+
+Philocleon:  
+What a bloody liar!  
+
+Misocleon:  
+My dear man! Feel sorry for the bedraggled! Barker here, only eats scraps of chicken necks and bones and he never hangs around in the same spot for long, whereas the other dog, Mr Watchdog, he hangs around here all day long, doing nothing and when all the others come home, he demands his share of the food. And if he doesn’t get it, he begins his biting.  
+
+Philocleon:  
+Good Lord! Good Lord!  What on earth is going on with me?  I am being softened by something evil! I am changing my mind!  
+
+Misocleon:  
+Come on, poppy, be merciful to him. Don’t destroy our poor Barker! Now, where are his puppies? Shouts inside the house Come on you lot, come and take a seat, poor babies, let your tears fall, start crying, begging and grovelling.  
+
+Philocleon:  
+Get down from there! Get down, get down, I say! Get down!  
+
+  
+Misocleon:  
+I will get down, even though this phrase, “get down” has tricked a great many people. But, here you are, I’ve stepped down.  
+
+Philocleon:  
+The crows take it! It’s no good slurping lentil soup. I’m crying now for no other reason but because I’ve slurped so much of it!  
+
+Misocleon:  
+So he’s not getting off?  
+
+  
+Philocleon:  
+Hard to say.  
+
+Misocleon:  
+Come on, pappy. Turn over to another page. Be nice. Take this pebble and with your eyes shut, walk over to that second urn and acquit the poor bugger!  
+
+Philocleon:  
+Nope! I haven’t been taught to play the lyre either!  
+
+Misocleon:  
+Come on then, daddy, let me take you around. This way… it’s the quickest.  
+
+Philocleon:  
+Is this the first urn?  
+
+Misocleon:  
+Yes.  
+Philocleon: drops the pebble into the urn  
+There she goes!  
+
+Misocleon:  
+Ha, ha, ha, ha! I’ve tricked him! I’ve got him to vote for acquittal without his knowing!  Come pappy, let’s do the count.  
+
+Philocleon:  
+So… what’s our verdict?  
+
+Misocleon:  Looks into the urn and brings out the single pebble.  
+We’ll soon know… Barker, you’re a free dog.  Misocleon looks faint, then falls onto his chair. Pappy, daddy, what’s the matter, poopy? Oh, dear. Where’s some water?  Come on, pappy, come to!  
+
+Philocleon:  
+Tell me this one thing: Is he a free dog?  
+
+Misocleon:  
+He is, by Zeus.  
+
+Philocleon:  
+Damn!  And I am a big fat zero! A nobody!  
+
+Misocleon:  
+Don’t think about it now, darling. Come on, get up!  
+
+  
+Philocleon:  
+How in Heaven’s name am I going to live with this? How could I have let a defendant go scot free? Most honourable gods above, forgive me. I did it accidentally. This is not my way at all!  
+
+Misocleon:  
+Come on, now, don’t get so angry. I’ll take excellent care of you. I’ll feed you well, take you to the theatre, to dinner and to parties. You will live the happiest of lives from now on and no one will be laughing at you when Hyperbolous plays his tricks on you. Come, let’s go inside.  
+
+Philocleon:  
+Oh, all right, if that’s what you want.  
+
+All except the chorus go inside the house.  
+
+Chorus:  
+Joy be with you wherever you wish to go.  
+And you, too, spectators, countless myriads of you,  
+Make sure now that the good words you’re about to  
+Hear from us don’t end up fallen on the ground.  
+That’s the sort of thing one expects from  
+Dumb spectators, not from the likes of you.  
+
+  
+Chorus:  
+Now then, folks, pay attention, if you like the clean, straight talk.  
+Listen carefully because our poet wants to reproach you today. In the past, he claims, you have done him a great injustice, in spite of the fact he was so generous towards you.  
+Applying the art of the ventriloquist and prophet, Eurycles, and by slipping into other men’s bellies, our poet has helped many other poets enormously, poets who spread enormous laughter among the audience. Then he, too, appeared, alone and did so by grabbing the reins of his own muses and those of others. And when he became great and was awarded so many honours –more than any of you have ever attained- he didn’t get a swollen head or become arrogant in any way. He didn’t hang around the wrestling schools like some sleaze bag, looking for lovers; and if some man, jaded by someone asked our poet to mock his lover in his plays, our poet would refuse, saying he wasn’t about to turn his muses into whores.  
+
+Chorus:  
+Nor did our poet attack the common man but with Herculean fury he threw himself up against the elite and, with enormous courage, fought against the likes of that shark, Cleon, himself, a man whose eyes flashed dire lightning, just like our famous whore Cyna, whose head was circled by the tongues of a hundred cursed sycophants. Old Sharky had the thunderous voice of a deadly torrent, the stench of a seal, the unwashed balls of the hermaphrodite, Lamia and the  bum hole of a camel.  
+
+Chorus:  
+He wasn’t afraid of that beast’s horrible apparition, nor did he accept its bribes but fought it gallantly then as he is doing now. Then, last year, he fought against dreadful monsters that fill one’s body with fevers and shivers and who, every night, choked to death fathers and strangled grandfathers. Beasts that entered the beds of the quiet citizens among you, putting together affidavits, summonses and depositions, to give you the fright of your life, to make you jump and rush to the General!  
+
+Chorus:  
+And though you’ve found this most excellent doctor who drives away all the ills of the land, last year you’ve betrayed him.  You’ve paid no attention to his wonderful new ideas and they were totally wasted.  And yet, your poet swears most profoundly that no one has heard better comic verses than his. It is a disgrace to those who have not understood the meaning of these verses immediately. Still, our poet has lost none of his credibility in the eyes of the wise, even though he saw his chariot fall apart while he quickly overtook his rivals.  
+
+Chorus:  
+From now on, though, my dear spectators, you must love and respect those poets who are trying to find something new to say.  Look after their ideas really well –store them in the same cases you store your apples and that way your whole wardrobe will smell of… sweet wisdom all year round!  
+
+  
+Chorus:  
+Oh, yes! In the olden days we were the braves of the choruses. And we were the braves in the battles, brave were our cocks, true men in every way!  
+That was then – in the olden days.  Now those days are gone and our hair has turned grey, white like the feathers of a swan. But still from these remnants we must recreate the might of youth because I can see that my old age is preferable to those men who wear their hair long and curly and their bum wide and swinging.  
+
+  
+Chorus:  
+Those spectators who see our wasp-like waists and wonder what our sting is all about, let me explain in easy words, easy enough for even the uneducated among you.  
+It was only our lot, the lot whose bum sports a sting, that are the genuine, Athenian- born heroes, who helped most valiantly this city in its war with the barbarians when they came spewing smoke and fire and trying to burn down our city and force our hives out of existence.  
+
+Chorus:  
+We charged at them with spear and shield right away and we fought them, clashed with them, with hardened hearts, each wasp standing next to another in tight lines, biting our lips while the enemy’s arrows filled the sky.  
+But with the help of the gods we pushed the bastards back and we saw Athena’s loving bird the owl flying over our men. And then we chased them away, digging our sharp stingers into their baggy pants and as they were fleeing we stung them on the jaws and on their eyebrows.  
+That’s why to this day all barbarians everywhere say that there’s nowhere a more valiant wasp than that of Athens.  
+
+  
+Chorus:  
+What a fearful specimen of manhood I was then! Everyone feared me. I destroyed all my enemies by sailing against them with my triremes. We had no time for pretty speeches then, no time for sycophancy. We only had our eye on who was the best oarsman. And so we took from the Persians many cities and brought tributes to Athens, which, of course the youth steal now.  
+
+  
+Chorus:  
+And so. If anyone wants to check our shape, size, manners and looks he’ll find that we’re in all respects very similar to wasps. To begin with, when we’re angered, there’s no creature with a temper more cutting or more crabby than ours. And then we behave like wasps in many other ways: we gather in swarms as if in hives and some of us do the judging at the Archon’s Court, others at the Court of the Eleven and others still in Pericles’ old haunt, the Court of Odeum. There we gather as a tightly knit swarm up against the walls bending over the ground like worms in their cells, barely moving. As to how we make our living, we can come up with many schemes: we sting everyone with a bitter sting and out pops our loaf of bread.  
+
+Chorus:  
+But alas, there are the lazy stingless drones who sit at home all day long and who, making no effort at all, eat the tributes away!  But what bugs us most is this: Some people whose hands have seen no calluses through oars or spears held against the enemy of our land, and yet they steal our wages! Simply put I say these few words: Those of you who have no sting should receive the wages of a juror.  
+
+Enter Philocleon, Misocleon and a slave who’s carrying new clothes and boots. Misocleon is trying to have his father change his clothes.  
+
+Philocleon:  
+No, no, no! I’m not taking it off!  I wore these clothes for over fifty years! Ever since the Persian king –that “Great Northerly Wind- attacked us. They saved me then…  
+
+  
+Misocleon:  
+It’s obvious you don’t want to have anything nice done for you.  
+
+Philocleon:  
+No, no, no! It does me no good this. The other day, I had my fill of sardines, it cost me three obols to have them cleaned.  
+
+Misocleon:  
+At least try them on. Let’s see what they look like on you. After all, you put me in charge of your wellbeing!  
+
+Philocleon:  
+So, what do you want me to do then?  
+
+Misocleon:  
+Take off this old cloak and put on this bright, brand new one.  
+
+Philocleon:  
+What is the point of having kids and nurturing them when all the while they want to choke you?  
+
+  
+Misocleon:  
+Will you stop your babbling and put this on?  
+
+Philocleon:  
+But what the hell is this thing?  
+
+Misocleon:  
+Well, some folk call it a Persian cloak and others a Kaunack.  
+
+Philocleon:  
+And there I was thinking it’s a local one… from our very own suburbs.  
+
+Misocleon:  
+Of course you’d think that. You’ve never been overseas, not to Sardis, the capital of Lydia, for example. You would have recognised it then.  
+
+Philocleon:  
+By Zeus, that’s true but it certainly looks like Marychus’ knapsack! What a glutton that man is!  
+
+Misocleon:  
+It looks nothing like it. These cloaks are woven in Ecbatana!  
+
+Philocleon:  
+Don’t they make woollen sausages in Ecbatana?  
+
+  
+Misocleon:  
+Where on earth did you get that idea from, darling? These cloaks are made in Persia.  Very expensive stuff. The wool alone would easily cost a talent!  
+
+Philocleon:  
+A talent! Sheesh, they shouldn’t have called it Kaunack then. A better name of it would be Woolsucker!  
+
+Misocleon: Tries to put it on him  
+Come now, pappy, let me put it on you!  
+
+Philocleon: Sniffs at it then throws it to the ground in disgust  
+Phew! God damn it! What an awful breath it has. It nearly killed me!  
+
+Misocleon: Picking it up and insisting  
+Come on, pappy, please put it on.  
+
+Philocleon:  
+Nope, absolutely not!  By Zeus, no!  
+
+Misocleon:  
+But darling!  
+
+Philocleon:  
+If this dressing up is compulsory then wrap me up in an oven instead.  
+
+Misocleon:  
+All right then, I’ll put it on you myself. To the slave Off you go!  
+
+Philocleon: Puts it on  
+Quick, bring a meat hook!  
+
+  
+Misocleon:  
+Whatever for?  
+
+Philocleon:  
+So you can bring me out of here when I disintegrate.  
+
+Misocleon:  
+All right but hurry up now and throw away those accursed sandals of yours. Put on these beautiful, dazzling, red Spartan boots. Made for real men.  
+
+Philocleon:  
+I’ll never do that! Never will I wear the damned shoes of a damned enemy!  
+
+Misocleon:  
+Come on now, darling, put them on and walk like a true Spartan. Come on, hurry up.  
+
+Philocleon:  
+You do me wrong to insist that I put my foot inside an enemy boot.  
+
+Misocleon:  
+Come on now, put the other foot in as well.  
+
+Philocleon:  
+Oh no! Not this foot! One of the toes on this foot hates the Spartans with a vengeance.  
+
+Misocleon:  
+No, you’ve got to put it on.  
+
+Philocleon:  
+What wretched luck I have! Now I won’t be able to look forward to any corns in my old age!  
+
+Misocleon:  
+Will you hurry up with the boots?  Come on, wear them and then you can walk like the wealthy, swinging your bum this way and that… very sexily!  
+
+  
+Philocleon: puts the puts on.  
+Here you are. Now watch me and see if you can work out which rich man walks like this.  
+
+Misocleon:  
+Which rich man? You look like someone who had his sore dressed in garlic.  
+
+Philocleon: shakes his bum  
+Well then I’m ready to shake it!  
+
+Misocleon:  
+Now let’s see. Will you know how to talk in front of learned and wise folk?  
+
+Philocleon:  
+But of course!  
+
+Misocleon:  
+So what would you tell them all?  
+
+Philocleon:  
+Oh, lots of stuff.  First, I’d tell them how Lamia was caught farting and then how when Kordopionas grabbed his mother and…  
+
+Misocleon:  
+No, forget the myths! Just talk about stuff that we all talk about at home. Simple, common sayings.  
+
+  
+Philocleon:  
+Sure. I know many such common sayings. For example, “once upon a time there was a cat and a mouse…”
+
+Misocleon:  
+Idiot! “Uneducated fool!” as Theogenes said to the dung collector when they were arguing. Is that what you’ll be talking about in front of polite company? Mice and cats?  
+
+Philocleon:  
+Well, what sort of stories should I talk about then?  
+
+Misocleon:  
+Grandiose stories. Tell them for example how you went around with Androcles and Cleisthenes to a grand, official embassy!  
+
+Philocleon:  
+But I’ve never been on any embassies –except the one to Paros and then I was only paid two obols!  
+
+  
+Misocleon:  
+Well, forget the Paros embassy then and talk about the battle between Ephudion and Ascondas at the pancration when Ephudion was old and grey but still had that huge chest and those great hands and thighs, that splendid thorax…  
+
+Philocleon:  
+Arms? Thorax? Don’t be silly. You’re not allowed to fight in the pancration wearing arms and a thorax!  
+
+Misocleon:  
+Don’t worry about it.  That’s how the polite company talks. Now tell me something else: When you’re drinking with strangers which story about your brave youth do you think is worth telling them?  
+
+  
+Philocleon:  
+I know the one! The one about how I ran off with all the vine poles from Ergasion’s vineyard!  
+
+Misocleon:  
+What vine poles are you on about? You’ll be the death of me with your nonsense.  Talk about how you hunted hares or some wild boar or how you ran some torch race. Tell them about some real brave deed you’ve accomplished.  
+
+Philocleon:  
+I know! I know what brave deed I’ve accomplished! When I was but a young bull, I once beat the runner Phaylus. He defamed me once and I beat him by two votes in the courts.  
+
+Misocleon:  
+Enough! Come, lie down here and learn how to be a true symposiac and act convivially.  
+
+Philocleon:  
+Lie down, how? Show me.  
+
+Misocleon:  
+With grace and modesty.  
+
+Philocleon:  
+Like this?  
+
+Misocleon:  
+No, no, no!  
+
+Philocleon:  
+But how, then?  
+
+Misocleon:  
+Bend your knees. The way they do at the gymnasia and spread yourself onto the cushions. Then gently praise some bronze statue or other, look up at the ceiling and admire the room’s pictures. Wash your hands then and… now they are bringing the dishes.  We are dining, we have cleaned our hands and mouths… now we are pouring the wine…  
+
+Philocleon:  
+Good gods! Are we dining on dream food?  
+
+  
+Misocleon:  
+Listen! The girl piper has begun her tune. Your fellow drinkers are Theorus, Aeschines, Phanus, Cleon and another foreigner sitting next to you, Acestor’s son.  With men like these as your feast companions you must take up your part of the singing in a proper fashion.  
+
+Philocleon:  
+Oh yeah? I’ll do it even better than any of the Diacrians!  
+
+Misocleon:  
+Let’s see if that’s true. Now pretend I’m Cleon and I start singing the Harmodius song.  You have to take it up after me… “Never was an Athenian man…”
+
+Philocleon:  
+…as great a scoundrel and as great a thief…  
+
+Misocleon:  
+Is that how you’ll behave?  They’ll destroy you with heckles! He’ll be threatening you with destruction, extermination and exile!  
+
+Philocleon:  
+Well, if he does any threatening I’ll sing another song: “Hey you! You who’s after the State’s tiller. The ship is sinking… look, it’s tilting.”
+
+Misocleon:  
+But then what will you sing if Theorus, who is lying at your feet, touches Cleon’s  right hand and sings, “The story of Admetus remember friend and love the honest mates.”  How will you answer that?  
+
+  
+Philocleon:  
+I shall be lyrical. “You cannot act like the fox nor befriend both sides.”
+
+Misocleon:  
+Well then, after him will come Aeschines’ Airhead’s son and he, being a highly sophisticated and learned man will go on with, “Money and good life for Klitseller and me, among the Thessalians…”
+
+Philocleon:  
+“… oh, yes! What bullshit we spun then, you and I…”
+
+Misocleon:  
+Right. Well then you seem to have this part well under control. Now let’s go to Philoctemon’s for our dinner. Calling inside Boy! Hey boy! Chrysus, pack up a dinner for us two! At long last we’re going to have a real drunken orgy!  
+
+Philocleon:  
+Oh no! No drunken orgies! Drinking is bad for you.  Wine is the cause of breaking and entering, of getting beaten up and of looking for money for the damages, and all this while you’re hung over!  
+
+  
+Misocleon:  
+No, not if you’re in the company of decent folk. They’ll beg forgiveness on your part… either that or you just crack a joke from, say, Aesop or about those sops in Sybaris… one of those stories you’ve learnt at the symposia. Then the whole thing turns into a joke and your victim goes away. Simple!  
+
+Philocleon:  
+Right! Well then I better learn many of those stories so that if I cause any damages I won’t owe any money.  
+
+Enter Chrysus (a slave) with the dinner baskets  
+
+Misocleon:  
+Come on, now, pappy. Let’s go.  Let nothing stop us now.  
+
+Exit Slave, Philocleon and Misocleon.  
+
+Chorus:  
+I’ve often thought myself to be a highly intelligent chappy –never an idiot! Now, Amynias, though, son of Airhead, of the family of Hairballs is even sharper than me because there he was, instead of having an apple or pomegranate for dinner, I saw him having a splendid meal with wealthy old Leogoras! True! That man is as big a glutton as Antiphon. So much so that he even went off on an embassy to Pharsalus, in Thessaly and there he spent his whole time on one-on-one meetings with the starving Thessalians, himself being more starving than any one of them.  
+
+Chorus:  
+Oh, blessed Automenes! Blessed we all call you because you’ve begotten children that are truly talented. Your first one is that wonderful man who plays the lyre better than anyone and who we all love. Charm herself accompanies him! Second comes the brilliant actor and third –third is Aphridates with that profound wit of his. His father swore that Aphridates is self taught in this intricate art of using his tongue whenever he’s in a brothel!  
+
+  
+Chorus:  
+There are those who say that I’ve settled my differences with Cleon when he had attacked me and stung me so horribly with bitter, venomous insults. Not only that but there were those who, when I was being torn to shreds by him, they were laughing. Laughing while he was shouting loudly at me and with no feelings at all for me, wondering, I thought, if, while I was being tortured like that I would chuck up a joke or two. Well, I saw all that and I’ve pulled a little monkey business on him. Here we are today and, as you see, the vine pole is playing the vine for a fool!  
+
+Xanthias rushes in, in dreadful pain.  
+
+Xanthias:  
+How blessed you are, you tortoises! How I envy you your shells. How clever you were to cover your backs and flanks with those tiles of yours! Me? I’ve been thrashed within an inch of my life with a stick!  
+
+Chorus:  
+What’s up, boy? Old man or not it’s fair to call someone a boy when he takes such a beating!  
+
+  
+Xanthias:  
+What’s up? The old man was a wild beast at the party. Awful, simply awful! The worst piece of drunken behaviour I’ve ever seen! Drunker then all the rest, even though present were Antiphon, Theophrastus, Ippylus, Lycon, the whole Phrynichus group as well as Lysistratus! He was the worst of them all!  After he had clogged himself with food and drink, he jumped up and began to dance about, farting and insulting people and laughing –you’d swear he was a donkey with a gutful of barley! Me? He started beating me up like there was no tomorrow, all the while singing, “boy! Boy!”
+At one point, Lysistratus took a good look at him and said, “Old man, you look like one of those young ones who’s just got his hands on some wealth; either that or like some donkey who slipped away from his stable.”  To which the old man replied, “And you, Lysistratus, you look like a locust that’s lost its wings from its clothes; either that or like Sthenelus whom they stripped of all his costumes and stage props.”
+Everyone laughed at this exchange. Everyone that is, except Thuphrastus. He puckered up his lips, trying to look intelligent. Well! The old man saw this and said to him, “tell us Thuphrastus, why are you acting all high and mighty and all so refined like a toff when all you are is a parasite, a clown who’s sucking up to anyone who’s got a bit of money now?”
+That’s how he insulted every one of them, all of them one by one! Laughing at them all, like a real peasant and spouting off all sorts of stories, totally inappropriate to the situation. Then, after he’s thoroughly drunk he makes his way for home, belting the hell out of everyone he comes across.  
+Ah, here he comes now! Pissed as a fart!  I’m getting out of here before he starts throwing punches at me.  
+
+Xanthias rushes into the house.  
+Enter Philocleon with his arm wrapped around the nude flute girl, Dardanis. He is holding a torch. Behind them are Philocleon’s angry victims.  
+
+  
+Philocleon: Singing  
+Lift the flame up! Higher!  
+Oh, spread the light in front of me and those who come behind me will soon be crying!  
+Lose yourselves, you bastards or I’ll fry you all with this torch!  
+
+Victim:  
+Young cock or old, you’ll hear from us all tomorrow. We’ll all be here tomorrow waving our summonses at you. Justice must be done!  
+
+Philocleon:  
+Poo, poo! Summonses, ey? Ancient stuff that! Haven’t you heard?  I hate summonses and lawsuits, now. Poo, poo stuff! Want to know what I like? Cuddles up to the flute girl I’d like to destroy all the voting urns.  Go on! Off you go! Get out of here you lot!  Juror? What juror?  
+All except the flute girl run away.  
+Indicating his phallus  
+Come here, my blonde sweetheart, climb onto this. Hold onto this… rope. Careful, though, it’s a little worn out… Still, look at it ey, it sure loves a bit of a rubbing. Did you notice how cleverly I ripped you away just when you were about to suck off the other drinking guests? Now it’s time for you to repay your debt to this here little rope. Ah, but I know!  I know you won’t be repaying your debt. You just won’t… do it! You’ll trick me like you’ve tricked all the others and poke your tongue right out but, you’ll leave holding my rope.  
+Listen, if you give me some love, the moment my son dies I’ll buy you and turn you into a free woman, my sweet little cunt.  I’ll make you my number one mistress!  
+I don’t have any money of my own yet. You see I’m still very young and under constant surveillance by my little boy. He’s a grouchy bastard and a real stingy, wingey, miserly, skinflint. Stupid child, he’s worried I might be heading up the wrong path and, after all, I’m the only father he’s got! Ha! Mention the name and here’s the  very self same donkey! Stand absolutely still and hold the torch like a statue. I want to play one of those kiddies jokes on him. Like those he used to play on me when I went for the initiation ceremonies.  
+
+Misocleon rushes in.  
+
+  
+Misocleon:  
+Hey you! You dirty old cunt tickler! Back to you old coffin-chasing ways, I see! By Apollo, you won’t get away with it this time!  
+
+Philocleon:  
+Oh, I can see you’d love to chomp into some sour justice, now, wouldn’t you?  
+
+Misocleon:  
+Are you kidding me? How dare you pinch the flute girl from the rest of the drunks?  
+
+Philocleon:  
+Flute girl?  What flute girl? What are you jabbering about, boy? Have you lost your marbles?  
+
+Misocleon:  
+Yeah?  Who’s this then you’ve got there, if it’s not Dardanis?  
+
+Philocleon:  
+This here? Hahahaha! This is not Dardanis. This here is a marketplace torch. Burning itself for the gods.  
+
+Misocleon:  
+This is a torch?  
+
+Philocleon:  
+Of course  it is a torch! Can’t you see how it’s split up?  
+
+Misocleon:  
+And… what this then?  This black bit in the middle?  
+
+  
+Philocleon:  
+This black bit? That’s the tar, running down when it gets good and hot.  
+
+Misocleon:  
+And what about back here?  Isn’t this a bum hole?  
+
+Philocleon:  
+Bum hole? No, this is a knot hole, poking out of the torch.  
+
+Misocleon:  
+Knot hole, my bum hole! Grabs Dardanis’ hand. To Dardanis: You, you come with me. Heading towards the house  
+
+Philocleon:  
+Oi! Hey you! What do you think you’re doing?  
+
+Misocleon:  
+I am grabbing her and dragging her away from you.  Look at you! You’re totally used up and utterly incapable of any type of performance!  
+
+Philocleon:  
+Now listen you! You want to talk about old men? Listen! When I was on an embassy to Olympia, there was Ephudion, an old man, and he put up quite a show, fighting Ascondas, a young man. Ephudion smashed his fist on Ascondas and knocked him down, so you be careful you don’t end up with a couple of black “shiners,” my boy!  
+
+Misocleon:  
+Oh, yes, by Zeus! You sure know all about Olympia now!  
+
+Dardanis runs off.  
+Enter Myrtia the woman baker, holding an empty baker’s tray. She’s followed by Chaerephon.  
+
+Myrtia: to Chaerephon  
+Come, Chaerephon! Come and support me here. Please, in the name of all the gods! Indication Philocleon That’s him!  That’s the man who beat me up with his torch to near death and then knocked off ten obols of bread from this here tray… plus four loaves more!  
+
+Misocleon:  
+See?  You see what you’ve gone and done? Now we’re in for it! Now we’ll cop lawsuits and all sorts of troubles, thanks to your drinking!  
+
+Philocleon:  
+Troubles? Lawsuits?  Not at all! A nice little clever short story will satisfy this woman. Settlement is in sight!  
+
+Myrtia:  
+No, not by the twin Gods you won’t! You’re not going escape from Myrtia, daughter of Sostrata and Agkylion with fairy tales! Not after you’ve totally destroyed my whole stock!  
+
+Philocleon:  
+My dear madam! Please let me tell you this most charming story!  
+
+  
+Myrtia:  
+By Zeus, you won’t be telling me any charming stories!  
+
+Philocleon:  
+One night, when Aesop was going home from a dinner, he came across a drunk impudent bitch who began barking at him. Aesop looked at her and said, “I think you’d do a wise thing if you traded that bitchy tongue of yours with some wheat.”
+
+Myrtia:  
+So, you’re making fun of me as well, now, are you? Right! I’m summoning you –whoever you are- to appear before the court of the market place for ruining my stock. Chaerephon here is my witness.  
+
+Philocleon:  
+No, by Zeus, hang on one minute longer. Listen and see if I’m not making good sense. Once upon a time the poets Lasus and Simonides were training rival choruses and Lasus said… “I couldn’t care a less!”
+
+Myrtia:  
+Is that right?  
+
+Myrtia and Chaerephon walk out  
+
+Philocleon:  
+Hey, Chaerephon! You’re just the perfect match, aren’t you?  Acting the witness to this tallow-faced woman. She’s just like Ino, dangling from Euripides’ feet!  
+
+Misocleon:  
+Oh no!  Here we go! Here’s another one! Looks like another summons to me. And he’s got his witness with him!  
+
+Enter Accuser and his witness  
+
+Accuser: Holding a bump on his head  
+O, me! Oh, my poor head!  O, the pain! I summon you, you old bastard for assault and battery!  
+
+Misocleon:  
+What’s this? Assault? Battery? Oh no! Heavens no! Don’t summon him for that.  I’ll compensate you on his behalf. Ask whatever amount you want.  I’ll pay and with thanks.  
+
+  
+Philocleon:  
+No, no! Forget it.  I’ll do my own deals thank you.  I admit it. I have punched and beaten up this man. Now, you! You come over here and listen to me. Let me decide the amount I should pay for this little matter and then we’ll both be friends, ey, what do you say? Or would you rather make your own proposal?  
+
+Accuser:  
+No, you say how much. I don’t need the fuss of lawyers and lawsuits.  
+
+Philocleon:  
+Well, then listen. Once there was a man from Sybaris who fell out of his chariot and somehow broke his head rather badly. You see, he wasn’t much good at all with horses and chariots. So a friend of his stood above him and said, “A man should only practice what he knows.” So now, why don’t you run off to Pittalus’ clinic?  
+
+Misocleon:  
+Same technique as with all the rest, I see, ey?  
+
+Accuser: To the witness  
+Remember his reply!  
+
+  
+Philocleon:  
+Hey, don’t go! Listen: Once upon a time a woman in Sybaris broke her urn…  
+
+Accuser:  
+Witness, take note of al this!  
+
+Philocleon:  
+…so this urn told its friend to be a witness, but the woman said, “by Kore, if you’d forget about this witness stuff and went and bought a bandage right away, you’d be acting far more wisely.”
+
+Accuser:  
+Go on, mock away –until the magistrate calls your name!  
+
+Exit Accuser and his witness  
+
+Misocleon: to Philocleon  
+By Demetre, that’s it! You’re not staying out here any longer! I’m going to pick you up and carry you…  
+
+Philocleon:  
+Hey!  What do you think you’re doing?  
+
+Misocleon lifts Philocleon onto his shoulders  
+
+Misocleon:  
+What am I doing? I am carrying you into the house because if I don’t all these accusers of yours will run out of witnesses!  
+
+Philocleon: From Misocleon’s shoulder  
+Once upon a time the people of Delphi accused Aesop…  
+
+Misocleon:  
+I couldn’t care a less!  
+
+Philocleon:  
+…of stealing a bowl from a god. Aesop told them how once upon a time a beetle…  
+
+Misocleon:  
+God damn you! You’ll be the death of me with those beetles of yours!  
+
+The two go into the house. A few moments later, we hear the sounds of a loud party emanating from the house.  
+
+  
+Chorus:  
+Oh, how I envy the old man his luck! How he’s changed his old dry ways and crusty lifestyle!  His new inclinations have given him a life of mollycoddling luxury.  
+But then again, perhaps he won’t love this new way so much –who can honestly stray away so much from his own, normal character? Though, it’s a common enough occurrence for people to change their ways once they’ve been shown different ideas.  
+
+Chorus:  
+I give him much high praise and so do all the folk whose minds are well tempered. Praise too, the most, goes to the man who got him there, his one and only son, who loves him so much and who showed him the necessary wisdom, Philocleon’s son, Misocleon. I’ve never come across a man so kind and one whose sweet manners made me ecstatic and had moved my heart to melt.  Misocleon came out of all this victorious with his words, trying to give his daddy a better life.  
+
+Xanthias appears from the house  
+
+  
+Xanthias:  
+By Dionysus!  Some daemon has set the house into a peculiar disaster! The old man has missed his drink and song so much that last night his heart brimmed with joy and he hasn’t stopped dancing those old Thespian dances he used to dance during the competitions. Next thing, he says, he’ll be taking on those new and modern tragic dancers and show that they’re no more than ancient dances, going back to the days of Cronus!  
+
+Philocleon: From within  
+Hey!  Who’s spread himself onto my doorstep?  
+
+Xanthias:  
+Oh, no! Here he is.  Here’s trouble!  
+
+Enter Philocleon drunk and dancing.  
+
+Philocleon:  
+Lift the door’s bolt!   Hehehehe!  Here’s a new dance for you and here are the first steps!  
+
+Xanthias:  
+Dance? Steps? More like the first steps to madness.  
+
+Philocleon:  
+Here we go: Bend and twist the chest like a brave man in battle. Like this. Look at my nostrils now. Look how they blow and look at my back. Look how the spine cracks!  
+
+Xanthias:  
+You need a drink of herbs, my friend. Try the hellebore. Great cure for the whackos!  
+
+Philocleon:  
+… and then there’s Phrynicus doing the rooster squat…  
+
+Xanthias:  
+Listen, old man, it’s either the herbs or the stones. They’ll be throwing them at you soon.  
+
+Philocleon:  
+…and kicking his legs sky high… hahaha, his bum hole opens wiiiiide…  
+
+Xanthias:  
+Hey, careful there! You’ll hurt yourself!  
+
+Philocleon:  
+… and so all my joints roll perfectly into their sockets! Wow, wasn’t that great?  
+
+Xanthias:  
+Great? Certainly not great! You’re a madman! You’re crazy!  
+
+Philocleon:  
+Come now, let me say this: I call on all those who want to challenge me on my dancing dexterity!  Come on up here!  Anyone from the tragedy side of things who thinks he’s better than me, come over here now and dance against me.  Come on, any tragodancers out there? No?  Not a one?  Hahahahaha  
+
+  
+Xanthias: Pointing at someone in the audience. It’s Carcinus’s Middle son.  
+There’s one! That man over there.  
+
+The First son of Carcinus, dressed as a crab climbs onto the stage,  
+
+Philocleon:  
+And who is this poor suck?  
+
+Xanthias:  
+It’s Carcinus’ Middle son.  
+
+Philocleon:  
+I’ll make mince meat out of him. I’ll smash him with my ballet fists.  He knows nothing of rhythm.  
+
+Xanthias:  
+Stupid old man! Here’s trouble for you. Here’s another crab. Carcinus’ other son.  
+
+Enter Carcinus’ Second son.  
+
+Philocleon:  
+Oh yeah? Well, by Zeus, I’ve got myself a full meal here.  
+
+Xanthias:  
+No you don’t!  What you’ve got here is three crabs now because here comes Carcinus’ third son.  
+
+Enter Third son of Carcinus.  
+
+Philocleon:  
+What’s that thing crawling towards us?  Is it a mole or a mouse?  
+
+  
+Xanthias:  
+He’s the littlest crab in the Carcinus family. The tiniest one of them. He’s the one who writes tragedies.  
+
+Philocleon:  
+Bless you Carcinus and your fine sons! What a throng of buzzards is descending upon me! I better go and do battle with them. And you, if I win prepare the sauce.  
+
+*Exit all*  
+
+Chorus:  
+Well then, let us all move back and give them some room. Give them the room to spin around free and easy.  
+Go now you, famous sons of the old salt, Carcinus! Whirl, jump, spin along the sands and the shore of the barren sea. Brothers of prawns, whirl your speedy feet around and  – hey! And do like Phrynicus: kick your feet high – high, so high that the audience will scream “oh, yeae!”
+
+Chorus:  
+Whirl, I say, twirl and twist about! Smack your guts! Kick a leg, sky high!  Spin about! All of you!  
+Here’s your Lord and master of the deep seas, showing how proud he is of his three sons, the three young buzzards.  
+Come now, lead us out of here with a fast step or two and do you know that no one else has done this before: to end a comedy with a dance.  
+
+*Exit all*  
+
+

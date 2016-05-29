@@ -1,0 +1,3486 @@
+# FROGS {#book-3}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aristophanes/frogs.htm) translation by Ian Johnston*  
+  
+...  
+  
+
+**HISTORICAL NOTE**  
+
+Aristophanes (c. 456 BC to c. 386 BC) was the foremost writer of comic drama in classical Athens. His surviving plays are the only complete examples we have of Old Comedy. Frogs was first produced in Athens in 405 BC. By this time Athens had been at war with Sparta for over twenty-five years.  
+  
+...  
+  
+  
+**DRAMATIS PERSONAE**  
+
+XANTHIAS: a slave  
+DIONYSUS: the god, appearing in human form as a middle-aged man  
+HERCULES: the legendary hero  
+CORPSE: a dead man being carried off to Hades  
+CHARON: the ferry man transporting the dead to Hades  
+CHORUS OF FROGS  
+CHORUS OF INITIATES: worshippers of the gods of the underworld  
+AEACUS: a gatekeeper in Hades  
+SERVANT  
+FIRST HOSTESS (PANDOKEUTRIA)  
+SECOND HOSTESS (PLATANE)  
+SERVANT OF PLUTO  
+EURIPIDES: the playwright  
+AESCHYLUS: the playwright  
+PLUTO: king of Hades  
+VARIOUS ATTENDANTS  
+
+  
+
+*[The play opens on a street leading to Hades, with a door in the centre of the backstage area. Enter Dionysus, appearing as a middle-aged man with a noticeable paunch, wearing a yellow tunic and over that a lion skin. He’s carrying a huge club, one commonly associated with Hercules. On his feet he wears soft leather lace-up boots. Behind him comes his slave Xanthias riding on a donkey and carrying a huge amount of luggage. Xanthias notices the audience]*  
+
+  
+
+XANTHIAS  
+Look, master, an audience! Shouldn’t I say something?  
+Tell them one of those jokes they always fall for?  
+
+DIONYSUS  
+O, all right—say what you like. Only no jokes  
+about how you’re dying to piss. I can’t stand those—  
+they’re all so stale.  
+
+XANTHIAS  
+ What about my other jokes?  
+
+DIONYSUS  
+Go ahead—just nothing about your bladder,  
+about how it’s going to burst.  
+
+XANTHIAS  
+ What? You mean I can’t tell  
+that really funny one . . .  
+
+DIONYSUS  
+ I suppose so—  
+but don’t say anything about the bit.  
+
+XANTHIAS  
+ What bit?  
+
+DIONYSUS  
+The bit about how you need to shift your load                                   
+to take a piss.  
+
+XANTHIAS  
+ Not even this one—  
+“Here I am transporting such a load  
+if I get no relief I may explode.”                                                                                                              
+
+DIONYSUS  
+Please, please, don't say that one—  
+not unless I’m sick and need to throw up.  
+
+XANTHIAS  
+Then what’s the point of my being here like this?  
+Why do I get to carry all the heavy baggage  
+if I can’t tell the usual porter jokes—you know,  
+the ones Ameipsias and Phrynichus  
+and Lycias, too, in all their comedies                                                  
+provide the slave who carries all the bags.[^note-301]  
+
+DIONYSUS  
+Just don’t. Those jokes are all so feeble—  
+when I have to watch a play and hear them  
+by the time I leave I’ve aged at least a year.  
+
+XANTHIAS [striking a heroic tragic pose]  
+Alas, for my neck beneath this triply damned yoke.  
+I suffer all this pressure and can’t tell my joke.                                                                       
+
+DIONYSUS  
+It’s an outrage, sheer insolence, that I,  
+Dionysus, son of Winejar, have to walk like this,  
+sweating along so he can ride at ease  
+without a care and carrying no load.  
+
+XANTHIAS  
+ What!?                                                                                   
+Aren’t I carrying the load?  
+
+DIONYSUS  
+ How can you be?  
+You’re riding on your ass.  
+
+XANTHIAS  
+ I’m loaded down.  
+All this stuff . . .  
+
+DIONYSUS  
+ What do you mean by that?  
+
+XANTHIAS  
+What I just said carries lots of weight.  
+
+DIONYSUS  
+Isn’t the donkey carrying our load?  
+
+XANTHIAS  
+No, no way. Not the load I’m holding.  
+
+DIONYSUS  
+ How come?  
+How can you be carrying anything at all  
+when someone else is carrying you?  
+
+XANTHIAS  
+ I’ve no idea.  
+But my shoulder’s falling off.                                                                                                                      
+
+DIONYSUS  
+ All right, then.  
+Since you claim the donkey’s useless to you,                                                              
+why not take your turn and carry it?  
+
+XANTHIAS  
+ What a wretched life!  
+I should have gone away to fight at sea—  
+then I’d be free and I’d have told you straight  
+what you could do with that ass of yours.[^note-302]  
+
+DIONYSUS  
+Get down, you useless idiot! We’re there—  
+by the door I’m aiming for, my first stop.  
+
+[Dionysus knocks very aggressively on the door and calls out in a very imperious tone]  
+
+ Hey, in there! Doorman! I’m summoning you.  
+
+[The door opens and Hercules steps out, wearing a lion’s skin and carrying a club. He’s amazed that someone is dressed up to resemble him]  
+
+HERCULES  
+Who’s banging on this door—smashing at it  
+like some wild centaur. My god, what’s this?  
+
+[Hercules inspects Dionysus’ outfit and starts to laugh uproariously]  
+
+DIONYSUS  
+Hey, my boy . . .  
+
+XANTHIAS  
+ What?  
+
+DIONYSUS  
+ Didn’t you see?  
+
+XANTHIAS  
+ See what? 50        
+
+DIONYSUS  
+How scared he was of me?  
+
+XANTHIAS  
+ Yes, by god, he was,  
+scared you’re nuts.  
+
+HERCULES [doubling up with laughter]  
+ By holy Demeter,  
+I can’t stop laughing. I’ll try biting my lip.  
+No, no use. I can’t stop laughing at him.  
+
+DIONYSUS  
+Come here, my good man. I need something from you.  
+
+HERCULES [still laughing out of control]  
+I can’t help myself—he’s so ridiculous.  
+Seeing that lion skin above that yellow dress.  
+What’s going on? Do people with large clubs  
+now walk around in leather booties?              
+Where on earth do you think you’re going?                                                                      
+
+DIONYSUS  
+I’ve done naval service under Cleisthenes.[^note-303]  
+
+HERCULES  
+At that sea battle?  
+
+DIONYSUS  
+ Yes—and sunk enemy ships,  
+twelve or thirteen of them.                                                                                                                       
+
+HERCULES  
+ Just the two of you?  
+
+DIONYSUS  
+Yes, by Apollo, we did.  
+
+XANTHIAS  
+ Then I woke up.  
+
+DIONYSUS  
+I was on board with Euripides' Andromeda,  
+reading to myself aloud, when suddenly  
+a huge urge seized my heart. You’ve no idea how strong.  
+
+HERCULES  
+An urge? How big was it?  
+
+DIONYSUS  
+ The size of Molon—tiny.[^note-304]  
+
+HERCULES  
+For a woman?  
+
+DIONYSUS  
+ No, no.  
+
+HERCULES  
+ A young lad, then?    
+
+DIONYSUS  
+Certainly not.  
+
+HERCULES  
+ Well, then, a man? 
+
+DIONYSUS  
+ Ugh!                                                                           
+
+HERCULES  
+Did you grab hold of your Cleisthenes?  
+
+DIONYSUS  
+Don’t mock me, brother.[^note-305]   I’m not doing so well,  
+tormented by such hot desires.  
+
+HERCULES  
+ Tell me,  
+my little brother, what’s it like?  
+
+DIONYSUS  
+ I can’t explain.                                                                                        
+But I’ll try to show you by analogy.  
+Have you ever had a craving for some stew?[^note-306]  
+
+HERCULES  
+For stew? In my life maybe ten thousand times.  
+
+DIONYSUS  
+Is that explanation clear enough to you?  
+Or shall I try some other way?  
+
+HERCULES  
+ Not about stew!            
+That I understand completely.    
+
+DIONYSUS  
+ Well then,                                                     
+that’s how much I’m eaten up with my desire  
+for Euripides.  
+
+HERCULES  
+ Even when he’s dead?[^note-307]  
+
+DIONYSUS  
+So no one’s going to talk me out of it—  
+I have to find him.  
+
+HERCULES  
+ Right down in Hell?  
+
+DIONYSUS  
+ Or even lower,  
+by god, if there’s such a place.                                                                                                                
+
+HERCULES  
+ What’s the point of that?  
+
+DIONYSUS  
+I need a clever poet. There’s none around.  
+The ones we’ve got are all so lousy.  
+
+HERCULES  
+What? Isn’t Iophon still up there?[^note-308]  
+
+DIONYSUS  
+He’s the only good one left—if he’s any good. 
+I’m not really sure if that’s the case.                                                            
+
+HERCULES  
+If you’ve got to take a playwright back,  
+why not Sophocles? He’s better than Euripides.  
+
+DIONYSUS  
+Not ’til I get Iophon all by himself,  
+without his father, Sophocles, so I can test  
+the metal of his poetry. Besides, Euripides  
+is such a rascal he may try to flee Hades                                                                                     
+and come with me. But Sophocles was nice—  
+easygoing while on earth and down here, too.  
+
+HERCULES  
+What about Agathon? Where’s he?  
+
+DIONYSUS  
+ He’s left us—    
+a fine poet lamented by his friends.                                                                                           
+
+HERCULES  
+Where’s he gone?  
+
+DIONYSUS  
+ Off to feast with saints.[^note-309]  
+
+HERCULES  
+And Xenocles?[^note-310]  
+
+DIONYSUS  
+ O by god, may he drop dead!  
+
+HERCULES  
+Well then, Pythangelos?  
+
+XANTHIAS  
+ What about ME?  
+In pain all this time—my shoulder's sore as hell.  
+
+HERCULES  
+Surely you've other artsy-fartsy types—  
+thousands of tragic poets—all of them                                                                                          
+way more wordy than Euripides?  
+
+DIONYSUS  
+ No, no—  
+all chatterboxes, twittering swallows in a music hall,  
+mere foliage—disgraces to the artist’s craft.      
+Once they get a chance to stage their plays,                                                                      
+to crap all over tragedy, they disappear.  
+If you looked you’d never find one playwright,  
+someone creative who could well declaim  
+a worthy sentiment.  
+
+HERCULES  
+ That word “creative”—  
+what’s it mean?  
+
+DIONYSUS  
+ Someone poetical enough  
+to give utterance to something grand,  
+something like  
+
+[Dionysus strikes a tragic pose]  
+
+“the sky, Zeus’ pied-a-terre,”  
+“the foot of time,” or this—“a mind that will not swear                                               
+on sacred offerings but a perjured tongue            
+that’s false with no sense of its perfidy.”                                                                                
+
+HERCULES  
+You like that stuff?  
+
+DIONYSUS  
+ Like it? I’m crazy about it.  
+
+HERCULES  
+I swear it’s all bullshit—and you know it.  
+
+DIONYSUS  
+Now, now, don’t try to tell me what to think,  
+not with tragedy. You’re no expert there.  
+
+HERCULES  
+I still say it sounds like total rubbish.  
+
+DIONYSUS  
+Why not teach me how to stuff my guts?  
+
+XANTHIAS  
+WHAT ABOUT ME??!!!!!  
+
+DIONYSUS  
+ That’s the reason I’ve come here  
+and dressed like you—so you can fill me in,  
+in case I need to know, about this place—           
+who welcomed you down here, who'd you meet       
+that time you went down after Cerberus.[^note-311]  
+Tell me about the harbours, resting places,  
+bakeries and brothels, water fountains,  
+the cities, highways, all the detours,  
+the local customs and the fine hotels,  
+the ones with fewest bugs.  
+
+XANTHIAS  
+ Still no word of me.  
+
+HERCULES  
+O you valiant heart! Are you man enough  
+to venture down below?  
+
+DIONYSUS  
+ Forget my courage.  
+Show me the highway, the shortest one there is,                  
+that takes me directly down to Hades.                                                                                    
+Don’t prattle on about the temperature—  
+and say it's way too hot or cold for me.  
+
+HERCULES  
+Let’s see . . . what should I mention first of all?                                                                   
+Which one? Hmmm. You could try a stool and rope—  
+you could just hang yourself.  
+
+DIONYSUS  
+ Stop it right there.  
+ That way gives me a choking feeling.  
+
+HERCULES  
+There’s a straight short cut, well traveled, too—  
+with pestle and mortar . . .  
+
+DIONYSUS  
+ You mean hemlock.[^note-312]  
+
+HERCULES  
+ That’s it!  
+
+DIONYSUS  
+Too cold—too much like winter. Right away   
+the shins get frozen solid.  
+
+HERCULES  
+ All right, then.                                                 
+You want me to tell you how to get there fast.  
+
+DIONYSUS  
+Yes, by god. I’m not one to take a hike.  
+
+HERCULES  
+How about a stroll to Kerameikos[^note-313] . . .  
+
+DIONYSUS  
+Okay, what then?  
+
+HERCULES  
+ Climb up the tower there—  
+right to the very top . . .  
+
+DIONYSUS  
+ And then what?                                                                                                                     
+
+HERCULES  
+Take a look at the torch race starting up—  
+when the spectators all yell out “They’re off!”  
+then off you go as well.  
+
+DIONYSUS  
+ Off? Where to?  
+
+HERCULES  
+ Down.  
+
+DIONYSUS  
+No, I can’t take that road. I’d pulverize         
+both rissole wrappers of my brain.  
+
+HERCULES  
+ What’s left?                                                                                                           
+
+DIONYSUS  
+The road you used.  
+
+HERCULES  
+ O, an enormous journey.  
+At the very start you come to a vast lake—  
+immense and bottomless.  
+
+DIONYSUS  
+ How do I get across?  
+
+HERCULES  
+In a tiny boat—miniscule—like this [indicating the size].  
+An ancient sailor takes you for a fee—  
+two obols.                                                                                                                                                                   
+
+DIONYSUS  
+ Two obols? It’s amazing  
+what two obols can buy anywhere.[^note-314]  
+How come it’s here in Hades, too?  
+
+HERCULES  
+ That was Theseus.[^note-315]  
+He started it. Once past the lake you’ll find snakes.    
+You’ll see thousands of them, horrific monsters.                                    
+
+DIONYSUS  
+Don’t keep trying to scare me. That won’t work.  
+There’s no way you’ll get me to turn back.  
+
+HERCULES  
+Then a huge sewer, always full of liquid turds—  
+and lying in it anyone who harmed a guest  
+or screwed a lad and then took back the cash,  
+or smacked his mother, punched his father’s jaw,  
+or swore false oaths, or else had copied out                                                                             
+a speech of Morsimus.[^note-316]  
+
+DIONYSUS  
+ By god, with them in the shit  
+should lie whoever learned a war dance by Cinesias.[^note-317]    
+
+HERCULES  
+Next the breath of flutes will sound around you.                                                          
+You’ll see the finest light, just like in Athens,  
+and myrtle groves, with happy men and women  
+gathered there to celebrate and clap their hands.  
+
+DIONYSUS  
+So who are they?  
+
+HERCULES  
+ Those are the initiates,  
+the ones who celebrate the mysteries.[^note-318]  
+
+XANTHIAS  
+Then, by god, in these mysteries I play the ass.  
+I’ll not stand for this a moment longer.                                                                                       
+
+[Xanthias dismounts and starts to unload the baggage he has been carrying]  
+
+HERCULES  
+Those ones will tell you all you need to know.  
+These initiates live closest to the road    
+which takes you to the doors of Pluto’s place.[^note-319]                                                                
+And so, my brother, I bid you fond farewell.  
+
+DIONYSUS  
+Good bye—god keep you healthy, too.  
+
+[Hercules exits back through the door. Dionysus turns to Xanthias, who has just about finished putting down all the luggage he has been carrying]  
+
+ You there—take up the baggage once again!  
+
+XANTHIAS  
+Before I’ve put it down?  
+
+DIONYSUS  
+ Yes, and hurry up.  
+
+[Enter a solemn funeral cortege parrying a dead man towards Hades]  
+
+XANTHIAS  
+Come on, I’m begging you. Hire one of them—  
+someone carrying the corpse. That’s why they’re here.  
+
+DIONYSUS  
+And if I don’t find anyone?  
+
+XANTHIAS  
+ I’ll do it.  
+
+DIONYSUS  
+Fair enough. All right, they’re bringing out a corpse                                                       
+You there . . . you stiff . . . I’m talking to you . . . Hallo!    
+
+[The corpse suddenly sits up straight]  
+
+ You want to take a little luggage down to hell?                                                            
+
+CORPSE  
+How much?  
+
+DIONYSUS  
+ This stuff here.  
+
+CORPSE  
+ Will you pay two drachmas?  
+
+DIONYSUS  
+My god, no. Less than that.  
+
+CORPSE  
+ Then go away.  
+
+DIONYSUS  
+Hang on, my dear fellow. Can’t we haggle?  
+
+CORPSE  
+If you don’t pay two drachmas, forget it.  
+
+DIONYSUS  
+How about nine obols?  
+
+CORPSE  
+ No bloody way!  
+I’d rather you shoved me back to life again.  
+
+[Corpse lies down and the funeral procession moves away]  
+
+DIONYSUS  
+What a pompous boor!  
+
+XANTHIAS  
+ To hell with him—  
+I’ll take the stuff myself.  
+
+[Xanthias starts loading himself with the baggage once again]  
+
+DIONYSUS  
+ That’s my good man—  
+a loyal and worthy slave. Let’s get that boat . . . .    
+
+[Enter Charon rowing his small boat across the stage]  
+
+CHARON  
+Ahoy there! Coming alongside.                                                                                                             
+
+XANTHIAS  
+ What’s this?  
+
+DIONYSUS  
+ This?                                                           
+By god, it’s the lake Hercules talked about.  
+And I see the boat . . .  
+
+XANTHIAS  
+ You’re right. Thanks to Poseidon.  
+This must be Charon.  
+
+DIONYSUS  
+ Ahoy there, Charon . . .  
+Greetings, Charon . . . Charon, halloooo!  
+
+CHARON  
+Who’s seeks a rest from work and trouble?  
+Who’s heading for Fields of Forgetfulness,  
+Never-never land, the Cerberians,  
+the Ravens[^note-320]   and Tartarus.  
+
+DIONYSUS  
+ That’s me.  
+
+CHARON  
+Then jump aboard.  
+
+DIONYSUS  
+ Where do you put in?       
+The Ravens? Is that a stop?  
+
+CHARON  
+ Yes, by god—                                      
+a special stop just for you. Get in.  
+
+DIONYSUS [to Xanthias]  
+All right, my lad, hop in.  
+
+CHARON  
+ I won’t take the slave—                                                                   
+not unless he fought at sea to save his skin.  
+
+XANTHIAS  
+Not me, by god, no way. My eyes were bad.  
+
+CHARON  
+Then you must make a detour round the lake.  
+
+XANTHIAS  
+Where do I wait for you?  
+
+CHARON  
+ At Wuthering Rock[^note-321]  —  
+right by the rest stop.  
+
+DIONYSUS  
+ You got that?  
+
+XANTHIAS  
+ I got that.  
+
+[picking up the bags]  
+
+ Why am I so unlucky? When we began  
+I must've really pissed somebody off.               
+
+CHARON [to Dionysus]  
+Sit down there—at that oar.   
+
+[Dionysus sits on one of the oars]  
+
+ Anyone else?                                                      
+Hurry up—all aboard! What are you doing?  
+
+DIONYSUS  
+What am I doing? I’m sitting on this oar.  
+That’s what you ordered me to do.  
+
+CHARON  
+Come on, fatso—park your butt right here.  
+
+DIONYSUS [moving off the oar]  
+ There!                                                          
+
+CHARON  
+Can you pick up the oar? Stretch your arms.  
+
+DIONYSUS  
+ Like this?  
+
+CHARON  
+Don’t be such a fool. Set your foot there.  
+Now pull the oar with all your force.  
+
+DIONYSUS  
+ How can I?  
+I’ve had no practice. I’m no sailor.  
+And besides, I’m not from Salamis.[^note-322]      
+How'm I supposed to row a boat?                                                                                                
+
+CHARON  
+It’s not hard. You’ll hear lovely melodies  
+once you make the effort.  
+
+DIONYSUS  
+ Songs? Whose songs?  
+
+CHARON  
+The amazing music of the swan frogs.  
+
+DIONYSUS  
+All right, then. Get the tempo going.  
+
+CHARON  
+Yo ho, heave ho. Yo ho heave ho.  
+
+[As the small boat begins to move, the Chorus of Frogs is heard from off stage][^note-323]  
+
+CHORUS OF FROGS          
+Brekekekex koax koax  
+Brekekekex koax koax.                                                                                                                                     
+Children of the marsh and lake  
+harmonious song now sweetly make,    
+our own enchanting melodies                                                            
+koax koax.  
+The songs we sang for Nysa’s lord,  
+for Dionysus, son of Zeus,  
+in Limnai at the Feast of Jars[^note-324]  
+as people in their drunken glee  
+thronged into our sanctuary.  
+Brekekekex koax koax.                                                                                                                                     
+
+DIOYSUS [still rowing]  
+I’m starting to get a pain in the ass  
+from all your koax koax.     
+
+CHORUS OF FROGS  
+Brekekekex koax koax.                                                                                                                           
+
+DIONYSUS  
+Not that you give a damn about it.  
+
+CHORUS OF FROGS  
+Brekekekex koax koax.  
+
+DIONYSUS  
+Piss off—and take that koax koax with you.  
+Nothing but koax koax.  
+
+CHORUS OF FROGS  
+Yes, and for us that’s fine  
+you meddling fool—so asinine.  
+Music-loving Muses love us too  
+as does goat-footed Pan                                                                                                                                  
+playing music on melodious pipes.     
+Apollo as he strums his lyre                                                                
+loves us and what we sing,  
+for in the marshy waters here  
+we grow the reeds that bridge his string.  
+Brekekekex koax koax.  
+
+DIONYSUS [still rowing]  
+Well, I’m getting blisters and a sweaty bum.  
+Next time I bend down it’s going to speak . . .  
+
+[As Dionysus leans forward for the next stroke he lifts his rear end up in the air to fart at the Frog Chorus, but their next line drowns out the sound]  
+
+CHORUS OF FROGS  
+Brekekekex koax koax.  
+
+DIONYSUS  
+Stop it, you music-loving tribe!                                                                                                             
+
+CHORUS OF FROGS  
+No, no. We’ll sing on all the more—    
+if we’ve ever hopped on shore                                                           
+on sunny days through weeds and rushes  
+rejoicing in our lovely songs  
+as we dive and dive once more,  
+or as from Zeus’ rain we flee  
+to sing our varied harmonies  
+at the bottom of the marsh,  
+our bubble-splashing melodies.  
+
+DIONYSUS  
+Brekekekex koax koax—                                                                                                                             
+from you I’m catching your disease!    
+
+CHORUS OF FROGS  
+If that’s the case, you’ll never please.                                                                                        
+That’s hard on us.  
+
+DIONYSUS  
+ But worse for me—  
+I may blow up here as I row.  
+
+CHORUS OF FROGS  
+Brekekekex koax koax  
+
+DIONYSUS  
+Go on. Keep croaking. I don’t care.  
+
+CHORUS OF FROGS  
+We’ll croak on ’til our throats wear out.  
+We’ll croak all day.                                                                                                                                            
+
+DIONYSUS  
+Brekekekex koax koax  
+You never beat me in this play!  
+
+CHORUS OF FROGS  
+And you’ve no chance to win your way,  
+not matched with us.  
+
+DIONYSUS  
+ And you’ve no hope outdoing me.                                                               
+No, no. If I must I’ll yell all day,  
+koaxing you to get my way—  
+Brekekekex koax koax  
+
+[Dionysus listens for a response from the Chorus, but there is none]  
+
+ You see. Sooner or later I was going to win—  
+ and make you stop your harsh koaxing din.  
+
+CHARON  
+Stop it. Ship that oar alongside here.  
+Get out . . . and pay your fare.  
+
+DIONYSUS  
+ Two obols? Here.                                                                                                     
+
+[Dionysus pays Charon, who rows his way off stage. Dionysus starts looking around for Xanthias]  
+
+ Xanthias! Hey, Xanthias!  
+
+XANTHIAS [offstage]  
+ Over here!  
+
+DIONYSUS [still calling]  
+ Come here!    
+
+[Xanthias appears with the baggage but without the donkey]  
+
+XANTHIAS  
+Greetings, master.  
+
+DIONYSUS  
+ All right, what have we got?  
+
+XANTHIAS  
+Nothing but filthy muck—mud and darkness.                                                                
+
+DIONYSUS  
+Did you see the men who beat their fathers—  
+or perjurers—the ones he mentioned?  
+
+XANTHIAS  
+You mean you don’t?  
+
+DIONYSUS [looking at the audience] 
+ By Poseidon, yes I do!  
+Now I see them. So what do we do next?  
+
+XANTHIAS  
+We’d better get away from here.  
+Hercules mentioned to us it's the place  
+where wild beast prowl.  
+
+DIONYSUS  
+ To Hell with him!    
+He was talking big to make me scared.                                                                                        
+He saw I was a fighter, and he’s jealous.  
+No one’s more full of it than Hercules.                                                                                   
+But I’m keen now for some adventure,  
+some exploit worthy of this expedition.  
+
+XANTHIAS  
+Of course you are. What’s that? I hear a noise.  
+
+DIONYSUS  
+What? Where is it?  
+
+XANTHIAS  
+ Behind us.  
+
+DIONYSUS [pushing Xanthias]  
+ Get behind me.  
+
+XANTHIAS  
+No, it’s up ahead.  
+
+DIONYSUS [pushing Xanthias again]  
+ You get in front.  
+
+XANTHIAS  
+ My god!  
+Now I see it. Ooooh, a monstrous beast!  
+
+DIONYSUS [cowering behind Xanthias]  
+What’s it like?  
+
+XANTHIAS  
+ It's weird—all sorts of shapes. 
+Now it’s an ox—no, no, a jackass—  
+now it’s a woman—what a gorgeous babe!                                                                               
+
+DIONYSUS  
+ Where is she?  
+I’ll go say hello.  
+
+XANTHIAS  
+ Hold on a minute!                                               
+She’s not a woman any more. Now she’s a bitch!  
+
+DIONYSUS [terrified]  
+It’s Empusa!![^note-325]  
+
+XANTHIAS  
+ Her whole face is on fire!  
+
+DIONYSUS  
+Her legs—does she have one made of bronze?  
+
+XANTHIAS  
+ Yes!  
+By Poseidon, yes! The other’s made of cow shit.  
+And that’s no lie.  
+
+DIONYSUS  
+ Where can I run?  
+
+XANTHIAS [imitating Dionysus]  
+ Where can I run?  
+
+DIONYSUS [appealing the audience]  
+O holy man, save me—so we can drink together.[^note-326]  
+
+XANTHIAS  
+We’re screwed! Oh, lord Hercules! 
+
+DIONYSUS  
+ Don’t call me that!   
+I’m begging you, my man—don’t say that name!  
+
+XANTHIAS  
+Then Dionysus . . .  
+
+DIONYSUS  
+ That’s worse than Hercules.                                                                                      
+
+XANTHIAS [to the imaginary monster]  
+Beat it! Shoo! Come on, master.  
+
+DIONYSUS  
+ What’s going on?                                                                     
+
+XANTHIAS  
+Cheer up—we’ve come through everything just fine.  
+Now like Hegelochus we can recite  
+“After the storm I see the seals are calm.”[^note-327]  
+Empousa’s left.  
+
+DIONYSUS  
+ You swear?  
+
+XANTHIAS  
+ Cross my heart.  
+
+DIONYSUS  
+ Swear again.  
+
+XANTHIAS  
+Yes, by Zeus.  
+
+DIONYSUS  
+ Swear it one more time.  
+
+XANTHIAS  
+By Zeus, I swear.  
+
+DIONYSUS  
+ That was a close shave—  
+looking at her almost made me puke.      
+
+XANTHIAS  
+You were so terrified you stained your pants.  
+
+DIONYSUS [in a tragic tone]  
+Woe, woe, why do such ills afflict me so?  
+Which god shall I accuse of thus destroying me?        
+
+XANTHIAS  
+How ’bout Zeus’ airy pied-a-terre or the foot of time?  
+
+[The sound of music being played on the pipes comes from inside the house]  
+
+XANTHIAS  
+Listen!  
+
+DIONYSUS  
+ What is it?  
+
+XANTHIAS  
+ You don’t hear that?  
+
+DIONYSUS  
+ What?  
+
+XANTHIAS  
+A tune played on the flute.  
+
+DIONYSUS [continuing his tragic rant]  
+ Ah yes, and now  
+the scent of torches just came wafting o’er me,  
+torches of mystery . . .  
+
+XANTHIAS [interrupting]  
+ Shhhh. Let’s squat down here—  
+keep quiet and pay attention.  
+
+[The Chorus of Initiates is heard offstage]  
+
+CHORUS OF INITIATES  
+Iacchus, O Iacchus,    
+Iacchus, O Iacchus.  
+
+XANTHUS  
+Master, this is it—the initiates  
+doing their chant, the ones he talked about—                                        
+Diagoras’ hymn to Iacchus.[^note-328]                                                                                                                      
+
+DIONYSUS  
+It sounds like that to me. We’d best shut up,  
+so we find out for sure.  
+
+CHORUS OF INITIATES  
+Iacchus, living here  
+in your highly honoured shrines—  
+Iacchus, O Iacchus  
+in this meadow come to dance         
+with partners in your mystery.  
+Shake the garland round your head,  
+the fruit-filled myrtle, come and tread        
+our playful rite’s unbridled steps  
+where the Graces join in, too—  
+our pure and sacred dance and song,  
+the chant of your initiate throng.  
+
+XANTHIAS  
+O holy noble daughter of Demeter,[^note-329]  
+I just smelt roast pork—how sweet a smell that is.  
+
+DIONYSUS  
+If you keep quiet, you may just get a slice.   
+
+[Enter the Chorus of Initiates carrying torches]  
+
+LEADER OF THE CHORUS  
+Awake the blazing torches in your hands!                                                                                 
+
+CHORUS OF INITIATES  
+O Iacchus, Iacchus—with us you stand  
+light-bearing star in our nocturnal rite.                                                                                  
+For now the meadow blazes light,  
+old men’s knees will move again  
+as they dance off their ancient pain,  
+the lengthy cycle of their aged plight  
+in this your ceremonial night..                                                                                                               
+As your radiant torches blaze  
+bring to this flowery marshy place,        
+the forward march of all the young  
+that constitute your choral throng,  
+O sacred one.                                                                                                                                                    
+
+CHORUS LEADER  
+Let all those stand in silence here  
+and keep their distance from our dance—  
+all those who have no sure command  
+of ritual words and purposes,  
+who have not purified their hearts,  
+the ones who’ve never seen or danced  
+the noble Muses’ ritual songs,     
+or played their part in Bacchic rites  
+of bull-devouring Cratinus,[^note-330]  
+or like words fit for foolish clowns                                                         
+when such words are not suitable—  
+or anyone who just can't turn away  
+from fights and hateful party strife,  
+who cannot be a genial citizen,  
+easygoing with his countrymen,  
+but lights and fans the flames of war,  
+ambitious to advance himself,                                                                                                               
+whoever guides our state through storms  
+and is corrupted by some bribe,  
+betrays our watch posts and our ships                                                    
+or from Aegina smuggles goods,  
+like that wretch Thorycion,  
+our customs agent who shipped off  
+illicit stuff to Epidaurus[^note-331] —  
+oar pads and cloth for sails and pitch,  
+or who persuades some other man  
+to send supplies to hostile ships,         
+or anyone opposing Hecate  
+in dithyrambic choruses,  
+or any politician setting out                                                                    
+to pare back pay our poets get  
+because they mock him in these rites,  
+ancient rites of Dionysus.  
+
+ I say to all such people, and I say again—  
+and for a third time I state once more—  
+stand back from our choral mysteries.                                                                                          
+But those now here begin the songs,    
+the dances lasting all night long,  
+as fits our ceremonial throng.  
+
+CHORUS OF INITIATES  
+Now each one boldly marches on                                                           
+into the meadow’s flowery lap,  
+and each one stamps the ground—  
+we joke, make fun, we mock,  
+our bellies crammed with breakfast food.  
+
+CHORUS LEADER  
+Move on, now—but see you praise  
+the saving goddess in a noble way,  
+as you sing out our melodies.   
+She says she acts to save our land                                                                                                       
+from season unto season,  
+against the wishes of Thorycion.                                                                                                    
+
+ Come now, cry aloud another chant  
+for goddess Demeter, our harvest queen,  
+a celebration made in sacred song.  
+
+CHORUS OF INITIATES  
+O Demeter, queen of our sacred rites, stand with us here  
+preserve us now, your chorus. Let me play in safety,  
+let me dance all day, tell lots of really funny jokes,  
+and offer many serious reflections, too.                                                                                      
+Then, as befits your ceremonial rites, let me,  
+with my ridicule and fun, take off first prize,  
+let me wear the wreath, garland of victory.                                                                        
+CHORUS LEADER  
+Come now, with your singing summon here  
+that lovely god, our partner in this dance.  
+CHORUS  
+Widely honoured Iacchus,  
+creator of the sweetest joyful song,                                                                                                   
+come here with us to Demeter,  
+show us how you move along  
+this lengthy way with so much ease.    
+ Iacchus, lover of the dance,  
+escort me forward as I prance.  
+ In your playful penny-pinching mood  
+you’ve torn my tiny dancing shoes,  
+you’ve ripped my dress to shreds—  
+Iacchus, you’ve found a way  
+for all of us to dance and play  
+what more, we never have to pay.  
+ O Iacchus, lover of the dance  
+escort me forward as I prance.     
+ What's more, as I just glanced aside  
+around me here, I saw a girl,                                                                                                                   
+a lovely partner in the dance—                                                              
+her scanty dress was ripped in two,  
+I saw a nipple peeking through.  
+ Iacchus, lover of the dance,  
+escort me forward as I prance.  
+
+DIONYSUS  
+Hey, I’m always keen to enjoy myself.  
+I’d like to dance with her.  
+XANTHIAS  
+ Me, too.  
+CHORUS OF INITIATES  
+Would you like to join us now in making fun                                                                       
+of Archedemos, who at seven years old  
+was toothless, no genuine Athenian teeth.[^note-332]  
+And now he plays big shot in politics                                                     
+among the dead above—the best there is  
+at double dealing and corruption.  
+And Cleisthenes, I hear, still picks his ass  
+and rips his cheeks apart among the tombstones,  
+blubbering over his dead lover Sabinos.  
+And Callias, they say, son of the man  
+who used to bugger his own horses,   
+has fights at sea, naval entanglements,  
+his arse hole covered by a lion skin.        `                                                                                       
+DIONYSUS [approaching the Leader of the Chorus]  
+Could you please inform the two of us                                                   
+where Pluto lives when he’s at home down here?  
+We’re strangers in these parts. We’ve just arrived.  
+LEADER OF THE CHORUS  
+No need to travel very far from here—  
+so don’t ask me again. You should know  
+you’re there—right at this very door.                                                                                              
+DIONYSUS [to Xanthias]  
+All right, lad, pick up the bags again.  
+XANTHIAS [grumbling as he picks up the luggage]  
+What’s this all mean—the same old storyline,   
+with Corinth, son of Zeus . . . all this baggage.[^note-333]  
+CHORUS OF INITIATES  
+Keep up the dance  
+along the round path sacred to our goddess,                                                                     
+to the flower-bearing grove—let’s play  
+with those who join this festival,  
+the one our goddess so adores.  
+I’ll join the women and the girls  
+who dance to the goddess all night long,  
+the ones who bear the sacred light.  
+Let’s move on into flowery meadows,                                                                                         [450]    
+the rose-filled fields, and worship there  
+the way we always do, with song and dance,  
+where blessed Fates assemble, too.                                                                                             
+[The Chorus exits]  
+DIONYSUS  
+Let’s see—what style do I use at this point                                                                                
+to knock upon the door? Which one to use?  
+What’s the local style of knocking here?  
+XANTHIAS  
+Stop wasting time. Try chewing on the door—  
+act like Hercules. You’ve got his height and might.  
+DIONYSUS [knocking ]  
+You in there! Doorkeeper!  
+AEACUS [from inside]  
+ Who is it?  
+DIONYSUS  
+ It's great Hercules!  
+[Aeacus bursts through the door and grabs Dionysus very roughly]  
+AEACUS  
+O you abominable, you shameless reckless wretch—  
+villain, villain, damned smiling villain—  
+the man who made off with Cerberus my dog!  
+You grabbed him by the throat and throttled him,                                                     
+then took off on the run, while I stood guard.  
+Now you’re caught—black-hearted Stygian rocks,                                                            
+and blood-dripping peaks of Acheron  
+will hold you down. Roaming hounds of Cocytus  
+will gnaw your guts to bits—Echnida, too,  
+and she’s a hundred heads. The Tartesian eel  
+will chew your lungs, your kidneys bleed              
+from entrails Tithrasian Gorgons rip apart.  
+I’ll set out hot foot in their direction.  
+[Aeacus lets go of Dionysus, who drops to the ground in terror. Exit Aeacusback into the house. Dionysus lifts his tunic and inspects his underpants]  
+XANTHIAS  
+What have you done?  
+DIONYSUS  
+ I’ve made an offering. Call the god.                                                                    
+XANTHIAS  
+You’re being ridiculous. Get up. Move it,                                                                                    
+before some stranger spots you.  
+DIONYSUS  
+ I’m going to faint.  
+Bring the sponge here—set it on my heart.  
+[Xanthias rummages through the bags and finds a large sponge]  
+XANTHIAS  
+I’ve found the sponge! Here—you can do it.  
+[Dionysus takes the sponge and begins to clean up his crotch with it]  
+XANTHIAS  
+Where are you putting that sponge? O golden gods,  
+you keep your heart in there?  
+DIONYSUS  
+ It was scared—  
+it ran off to my lower bowel.  
+XANTHIAS  
+ Of all gods and men         
+no one’s more cowardly than you.  
+DIONYSUS  
+ Me?  
+How can I be when I asked you for the sponge?  
+Another man would not have asked, as I did.                                                                  
+XANTHIAS  
+What would he have done?  
+DIONYSUS  
+ Well, a coward  
+would have lain there and stunk up the place.  
+But I stood up—what’s more, I wiped myself.                                                                        
+XANTHIAS  
+By Poseidon, a valiant act.  
+DIONYSUS  
+ By Zeus. I think it was.  
+Weren’t you scared shitless by his angry words,  
+by all those threats?  
+XANTHIAS  
+ By Zeus, I never thought of them.  
+DIONYSUS  
+All right then, since you’re so brave, so valiant,         
+you can be me. Take this club and lion skin.  
+If you’re got the guts, I’ll trade places with you.  
+I’ll carry all the baggage.  
+XANTHIAS  
+ All right.                                                        
+I’ve got no choice. Quick, give me that.  
+[Xanthias takes the club and puts on the lion skin]  
+XANTHIAS [in the grand style]  
+Now gaze upon the Xanthian Hercules—  
+see if I turn coward and act like you.                                                                                              
+DIONYSUS  
+No, by god, you’ll well deserve a whipping.  
+Come on, then, I’ll pick up the bags.  
+[Dionysus starts to pick up a few of the smaller pieces. A Servant enters through the door]  
+SERVANT  
+Have you come back, my dearest Hercules?  
+Come on in. Once the goddess heard you’d come         
+she had us baking bread loaves right away,  
+boiling up pea soup—two or three cauldrons full,  
+roasting an entire ox, baking honey cakes                                             
+and cookies. So do come in.  
+XANTHIAS  
+ That’s really nice,  
+but I’m afraid . . .  
+SERVANT  
+ I won’t let you get away—  
+by Apollo, no. She’s stewing bird meat,                                                                                        
+toasting fresh desserts, mixing sweetest wines.  
+Please come in.  
+XANTHIAS  
+ I appreciate it, but . . .  
+SERVANT  
+You can’t be serious. I won’t let you leave.  
+There’s a lovely flute girl in there, just for you—         
+two or three dancing girls, as well.  
+XANTHIAS  
+ What’s that?  
+Did you say dancing girls?  
+SERVANT  
+ Young and in full bloom—  
+all freshly plucked. So come on in. Right now                                        
+the cook’s all ready to produce the fish.  
+The table’s being brought in.  
+XANTHIAS  
+ You go on back.  
+First, tell those dancing girls inside I’m coming.  
+ [to Dionysus]  
+ You, slave, follow me. And bring the baggage.                                                                   
+DIONYSUS  
+Hey, hold on a minute. All this pretence,  
+you can’t be taking it so seriously.  
+The fact I dressed you up as Hercules—         
+that was just fun. Don’t play the fool with me.  
+Pick up these bags again and bring them in.  
+XANTHIAS  
+What? You're not intending to take back from me                                
+what you gave in person?  
+DIONYSUS  
+ You bet I am.  
+Take off that lion skin.  
+XANTHIAS  
+ I want witnesses—  
+I entrust my law suit to the gods.  
+DIONYSUS  
+ What gods?  
+To think that you, a slave and mortal, too,                                                                               
+could play Hercules, Alcmene’s son—  
+so arrogant and stupid.  
+XANTHIAS  
+ All right, all right.  
+Have it your way, then. Take the costume.         
+Perhaps some day the gods'll make you need me.  
+[Xanthias hands the club and lion skin to Dionysus]  
+CHORUS  
+There’s a man with brains,  
+with keen intelligence—                                                                     
+someone who’s sailed about a bit  
+and always rolls himself around  
+to the right side of the ship.  
+He’s not one to stand transfixed  
+like some image made in paint  
+or frozen solid like a stone.  
+To move away from where one stands         
+to places much more comfortable—  
+that indicates a clever man,                                                                                                                        
+a born Theramenes.[^note-334]                                                                                                                           
+DIONYSUS  
+Now that would be extremely funny  
+to see Xanthias, my slave, lying at ease  
+enjoying bed linen from Milesia,  
+as he smooches with some dancing girl.  
+He asks me for a pot to piss in—  
+but I, looking at him straight, grab him hard  
+right by his cucumber.  
+[Dionysus laughs at the thought, but then reconsiders]  
+ But then he’d see me             
+and, being a rascal, sock me on the jaw.  
+He’d knock my front teeth out for sure.  
+[Pandokeutria, a landlady, enters through the door, looks at Dionysus, and calls back through the doorway]  
+PANDOKEUTRIA  
+Plathane, Plathane, come out here.                                                                                           
+That fellow’s back who came to our hotel  
+and ate up all our bread, all sixteen loaves.                                                                             
+[Enter Plathane, another landlady]  
+PLATHANE  
+My god, that’s the one.  
+XANTHIAS  
+ Oh, oh. Someone’s in trouble.  
+PANDODEUTRIA  
+And twenty boiled hams afterwards as well—  
+at half an obol each.  
+XANTHIAS  
+ Now he’s in for it.  
+PANDOKEUTRIA  
+And lots of garlic, too.  
+DIONYSUS  
+ My good women, you jest.  
+You don’t know what you’re saying.           
+PANDOKEUTRIA  
+ O yes, we do.         
+You thought I wouldn’t know you any more  
+because you’ve got those little booties on.  
+What else was there? I haven’t said a word                                            
+about the pickled fish.  
+PLATHANE  
+ You left out  
+all the fresh cheese, by god, the scoundrel ate.  
+He gobbled up the baskets, too.                                                                                                           
+PANDOKEUTRIA  
+ To top it all,  
+when I tallied up his bill, he just looked at me  
+and yelled, a massive roar right in my face.  
+XANTHIAS  
+That’s just like him. He does that everywhere.  
+PANDOKEUTRIA  
+Then he pulled out his sword—he looked insane.         
+PLATHANE  
+My god, you poor dear!  
+PANDOKEUTRIA  
+ We were both terrified.  
+Somehow we ran up fast onto the shelf,  
+and he took off, grabbing up the mats.                                                                                   
+XANTHIAS  
+Well, that’s exactly how he operates.  
+PANDOKEUTRIA  
+We’ve got to deal with him somehow. I know—  
+go call my patron Cleon.[^note-335]  
+PLATHANE  
+ If you meet him,  
+get Hyperbolos, as well. We’ll fix this fellow.                                                                          
+PANDOKEUTRIA  
+You wretched greedy swine—I’d be so happy  
+to smash your molars with a rock, those teeth  
+which gobbled down my stuff.  
+DIONYSUS  
+ That’s really nice—         
+and I’d like to dump you in a deep ravine.  
+PLATHANE  
+I could take a sickle and slice that gullet  
+which wolfed down all my tripe. Instead of that,                                                          
+I’ll get Cleon to draw up a charge,  
+so we can fish food out of him right here.  
+[Exit Plathane and Pandokeutria]  
+DIONYSUS  
+Now, may I die the nastiest of deaths,  
+my little Xanthias, if I’m not fond of you . . .  
+XANTHIAS  
+I know what you’re thinking. Just stop right there.                                                           
+Don’t say a word. I’m Hercules again—  
+but I won’t do it.  
+DIONYSUS  
+ Dear little Xanthias,      
+don’t say such things.  
+XANTHIAS  
+ How could I be Hercules—  
+remember I’m a slave and mortal, too.  
+DIONYSUS  
+I know you’re angry—you’ve a right to be.                                                                         
+But even if you hit me, I won’t criticize.  
+And if in future I take anything from you,  
+may I be chopped down root and branch.  
+Let me die in the worst way possible—  
+me, my wife, and kids—and Archedemus, too—  
+the man with clammy eyes.  
+XANTHIAS  
+On those conditions I accept your oath.   
+[Xanthias and Dionysus exchange the lion skin and club once again]  
+CHORUS:  
+Since you’ve taken up the skin,                                                                                                               
+the one you had before,  
+your task is now to start again,                                                                                                 
+to reinvigorate yourself—  
+once more put on that dreadful stare,  
+recall the god you imitate.  
+If you get caught in foolish talk  
+or squeak out squeals of fear,  
+you’ll be compelled a second time  
+to carry all the bags.                  
+XANTHIAS  
+Men, the advice you give me is not bad.  
+I was thinking the same thing myself.  
+What’s more, if all this turns out a success,                                                                        
+he’ll try to take this back from me again.                                                                                   
+I know that for a fact. But I’ll make myself  
+a manly man—with a gaze like mustard.  
+I need to do that—for just as I thought  
+I hear the sound of scraping by the door.  
+[Enter Aeacus with servants]  
+AEACUS  
+Tie up this dog thief. Get a move on, too—  
+so we can punish him. Be quick about it.                  
+DIONYSUS  
+Oh, oh. Someone’s in trouble now.  
+XANTHIAS  
+ What the hell!  
+You stay away from me!  
+AEACUS  
+ O ho, you’re fighting back!  
+[calling inside the house]  
+ Ditylas, Sceblias, Pandocus—outside!—                                                                           
+come here and punch this fellow out.  
+[Servants appear and begin to fight Xanthias]  
+DIONYSUS  
+It's shameful, a complete disgrace—                                                                                                
+the way he hits them back—and more than that—  
+he steals.  
+AEACUS  
+ That’s shocking.  
+DIONYSUS  
+ It’s even worse.  
+It’s scandalous and dreadful.  
+XANTHIAS  
+ Now, by god,  
+I’m prepared to die if I was ever here  
+before today, or stole a thing from you         
+that’s worth a hair. What’s more, I’ll make an offer,  
+like a true gentleman—take this slave of mine  
+and torture him. If you find out from him                                             
+I’ve done wrong, then take me out and kill me.  
+AEACUS  
+How should I torture him?  
+XANTHIAS  
+ All the ways there are.  
+Tie him to a ladder, hang him up,  
+whip him with nails, twist him on the rack,                                                                              
+strip off skin, fill his nose with vinegar,  
+load bricks on him—do everything you can.  
+Just don’t flog him with fresh onions or a leek.            
+AEACUS  
+That offer's fair. So if I beat the slave  
+and cripple him, I’ll pay for damages.  
+XANTHIAS  
+Not to me. Just take him off for torture.                                                                               
+AEACUS  
+No. I’ll torture him right here, so he’ll confess  
+before your very eyes.  
+[To Dionysus]  
+ Put down that load.  
+And hurry up. Don’t give me any lies.  
+DIONYSUS  
+I here proclaim no one should torture me.  
+I’m an immortal god. If you do so,  
+you’ll have yourself to blame.  
+AEACUS  
+ What are you saying?                                                                                       
+DIONYSUS  
+I'm saying I'm Dionysus, an immortal,                  
+a son of Zeus—this man here’s a slave.  
+AEACUS  
+You hear that?  
+XANTHIAS  
+ I hear what he claims to be—  
+all the more good reason for flogging him.                                                                        
+If he’s a god, he won’t feel a thing.  
+DIONYSUS  
+ You’re right.  
+And since you also claim that you’re a god,  
+why don’t you take as many blows as me?  
+XANTHIAS  
+Fair enough. Then whichever of the two  
+you see bursting into tears or flinching  
+as he’s whipped—you’ll know he’s not the god.  
+AEACUS  
+You’re a fine gentleman—that’s obvious.                                                                                 [640] 
+You stand for justice. All right—the two of you,  
+take off your clothes.  
+[Xanthias and Dionysus remove their clothes and get down on all fours in preparation for the whipping. Aeacus produces a massive whip]  
+XANTHIAS  
+ How will you judge this?  
+How will you keep it fair?  
+AEACUS  
+ That’s easy.                                                                                                           
+I’ll alternate the blows.  
+XANTHIAS  
+ A fine suggestion.  
+AEACUS [striking Xanthias]  
+There!  
+XANTHIAS  
+ Watch closely if I flinch or not.  
+AEACUS  
+But I just hit you.  
+XANTHIAS  
+ By god, I didn’t feel a thing.  
+AEACUS  
+All right. Now I’ll lay into this one here.  
+[Aeacus strikes Dionysus]  
+DIONYSUS  
+When are you going to start my whipping?  
+AEACUS  
+I just did.  
+DIONYSUS  
+ Why didn’t I sneeze?  
+AEACUS  
+ I haven't a clue.  
+Back to this one again.  
+XANTHIAS  
+ Get on with it!                  
+[Aeacus strikes Xanthias much harder than the first time]  
+XANTHIAS [feeling the pain]  
+ Ahhhh!!!         
+AEACUS  
+What’s that sound about? Did that blow hurt?  
+XANTHIAS  
+No, by god. I was just remembering                                                          
+the feast for Hercules at Diomeia.                                                                                               
+AEACUS  
+The man’s a saint. All right, now this one’s turn.  
+[Aeacus strikes Dionysus, again much harder than before]  
+DIONYSUS  
+Oooowww! Ahhh!!  
+AEACUS  
+ What was that cry?  
+DIONYSUS  
+ I see men on horseback.  
+AEACUS  
+Why are your eyes full of tears?  
+DIONYSUS  
+ I smell onions.  
+AEACUS  
+You didn’t feel a thing?  
+DIONYSUS  
+ No, nothing—  
+nothing that bothered me.  
+AEACUS  
+ All right, then,  
+back to this one here.  
+[Aeacus hits Xanthias really hard]  
+XANTHIAS  
+ Aiiieeee!!  
+AEACUS  
+ What was that?  
+XANTHIAS [pretending he has a thorn in his hand]  
+A little prickle. Pull it out.  
+AEACUS  
+ What’s going on?                  
+Now it’s this one’s turn.  
+[Aeacus strikes Dionysus very hard]  
+DIONYSUS  
+ Aaaiiii!! O Apollo,  
+who presides at Delphi and at Delos . . .  
+XANTHIAS  
+You hear that—the man’s in pain.  
+DIONYSUS  
+ No, I’m not.        
+I was remembering some poetry,  
+a verse from Hipponax.  
+XANTHIAS  
+ You’re getting nowhere.  
+Hit him on the ribs.  
+AEACUS  
+ A good idea, by god.  
+Stick out that pot of yours.  
+[Aeacus hits Dionysus savagely on the ribs and stomach]  
+DIONYSUS  
+ Aaaiii! O Poseidon . . .  
+XANTHIAS  
+Someone’s feeling pain.  
+DIONYSUS [continuing to recite poetry]  
+ . . . you who command  
+Aegean headlands and the green-grey sea . . .  
+AEACUS  
+Holy Demeter, I can’t sort this out.          
+Which one's the god? You'd best come inside.  
+My master Pluto will know who you are,                                                                                    
+so will Persephone, his wife—they're gods.                                                                        
+DIONYSUS  
+Now you talking. I’d have liked it better  
+if you’d thought of that before these whippings.  
+[Dionysus and Xanthias and Aeacus go into the house leaving the Chorus on stage]  
+CHORUS  
+You Muses, enter now our sacred dance.  
+Enjoy our songs and gaze upon  
+the massive crowds of people here,  
+thousands of clever thinkers in their seats,  
+in love with honour more than Cleophon,        
+on whose snarling lips a Thracian swallow sits,                                                                       
+making an awful din—on that foreign leaf  
+she squawks her nightingale’s lament,                                                                              
+for he’ll soon be sentenced, sent to die  
+although the jury’s votes create a tie.[^note-336]  
+CHORUS LEADER  
+It’s just and proper in this city  
+our sacred chorus give advice and teach.  
+So first it seems appropriate to us  
+to free the citizens from inequalities—  
+to ease their fears. So if a man slips up                  
+thanks to the wrestling tricks of Phrynicus,[^note-337]  
+I say we should allow the ones who fall                                                                                           
+to state their case, reform their evil ways.                                                                     
+Besides that’s no dishonour to our city.  
+It would bring benefits. It’s scandalous  
+that those who fought a battle once at sea  
+should instantly become Plataeans,  
+masters instead of slaves.[^note-338]   I don’t deny  
+this worked out well—in fact, I praise it.  
+It’s the only well-intentioned thing you did.         
+But as well as this it stands to reason  
+we should forget the single blow of fortune  
+of those who fought so much at sea beside you,                                                      
+just like their fathers, your ethnic kinsmen—  
+that's what they keep requesting. But you here,  
+whom nature made the wisest of all people,                                                                              
+should drop your anger and make everyone  
+who fights alongside us at sea a kinsman,  
+a citizen. For if we are too proud,  
+too puffed up with self-worth, especially now,         
+when we’re encircled by the sea’s embrace,  
+in future time we’ll look like total fools.  
+ If I’ve a keen sense of the life and style                                            
+of someone who will someday cry in woe,  
+this tiny irritating ape Cleigenes,                                                                                                            
+the most corrupt of all our laundry types,  
+those noble men who cut the soap with ash,  
+dilute the mix, and use Cimolian earth,  
+won’t be with us long. He knows it, too—  
+that’s why he’s not a man promoting peace.         
+He knows that someday in a drunken fit  
+he may well lose his staff of office,  
+and, more than that, be stripped of all his clothes. [^note-339]  
+This city, it often seems to me  
+treats our best and worthiest citizens  
+the way it does our old silver coins,                                                                                                    
+our new gold ones, as well.[^note-340]   This money  
+was never counterfeit—no, these coins  
+appeared to be the finest coins of all,  
+the only ones which bore the proper stamp.         
+Everywhere among barbarians and Greeks  
+they stood the test. But these we do not use.  
+Instead we have our debased coins of bronze,                                                          
+poorly struck some days ago or yesterday.  
+That’s how we treat our finest citizens,  
+the nobly born, our righteous men,  
+our best and brightest, the ones well trained  
+in music and the dance at the palaestra.[^note-341]  
+Instead we use foreign bronze for everything—  
+useless men from useless fathers, red heads,[^note-342]                                                                            
+men who’ve come here very recently—  
+the sort the city at its most negligent  
+would never use in earlier days,                                                                                              
+not even as a scapegoat.[^note-343]   But now,  
+you silly fools, it’s time to change your ways.  
+Use worthy people once again. You’ll see—  
+if you’re successful, then you’ll merit praise.  
+And if you fail, well, you’ll be a fine match  
+for the tree you’re hanging from. At any rate,  
+should you slip up, that’s what the wise will say.         
+[Enter Xanthias with a servant from the house]  
+SERVANT  
+By Zeus who saves us, that master of yours  
+is a very cultured gentleman.  
+XANTHIAS  
+ Of course, he is.  
+The only things he knows are how to drink       
+and dip his dink.  
+SERVANT  
+ But not to beat you on the spot  
+when they proved that you’re the slave—and one  
+who claimed you were the master.  
+XANTHIAS  
+ If he had,  
+he’d have had regrets—and that’s a fact.  
+SERVANT  
+What you just did is worthy of a slave,  
+something I love to do.  
+XANTHIAS  
+ Forgive my asking,  
+but what is it you love to do?  
+SERVANT  
+ It's more than love—         
+almost ecstasy—when I can curse my master  
+out of ear shot.  
+XANTHIAS  
+ What about really bitching,  
+whenever you’ve received a total thrashing                                            
+and run outside?  
+SERVANT  
+ Yes, I do like that, too.  
+XANTHIAS  
+What about sticking your nose in everything?  
+SERVANT  
+By god, there’s nothing finer—that’s for sure.  
+XANTHIAS  
+By Zeus, divine protector of our race,                                                                                            
+what about listening to our masters’ chat  
+when they spread gossip . . .  
+SERVANT  
+ I’m even crazier for that!  
+XANTHIAS  
+. . . then passing on the gossip all around,   
+to everyone outside the house?  
+SERVANT  
+ You mean me?  
+Every time I do that, I piss myself.  
+XANTHIAS  
+By Phoebus Apollo, give me your hand,                                                                                
+let me kiss you, and you kiss me.  
+[Notices a noise from inside the house]  
+ Tell me,  
+by Zeus, patron of all flogged slaves like us,  
+what’s going on inside the house, that noise,  
+all that yelling and abuse?  
+SERVANT  
+ Oh that—  
+that’s Euripides and Aeschylus.  
+XANTHIAS  
+ Ah ha!  
+SERVANT  
+Big, big trouble’s in the works down here  
+among the dead—a massive civil war.                                                                                           
+XANTHIAS  
+What about?  
+SERVANT  
+ There’s a custom in these parts  
+ that in the arts—the great and worthy ones—  
+the best man in his special area                                                              
+gets all his meals for free at City Hall  
+in the chair of honour next to Pluto . . .  
+XANTHIAS  
+I get it.  
+SERVANT  
+. . . until someone else arrives  
+who has more skill than he does. At that point,  
+he has to yield his place.  
+XANTHIAS  
+ But why would this  
+get Aeschylus upset?  
+SERVANT  
+ Well, he had his chair,  
+the one for tragedy, as the finest                  
+in that form of art.  
+XANTHIAS  
+ Who’s got it now?                                                                                                               
+SERVANT  
+When Euripides came down to Hades  
+he started showing off his rhetoric                                                          
+to thieves, bag snatchers, parricides,  
+to all the ones who steal—and here in Hades  
+that’s most of us. Well, they listened to him,  
+heard his counter-arguments, his twists and turns,  
+and went nuts for him. So they then proposed  
+he was the wisest of all men. With that,  
+Euripides got so worked up he claimed         
+that chair where Aeschylus sits down.  
+XANTHIAS  
+Didn’t people throw stuff at him?  
+SERVANT  
+ My god, no.  
+Quite the opposite. They all cried out                                                    
+to have a trial set up which could find out  
+which of the two men was the wiser poet.                                                                                 
+XANTHIAS  
+The crowd of scoundrels?  
+SERVANT  
+ Yes, that bunch—  
+they made a din, by god—right up to heaven.  
+XANTHIAS  
+Didn’t Aeschylus get some support?  
+SLAVE  
+It's like this audience—too few good men.  
+XANTHIAS  
+So what’s Pluto planning to set up?         
+SLAVE  
+A contest— there's going to be a trial right here,  
+a test of skill.  
+XANTHIAS  
+ What about Sophocles—  
+how come he didn’t claim the poet’s chair?                                                                        
+SLAVE  
+My god, he wouldn’t. When he first arrived  
+he kissed Aeschylus, shook him by the hand,  
+and kept his distance from the chair of honour.                                                                  
+And now, according to Cleidemides,  
+he means to sit by as a substitute.  
+If Aeschylus wins out, he’ll keep his place.  
+If not, in this contest of poetic skill                  
+he says he’ll fight on to the bitter end  
+against Euripides.  
+XANTHIAS  
+ So this affair is on.  
+SLAVE  
+Yes, in a minute. In this very spot                                                          
+some fairly weird things will be going on—  
+they’re testing poetry with balance scales!  
+XANTHIAS  
+What?! They’ll weigh tragedy in milligrams?  
+SERVANT  
+And they’re bringing out some measuring sticks,  
+rulers for words, framed rectangles . . .  
+XANTHIAS  
+Will they be constructing bricks?                                                                                                        
+SERVANT  
+. . . bevels, too,  
+and wedges—all because Euripides                  
+says he’ll test their tragedies, every word.  
+XANTHIAS  
+Well, my guess is that Aeschylus  
+isn’t liking this at all.  
+SLAVE  
+ He just glared,                                                           
+lowering his head as if he were a bull.  
+XANTHIAS  
+Who’s going to judge this trial?  
+SLAVE  
+ That’s difficult.  
+Wise men are hard to find—in short supply.  
+And Aeschylus didn’t really hit it off  
+with the Athenians . . .  
+XANTHIAS  
+ Perhaps because  
+he thought that most of them were criminals.  
+SERVANT  
+. . . and he considered other people         
+worthless as judges of true poetry.                                                                                                     
+So at last they turned toward your master,  
+since he’s got some knowledge of that art.                                                                          
+But let’s go in. There’s always trouble for us,  
+every time our master’s in a rush.  
+[Xanthias and the Servant go into the house]  
+CHORUS [in a parody of the tragic style] 
+Now the loud-roaring hero feels in full his fury—  
+that valiant vehemence which surges up within,  
+when he confronts his rival in poetic craft  
+sharpening smooth-talking tusks, just like a boar.  
+His frenzied passion's going to make those eyeballs roll.         
+The battle’s here at hand—helmet-glancing war,  
+horse-crested words, while splintered axles break apart,  
+as the subtle chisel-worker tries to push and parry                  
+steed-prancing phrases from the man who builds our minds.  
+The bristling crest erect there on his shaggy neck,  
+his natural hair, a fearful scowl upon his brow,  
+and bellowing, he’ll launch his language fixed with bolts,  
+like planking for a ship, he’ll rip the words apart,  
+blasting with his giant’s lungs. The other man,  
+the one who works his mouth, who tortures every word,         
+unrolling his smooth tongue and shaking envy’s rein,  
+will dissect and parse those words, and, splitting hairs,  
+refute all that large labour of the former’s lungs.                                                   
+[Enter Aeschylus, Euripides, Dionysus, and Pluto, with attendants]  
+EURIPIDES  
+I’ll not give up the chair—no more advice.                                                                               
+I say I’m better in poetic skill.  
+DIONYSUS  
+Why are you silent, Aeschylus? You hear  
+the claim he’s made.  
+EURIPIDES  
+ His high-and-mighty pose—  
+he does that at the start of every play,  
+some hocus-pocus for his tragedies.  
+DIONYSUS  
+My dear fellow, that’s too much big talk.         
+EURIPIDES  
+I know the man—and for a long time now  
+I’ve studied him. He makes crude characters  
+with stubborn tongues. As for his own mouth,                                                                
+it’s unrestrained and uncontrolled, unlocked,  
+no proper discourse, bombastiloquent.  
+AESCHYLUS  
+Is that so, you garden-goddess child?                                                                                              
+You say that of me, you gossip-monger,  
+a beggar’s poet who picks and stitches rags?  
+You’ll regret those words.  
+DIONYSUS  
+ Hey, Aeschylus,  
+hold on. Don’t fire up your heart so angrily,         
+with such ill will.  
+AESCHYLUS  
+ No, no, I won’t hold back,  
+’til I’ve exposed the man and clearly proved  
+this cripples’ poet is a boastful fool . . .                                                                                   
+DIONYSUS [to the attendants]  
+Hey, boys, bring out a sheep—a black one, too.  
+It looks as if a storm’s about to break.[^note-344]  
+AESCHYLUS:  
+. . . collecting all those monodies from Crete,  
+importing impure marriage into art . . .[^note-345]                                                                                               
+DIONYSUS  
+Whoa, hold on there, much-honoured Aeschylus.  
+And you, my poor Euripides, back off  
+beyond this breaking storm—that would be wise,         
+in case his anger cracks your skull in two,  
+some heady phrase makes all your brain leak out  
+your hero Telephos. And you there, Aeschylus,                                                              
+don’t get so angry. Test him, but calmly—  
+and then be tested, too. It’s just not right  
+for poets to engage in such abuse,  
+like two women selling bread. You bellow  
+as if you were a tree on fire.  
+EURIPIDES  
+ I’m ready.                                                                      
+I don’t mind biting or being bitten first,  
+whatever he prefers, about my diction,                  
+or the songs and sinews of my tragic plays—  
+and by god, about Peleus, too,  
+my Meleager or my Aeolos,                                                                                                                
+or, even more about my Telephos.[^note-346]  
+DIONYSUS  
+What do you want to do? Tell us, Aeschylus.  
+AESCHYLUS  
+I have no wish to enter battle here.  
+The war we fight is not on equal terms.  
+DIONYSUS  
+Why’s that?  
+AESCHYLUS  
+ My poetry did not die with me,  
+but his did once he died. So it’s down here—  
+he’ll have it with him when he wants to speak.         
+But nonetheless since it’s what you want,  
+we must go through with this.                                                                                                                
+DIONYSUS [to the assembled group]  
+ Come now,  
+someone bring an offering here, and fire as well,                                                       
+so I can pray before this contest starts,  
+our battle of the brains, and judge the fight  
+with maximum aesthetic expertise.  
+[addressing the Chorus]  
+ Now for the Muses you should sing a song.  
+CHORUS  
+O you nine sacred Muses  
+mighty Zeus' virgin daughters,  
+gazing down on subtle minds,                  
+you see intelligence at work  
+in men who write our maxims.  
+When such as these go out to fight,                                                                                      
+with counterarguments and tricks,  
+with fiercely studied wrestling moves,  
+with crooked throws, come to us here,  
+observe the power of these mouths,  
+their awesome skill in making words,                                                                                                
+sawing phrases up like sawdust.  
+Now our great contest in this art 
+stands ready, let the business start.  
+DIONYSUS  
+Before we have you two recite your lines,  
+you ought to offer up your prayers.   
+AESCHYLUS  
+ O Demeter,                                                          
+who nourishes my mind, make me worthy  
+to be there in your mysteries.  
+DIONYSUS [to Euripides]  
+ It’s your turn—  
+take some incense. Make an offering.  
+EURIPIDES  
+ All right—  
+but I pray to different gods.  
+DIONYSUS  
+ Personal ones?  
+Your very own? Freshly minted?  
+EURIPIDES  
+ That’s right.                                                                                    
+DIONYSUS  
+Then pray away to those private gods of yours.  
+EURIPIDES  
+O air, my food, O pivot of my tongue,  
+O native wit, O nose that smells so fine,  
+whatever words I seize upon, let me  
+refute them—let the victory be mine.                                                                                      
+CHORUS  
+Now we’re filled with great desire  
+to hear from poets with such skill,  
+the pathway in this war of words  
+they’ll walk along. Their tongues are wild,  
+no lack of boldness in their mood,  
+nor are their intellects asleep.  
+It looks as though we’re going to see                                                                                               
+one man say something quite urbane  
+and finely trimmed. The other one  
+will seize him and his arguments,                                                                                                
+the roots and all, and then attack  
+and scatter words around the place  
+like wrestle-rolling on a mat.  
+DIONYSUS [To Aeschylus and Euripides]  
+You must speak at full speed. But see you talk  
+this way—with elegance, no metaphors,  
+and nothing someone else might say.  
+EURIPIDES  
+ All right.  
+As for myself—the kind of poet I am—  
+I’ll say that in my final words. For first,  
+I’ll demonstrate this fellow’s fraudulent,  
+a cheat. I’ll show just how he took them in,                                                                       
+and fooled those idiots reared on Phrynichos.[^note-347]                                                                     
+First, he’d wrap a person up and sit him down  
+with his face hidden away—some character  
+like Niobe or his Achilles—  
+mere window dressing for the tragedy.  
+They didn’t speak or even mutter.  
+DIONYSUS  
+ That’s right. They didn’t.  
+EURIPIDES  
+And then his Chorus thumped their lyrics out—  
+strings of them, four in a row without a break,  
+the character just sat on stage in silence.  
+DIONYSUS  
+Well, I liked that they kept quiet. It pleased me.                                                          
+It wasn’t any worse than those today  
+who babble on and on.  
+EURIPIDES  
+ You were a fool—  
+no doubt of that.  
+DIONYSUS  
+ I think so, too. But why so?  
+Why did our friend here do that?  
+EURIPIDES  
+ It was a trick  
+designed to keep spectators in their seats,  
+waiting for when Niobe might start to speak.  
+So the play continued on and on and on . . .                                                                          
+DIONYSUS  
+What a rascal! How he had me fooled!  
+[to Aeschylus] Why are you fretting there and fidgeting?  
+EURIPIDES  
+Because I’ve caught him out. When he’d played this trick                      
+and half the play was done, someone would speak up,  
+a dozen ox-like words—with eyebrows, crests,  
+some fear-faced things full of the bogey man,  
+which no one in the audience understood.  
+AESCHYLUS  
+How miserable I feel . . .  
+DIONYSUS  
+ Stay quiet please.  
+EURIPIDES  
+Nothing he said was ever clear.  
+DIONYSUS [to Aeschylus]  
+ Don’t grind your teeth.  
+EURIPIDES  
+He talked on about Scamanders, trenches,  
+shields with bronze enamelled griffon-eagles,  
+in horse-cliffed phrases hard to comprehend.                                                                        
+DIONYSUS  
+Yes, by god, one long night I got no sleep                                              
+from worrying what kind of bird was called  
+the tawny clear-voiced horse cock.  
+AESCHYLUS  
+ You idiot!  
+It was a symbol painted on the ships.  
+DIONYSUS  
+I thought it was Eryxis, Philoxenos’ son.  
+EURIPIDES  
+Did you have to work a rooster in  
+just for the tragedy?[^note-348]  
+AESCHYLUS  
+ You god-forsaken wretch,  
+what sorts of plays did you create?  
+EURIPIDES  
+ None like you—  
+no horse-cock monsters or goat-stags, by god,  
+the sort they paint on Persian tapestries.  
+When I first took this art of plays from you,                                                                     
+crammed with bombast to the gills, fustian stuff,                                                               
+at first I made it slim, reduced its weight,  
+with vesicles, and walks, and laxatives.  
+I gave a potion drawn from bookish chat,  
+and took care nursing it with monodies.  
+DIONYSUS  
+And you mixed in Cephisophon, as well.[^note-349]  
+EURIPIDES  
+I wasn’t fool enough to put in there  
+whatever stuff I chanced upon, or add  
+just anything I found. The character  
+who came out first would right away explain                                         
+on my behalf the background of the play.  
+DIONYSUS  
+Which was better than your own, by god.  
+EURIPIDES  
+After those opening words I never set  
+anything superfluous in the play. No.  
+For me the woman spoke—so did the slave,  
+the master, maiden, the old woman, too.                                                                                  
+AESCHYLUS  
+Well, shouldn’t you be killed for daring this?  
+EURIPIDES  
+By Apollo, no. I was doing my work  
+the democratic way.  
+DIONYSUS [to Euripides]  
+ My dear chap,  
+I’d forget that—from your point of view                                                
+that’s not the best line you could take.[^note-350]  
+EURIPIDES [indicating the audience]  
+I taught these people here to speak their minds . . .  
+AESCHYLUS  
+I say so too—and before doing that  
+I wish you’d split apart—right down the middle.  
+EURIPIDES  
+. . . introducing subtle rules for words,  
+for verses nicely trimmed. I taught them to think,  
+to see, to understand, to love new twists  
+and double dealing, to suspect the worst,  
+to be too smart in everything . . .  
+AESCHYLUS  
+ I agree.  
+EURIPIDES  
+. . . and I brought in domestic issues, too—                                            
+useful matters of things we understand,  
+things people here could challenge me about.                                                                       
+They know their stuff—so they could test my art.  
+I didn’t boast or lose my common sense.  
+Nor did I scare them all with characters  
+like Cycnus and Memnon, who walk around  
+with bells attached.[^note-351]   Look at our disciples,  
+his and mine—you know them all quite well.  
+Meganeitos and rough Phormisios  
+are his—great long-beard-lance-and-trumpet men,                                                 
+flesh-rippers with the pine—whereas, for me  
+there’s neat Theramenes and Cleitophon.[^note-352]  
+DIONYSUS  
+Theramenes? Now, he’s a clever man,  
+expert in everything. When he meets trouble,  
+when it hits him in the face, he gets away,  
+no problem, by changing who he is—  
+if being a Chian doesn’t work for him,                                                                                          
+he claims that he's Achaean.[^note-353]  
+EURIPIDES [rushing his concluding speech]  
+I taught these people here  
+to think about such things.                                                                                                                  
+I brought logic into art.  
+I made them questioners.  
+Now they see everything  
+and understand it all.  
+Their minds are more profound—  
+they organize their homes  
+much better than before.  
+So now they ask “Where’s this?”  
+“How’s it going?” “Who took that?”  
+DIONYSUS [imitating Euripides speaking style here]  
+Yes, by god, that’s what they do.  
+Now each Athenian man  
+goes home and starts to yell—  
+to scream at his own servants,  
+“Where’s my pot? My sardine—  
+who’s bitten off its head?  
+My bowl from bygone years,  
+is it, too, dead and gone?  
+And where’s my garlic clove?  
+I had it yesterday.  
+Who’s munching on my olives?”                                                                                                   
+Before this, they’d just sit  
+and gape there stupidly,  
+like little mummy’s boys                                                                                                                              
+and silly sweet-toothed fools.  
+CHORUS [to Aeschylus]  
+You see this, radiant Achilles,[^note-354]  
+Come now, what can you say to him?  
+Don’t let your anger take control  
+and carry you beyond the track.  
+He’s charged you with some dreadful things.  
+But now, you noble gentleman,                                                                                                     
+respond to him, but not with wrath  
+Haul in your sails—except the tips—                                                                                              
+then bit by bit bring in your ship.  
+Keep watching for an easy wind.  
+You just may get a gentle breeze.  
+DIONYSUS  
+Now you who were first among the Greeks  
+to raise the solemn towers of spoken words  
+adorning them with tragic gibberish,  
+be strong and spout forth eloquence.  
+AESCHYLUS  
+This trial enrages me—it pains my spleen                                              
+to have to answer such a man. But still,  
+to stop your claim that I’m incompetent  
+you answer this for me: Why should anyone  
+admire the man who is a poet?  
+EURIPIDES  
+ For cleverness  
+and good advice—and since we help improve  
+the men who live within our cities.  
+AESCHYLUS  
+So if that’s something you didn’t do,                                                                                               
+instead transforming fine and decent men  
+to make them scoundrels, what would you say  
+you'd then deserve by way of punishment?                                                                        
+DIONYSUS  
+Death—but don’t ask him.  
+AESCHYLUS  
+ Consider first  
+the nature of the men he got from me—  
+were they not nobly born and six feet tall?  
+There were no runaways, no layabouts,  
+no scoundrels like today, no ne’er-do-wells.  
+No. Those men breathed spears and javelins,  
+white-crested helmets, coronets, and greaves,  
+with passions wrapped in seven oxhide folds.  
+EURIPIDES  
+This is getting bad.  
+DIONYSUS  
+ His helmet-making  
+wears me down.  
+EURIPIDES  
+ What exactly did you do                                             
+to make these men so noble?  
+DIONYSUS  
+ Aeschylus,  
+speak up. Forget your pride and stubbornness.                                                                    
+AESCHYLUS  
+I wrote a play brim full of war god Ares.  
+DIONYSUS  
+Which one was that?  
+AESCHYLUS  
+ My Seven Against Thebes.  
+Every man who saw it fell in love with war.  
+DIONYSUS  
+But you did something bad there with the Thebans—  
+you made them more courageous in the war.  
+For that you should be spanked.  
+AESCHYLUS [to the audience]  
+ You too,  
+you could have trained yourselves for war as well,  
+but you weren’t so inclined. Then after that,                                                                    
+by putting on my Persians I instructed them  
+so they were always keen to beat their foes—  
+thus honouring our finest act.[^note-355]  
+DIONYSUS  
+ I was pleased  
+when you cried out in sorrowful lament,  
+“O child of Darius, who is dead,” and then,  
+the chorus clapped its hands and all yelled out  
+“Booo hooo.”  
+AESCHYLUS  
+ Poets need to work on things like this.                                             
+Look back—they’ve been useful from the start,  
+the noble race of poets. There’s Orpheus—  
+he taught us rituals and not to kill,                                                                                             
+Musaeus showed us cures for sicknesses  
+and oracles as well, and Hesiod  
+taught farming, harvest times, and how to plough.  
+As for divine Homer, where’s his renown,  
+his special fame, if not in what he taught,  
+those useful facts about courageous deeds,  
+and battle ranks and how men arm themselves.  
+DIONYSUS  
+Well, that may be, but Homer didn’t teach  
+a thing to Pantacles, that clumsy oaf.  
+The other day while marching on parade,                                                                           
+he clipped his helmet on, and then he tried  
+to tie the crest on top.  
+AESCHYLUS  
+ And brave men, too—  
+Homer gave us lots—with them the hero  
+Lamachos. I took Homeric warriors,                                                                                               
+and let my brain write many noble deeds  
+about great lion-hearted fighting men  
+like Patroclus and Teucer—in this way  
+I urged our citizens to match themselves  
+with them, when they heard the trumpet sound.  
+But by god I never made a single whore                                                 
+like Phaedra or that Sthenoboia.[^note-356]  
+No one’s ever known me as a man  
+who writes about the way a woman loves.  
+EURIPIDES  
+No, by god. Whatever you possess,  
+there’s nothing there of Aphrodite.  
+AESCHLYUS  
+Let her stay away! But she took her seat  
+when she sat down hard on you and yours.  
+She really squashed you flat.  
+DIONYSUS  
+ She sure did, by god.  
+What you wrote about the wives of other men  
+you had to suffer with your own.  
+EURIPIDES  
+ You wretched man,                                                               
+How has my Stheneboia harmed our state?  
+AESCHYLUS  
+Because you helped persuade the noble wives                                            
+of well-born men to drink down hemlock,  
+ashamed of those like your Bellerophon.  
+EURIPIDES  
+My Phaedra story—did I make that up?  
+AESCHYLUS  
+No—it was there. But it’s a poet’s task  
+to conceal disgrace—not put it on parade  
+front and centre and instruct men in it.  
+Small children have a teacher helping them,  
+for young men there’s the poets—we’ve got                                           
+a solemn duty to say useful things.  
+EURIPIDES  
+When you spout on of Lycabettus  
+and subjects like magnificent Parnassus,  
+does this involve your teaching useful things?  
+We need to use the language people use.  
+AESCHYLUS  
+You pestering demon, don’t you see  
+that noble thoughts and fine ideas perforce  
+produce a language of commensurate size?  
+Besides, it’s fitting for the demi-gods  
+to speak in loftier terms—just as they wear       
+much finer robes than ours. But you besmirched  
+what I displayed with such nobility.  
+EURIPIDES  
+What did I do?  
+AESCHYLUS  
+ First, you dressed your kings in rags,  
+to make them pitiful to all who watched.  
+EURIPIDES  
+If I did that, what damage did it do?  
+AESCHYLUS  
+It’s your fault no rich man any more  
+is keen to pay out money for a ship.  
+Instead he wraps himself in rags and weeps  
+and whines about how poor he is.  
+DIONYSUS  
+Yes, by Demeter, that’s true. But underneath                                         
+he wears a tunic of pure wool. And then,  
+if he deceives them with a speech like that,  
+he pops up in the market by the fish.[^note-357]  
+AESCHYLUS  
+And then you taught them how to babble on  
+with stupid gossip—so the wrestling schools                                                                            
+stood empty and the buttocks of our young,  
+who chattered all the time, were quite worn out.  
+You then convinced the Paralos’ crew[^note-358]  
+to argue with their officers. In my day  
+they were ignorant of this—all they knew                                              
+was how to yell for food and cry “Yo ho.”  
+DIONYSUS  
+By Apollo, that’s right—and how to fart  
+straight in the faces of the rowers there, or shit  
+on sailors down below, their mess mates.  
+On shore they’d rob someone. Now they talk back—  
+they never row—just sail out here and there.  
+AESCHYLUS [rapidly summing up his opening argument]  
+What crimes is he not guilty of?  
+Did he not put up on display  
+pimps and women giving birth  
+in holy shrines and having sex       
+with their own brothers, and then claim  
+that living is no life? So now,  
+because of him our city here  
+is crammed with bureaucratic types  
+and stupid democratic apes  
+who always cheat our people.  
+Nobody caries on the torch—  
+no one's trained in that these days.  
+DIONYSUS  
+No, by god, they're not. That’s why  
+while at the Panathenic games       
+I laughed myself quite pissless—  
+a slow, pallid, porky runner  
+went on by—head drooping down—  
+far behind the rest. In that race  
+he wasn’t very good. Well then,  
+the folks at Keremeios gate  
+began to whack him in the gut,  
+to hit his ribs and sides and butt.  
+While their hands were slapping him,  
+he let rip a tremendous fart                                                                    
+which killed the torch. Then on he ran.  
+CHORUS  
+The event is huge, the strife intense—  
+the mighty war goes on. It’s hard to choose.                                                                              
+When one man presses hard, the other one  
+wheels round and launches the attack once more.  
+[addressing Aeschylus and Euripides]  
+ You two, don’t you stay inactive where you sit.  
+For wit knows many varied ways to strike.  
+And so, no matter what you’re fighting for,  
+speak out, set to, bring up your works—  
+the old and new. Put your daring to the test—                                       
+say something that’s intelligent and deft.  
+Don't be afraid the people watching here  
+are just too ignorant and will not see                                                                                             
+the subtle points in what you two may say.  
+Don’t worry on that score, for it’s not true.  
+They’ve served in wars—and each man owns a book.  
+He understands the witty parts. You see,  
+it’s in their nature to possess strong minds,  
+but now the whetstone’s really sharpened them.  
+So have no fears—examine everything—                                               
+at least for the spectators’ benefit  
+since they’ve become so wise.  
+EURIPIDES  
+All right, I’ll turn to the prologues you composed,  
+so I can start off with a test to check                                                                                               
+the first part of a clever poet’s tragedy.  
+In setting down just how events occurred  
+this man was never clear  
+DIONYSUS  
+ Which one will you test?  
+EURIPIDES  
+Quite a few. [to Aeschylus] But first, will you recite for me  
+an opening from your Oresteia.  
+DIONYSUS  
+Let everyone keep quiet. Achilles, speak.                                                                             
+AESCHYLUS [quoting from the Choephoroi]  
+“O Hermes underground, who oversees  
+my father’s power, be my rescuer,  
+my ally, answering the prayers I make.  
+I’ve come back and returned unto this land.”  
+DIONYSUS  
+You see some flaws in this?  
+EURIPIDES  
+ More than a dozen.  
+DIONYSUS  
+But the whole thing's only four lines long!                                                                                
+EURIPIDES  
+And each of them has twenty errors.  
+DIONYSUS  
+I warn you, Aeschylus, keep quiet. If not,  
+you’ll forfeit these four lines and owe some more.  
+AESCHYLUS  
+Am I to remain silent just for him?                                                                                             
+DIONYSUS  
+I think that's best.  
+EURIPIDES  
+ Right at the very start  
+he’s made a huge mistake—as high as heaven.  
+AESCHYLUS  
+You do see you’re talking rubbish.  
+EURIPIDES  
+ If so,  
+it doesn’t bother me.  
+AESCHYLUS  
+ You claim I’m wrong—  
+well, where are my mistakes?  
+EURIPIDES  
+ Recite the start again.  
+AESCHYLUS  
+“O Hermes underground, who oversees  
+my father’s power . . .”  
+EURIPIDES  
+ Orestes says this  
+at the tomb of his dead father, does he not?  
+AESCHYLUS  
+I won’t deny it.                                                                                                                                                      
+EURIPIDES  
+ Since his father died  
+a brutal death at the hands of his own wife                                            
+and by a secret trick, how can he claim  
+that Hermes watches over anything?  
+AESCHYLUS  
+That’s not my sense—when he speaks, he means  
+Hermes, god of luck, who watches all the dead.  
+And his words clearly show that this Hermes  
+obtained that office from his father Zeus.  
+EURIPIDES  
+So you’ve made an even bigger blunder  
+than I thought—if this subterranean job  
+comes from his dad . . .  
+DIONYSUS  
+ If that’s the case,  
+he’s a grave robber on his father’s side.                                                                                  
+AESCHYLUS  
+That’s cheap wine you’re drinking, Dionysus,                                                                        
+it lacks bouquet.  
+DIONYSUS  
+ Recite another line for him.  
+[to Euripides]  
+ And you, take care about the damage you inflict.  
+AESCHYLUS [quoting again]  
+“. . . my father’s power, be my rescuer,  
+my ally, answering the prayers I make.  
+I’ve come back and returned unto this land.”  
+EURIPIDES  
+The skilful Aeschylus has just revealed  
+the same thing twice.  
+DIONYSUS  
+ How so?  
+EURIPIDES  
+ Look at the verse.  
+All right, I’ll tell you—“I’ve come back”  
+is followed by the word “returned”—coming back                                 
+and returning—they mean the same.  
+DIONYSUS  
+ Yes, by god—  
+exactly like a man who says to someone,  
+“Hey, lend me a baking dish or, if you like,  
+a dish for baking.”  
+AESCHYLUS  
+ You blithering idiot,                                                                          
+it’s not the same at all. That line of verse  
+has beautifully chosen words.  
+EURIPIDES  
+ It does?  
+Then show me what you mean.  
+AESCHYLUS  
+ To come unto a land  
+refers to someone with a native home—  
+he’s come back—there’s nothing else implied.  
+But when a man arrives who’s been an exile,                                                                   
+he comes back and returns.[^note-359]  
+DIONYSUS  
+ By Apollo, that’s good!  
+What do you say to that, Euripides?  
+EURIPIDES  
+I say Orestes didn’t "return" home.  
+He came in secret, without permission  
+from those in charge.  
+DIONYSUS  
+ By Hermes, that’s good.  
+But I don’t get what you mean.  
+EURIPIDES  
+ Come on then,                                                                                                        
+try another line.  
+DIONYSUS  
+ Yes, let’s have some more.  
+Get a move on, Aeschylus. And you,  
+keep looking out for something bad.  
+AESCHYLUS [reciting more lines]  
+“On this heaped-up burial mound I pray                                                
+my father hears and listens . . .”  
+EURIPIDES  
+ It’s there again—  
+he’s saying the same thing twice—  
+to hear, to listen—obviously the same.  
+DIONYSUS  
+Well, you fool, he is speaking to the dead.  
+And we don’t reach them even with a triple prayer.  
+AESCHYLUS  
+All right, how do you compose your prologues?  
+EURIPIDES  
+I’ll tell you. And if I say the same thing twice  
+or you see extra padding there, some verse  
+that doesn’t suit the plot, then spit on me.  
+DIONYSUS  
+Come on, speak up. I need to clearly hear       
+the language in your prologues working well.  
+EURIPIDES [reciting from one of his plays]  
+“Oedipus to start with was a lucky man . . .”  
+AESCHYLUS  
+By god, no he wasn’t—his nature  
+gave him a dreadful fate. Before his birth  
+Apollo said he’d murder his own father—  
+he wasn’t even born! How could he be  
+a lucky man right at the very start?  
+EURIPIDES [continuing to recite]  
+“Then he became most wretched of all men.”  
+AESCHYLUS  
+No, no, by god. He always was like that.  
+And why? Because as soon as he was born,                                                                        
+he was exposed out in the cold, in a pot,                                                                                    
+so he wouldn’t grow into a murderer  
+and kill his father. He dragged himself away  
+to Polybus on mutilated feet.  
+And after that he married an old woman,  
+though he was young, and, as things turned out,  
+she was his mother. So he poked out his eyes.  
+DIONYSUS  
+Then he’d have ended happy after all,  
+if, like Erastinides, he’d been a general.[^note-360]  
+EURIPIDES  
+You’re being stupid. I make my prologues well.                                                            
+AESCHYLUS  
+Is that so? Well, by god, I won’t scratch  
+each phrase word for word, but with help from the gods  
+I’ll kill your prologues with a little oil jug.                                                                                  
+EURIPIDES  
+My prologues? With an oil jug?  
+AESCHYLUS  
+ Yes, just one.  
+The way you write, well, everything fits in—  
+a little fleece, a little oil jug,  
+a little bag—they all mesh nicely in  
+with your iambics. Let me demonstrate.[^note-361]  
+EURIPIDES  
+What this? You’ll demonstrate?  
+AESCHYLUS  
+ That’s what I’m saying.  
+DIONYSU  
+ All right, Euripides, you’ve got to speak.                                                                              
+EURIPIDES [reciting some more of his own lines]  
+“Aegyptos, so many people say,  
+with fifty children in a rowing boat,  
+landing in Argos . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+EURIPIDES  
+What’s this stuff about an oil jug?  
+You’ll regret this.  
+DIONYSUS  
+ Recite another prologue                                                                                               
+so I can see the point again.  
+EURIPIDES [continuing to recite]  
+“Dionysus clothed in fawn skins leaps  
+among the torches on Parnassus,  
+on that mount he waved his thysrus—  
+there he danced and . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+DIONYSUS  
+ O dear,                                                
+we’ve been stricken with an oil jug once again.  
+EURIPIDES  
+It’s no big deal. In this next prologue  
+he can’t tie in his little oil jug.  
+“Among all men there’s not one living  
+who’s blessed in everything—if nobly born  
+he lacks sufficient livelihood, or else,  
+if basely born, . . .”  
+AESCHYLUS  
+. . . he’s lost his little oil jug.  
+DIONYSUS  
+Euripides . . .  
+EURIPIDES  
+ What?  
+DIONYSUS  
+ It seems to me  
+you should haul in your sails. This little oil jug—                                                               
+it’s going to introduce a mighty storm.                                                                                   
+EURIPIDES  
+By Demeter, I won’t even think of it.  
+Here’s one will knock that oil jug from his hand.  
+DIONYSUS  
+All right, recite another one—take care—  
+keep your distance from that little oil jug.  
+EURIPIDES  
+“Abandoning Sidon city, Cadmus,  
+Agenor’s son . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+DIONYSUS  
+My dear fellow, buy the oil jug from him,  
+so he can’t shatter all our prologues.  
+EURIPIDES  
+ What?  
+I should purchase it from him?  
+DIONYSUS  
+ I think you should.  
+EURIPIDES  
+No way. I’ve got lots of prologues to recite—        
+ones where he can’t stick in his little oil jug.  
+“Pelops, son of Tantalus, arrived at Pisa,  
+and riding his swift horses . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+DIONYSUS  
+You see—he stuck in that little oil jug  
+once again. Look, my good man, pay his price—  
+use all your means. You’ll get it for an obol.  
+And it’s really nice—a good one.  
+EURIPIDES  
+ Not yet—  
+I’ve still got plenty left: “Oeneus once                  
+from his own land . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+EURIPIDES  
+Let me at least recite the whole line first—                                            
+“Oeneus once from his own land received  
+a bounteous harvest—then while offering                                                                                 
+first fruits for sacrifice . . .”  
+AESCHYLUS  
+. . . lost his little oil jug.  
+DIONYSUS  
+In the middle of the service? Who stole it?  
+EURIPIDES  
+Back off, my dear man—let him speak to this:  
+“Zeus, as truth reports . . .”  
+DIONYSUS  
+ You’ll be destroyed—  
+For he’ll just say “lost his little oil jug.”  
+These oil jugs pop up in your prologues  
+the way warts grow on eyes. For god’s sake,  
+change the subject. What about his lyrics?                                                                          
+EURIPIDES  
+All right. I’ll show how bad he is at them.  
+His songs are awful—they all sound just the same.                                                          
+CHORUS  
+What’s going to happen now?  
+I’ve got an idea how  
+he’ll criticize and mar  
+the one whose lyrics are  
+our finest songs so far.  
+How will his censure ring  
+to a Dionysian king,  
+for me a fearful thing?  
+  
+EURIPIDES  
+His songs are truly quite astonishing.  
+I’ll give quick proof, for I’ll condense them all  
+into a single song.  
+DIONYSUS  
+ All right, you do that. 
+I’ll gather up some pebbles and keep score.  
+[Someone begins the accompaniment on a flute]  
+EURIPIDES [beginning his parody of Aeschylus]  
+Phthian Achilles, O, you hear the crash—  
+the loud man-slaughtering BASH, why don’t you come,  
+come here to help us? As the primordial race,  
+we honour Hermes by the lake—BASH.  
+Why come you not to our assistance?  
+DIONYSUS  
+That’s two bashes for you, Aeschylus.                                                                                       
+EURIPIDES [continuing the parody]  
+Most glorious of Achaean men, O Atreus,                                                                                 
+who rules far and wide, learn of me—BISH BASH—  
+why come you not to our assistance?  
+DIONYSUS  
+There’s a third bash for you, Aeschylus.  
+EURIPIDES [continuing the parody]  
+Be still! Attendants on the bee priestess  
+are nigh to open up Artemis’ shrine—BASH.  
+Why come you not to our assistance?  
+I have authority to utter out in full,  
+to speak those fatal orders ruling us  
+and this our expedition—BISH BASH.                                                                                     
+Why come you not to our assistance?  
+DIONYSUS  
+By ruling Zeus, what a pile of bashes!  
+The toilet’s where I want to be right now—  
+this bashing’s swollen both my kidneys.                                                                                      
+EURIPIDES  
+Don’t go, not before you listen to  
+another group of songs, compressed medlies  
+of this man’s lyric melodies.  
+DIONYSUS  
+ All right then, go on.  
+But you can leave out all the bash and crash.  
+EURIPIDES  
+ [continuing his parody of Aeschylus]  
+How the Achaeans’ twin-throned power, youth of Greece—  
+ Tophlatto-thratto-phlilatto-thrat—                                       
+sent by the Sphinx, presiding she dog of unlucky days—  
+ Tophlatto-thratto-phlilatto-thrat—  
+swooping bird with spear and with avenging hand—  
+ Tophlatto-thratto-phlilatto-thrat—                                                                     
+granting eager sky-diving dogs to light upon—  
+ Tophlatto-thratto-phlilatto-thrat—  
+the allied force assembled to assault great Ajax—  
+ Tophlatto-thratto-phlilatto-thrat.  
+DIONYSUS  
+What’s this phlatto-thrat? Is it from Marathon?  
+Where did you pick up your rope-twisting songs?                                                       
+AESCHYLUS  
+I brought them to a noble place from somewhere fine,  
+lest I be seen to gather up my crop  
+from that same sacred meadow of the Muse                                                                           
+as Phrynichos. But this fellow over here  
+gets his songs anywhere—from prostitutes,  
+Meletus’ drinking songs, flute tunes from Caria,  
+from lamentations or dance melodies,  
+as in a moment I will demonstrate.  
+Let someone bring a lyre here—and yet  
+who needs a lyre for this man? Where is she,                                                                  
+that girl who beats time with her castanets?  
+Come hither, you Muse of this Euripides—  
+for your style fits the songs we’re going to sing.  
+[Enter a very old and ugly woman who accompanies Aeschylus’ parody by clicking her castanets and dancing very badly]  
+DIONYSUS [reacting to the old woman’s appearance]  
+This Muse is hardly the most gorgeous babe 
+we've ever seen from Lesbos, that’s for sure.  
+AESCHYLUS [parodying Euripides]  
+You chattering kingfishers in the sea  
+in the ever-flowing waves                                                                                                                           
+who wet wing-tops with water drops  
+like so much dripping dew,  
+and spiders underneath the roof,                                                                                                  
+your fingers wi-i-i-i-i-i-i-i-inding  
+threads for stretching on the loom,  
+work of tuneful weaving rods,  
+where dolphins, those flute-loving fish,  
+leap at the blue-peaked prows,  
+at oracles and stadiums.  
+I joy in early budding vines,                                                                                                                     
+the spiral cluster, killing pain.  
+O my child, hurl your arms about me . . .  
+You see this foot?  
+DIONYSUS  
+ I see it.  
+AESCHYLUS  
+ And the other one?     
+DIONYSUS  
+ I see that too.[^note-362]                                                            
+
+AESCHYLUS [to Euripides]  
+You write this sort of bilge and then you dare  
+to criticize my songs—you, who wrote your tunes  
+to twelve-stringed music of Cyrene?[^note-363]   Bah!  
+So much for his songs. I still want to check  
+his solo melodies, their lyric style.                                                                                                     
+
+[parodying Euripides once more]  
+
+ O Night, O darkly shining Night,  
+what are you sending me,  
+what dreams of woe,  
+from Hades’ halls—  
+what souls without a soul,                                                                                                                     
+the children of black night,  
+so horrible they raise my hair  
+in black corpse-clothes—  
+murder, murder—  
+such huge fingernails.  
+
+ Now, servants, light my lamp for me,  
+haul river water in your pails  
+and warm it up, so I  
+may rinse away my dream,                                                                                                                       
+O spirit of the sea.                                                                                                                                        
+
+ That’s it—oh all you  
+who share this house with me,  
+gaze here upon these portents.  
+My Glyce’s fled away—  
+she stole my cock and ran.  
+You nymphs born on the mountain peaks,  
+and you, O Mania, aid me now.  
+
+ There I was, poor wretched me,  
+at work with all my daily tasks,  
+my spindle full of thread,                                                                                                                      
+my fingers wi-i-i-i-i-i-i-inding,  
+as I wove skeins of yarn  
+to carry off to market                                                                                                                                     
+for sale in early morning.  
+
+ But now my bird has flown,  
+flown off into the atmosphere  
+its wing-tips oh so nimble.  
+It’s left me woes, woes,  
+and in my eyes tears, tears—  
+they trickle, trickle down,                                                                                                                     
+O miserable me.  
+
+ O you Cretans, Ida’s children,  
+seize your bows and rescue me.  
+Swiftly move your limbs,  
+make full circle round this house.  
+And child Diktynna, Artemis,  
+so beautiful, by all means bring  
+your baby bitches to my home.                                                                                                             
+And you, oh Hecate, Zeus’ child,  
+with blazing fire-brands in both your hands,                                                                    
+light my way to Glyke’s place,  
+so I can then reveal her theft  
+and catch her in the act.  
+
+DIONYSUS  
+Stop the songs.  
+
+AESCHYLUS  
+ All right. I’ve said enough.  
+Now I want to bring him to the balance scale,  
+the very thing to test our poetry—  
+to check how much our phrases weigh.  
+
+DIONYSUS  
+Come here, then, if I have to do this—  
+treating poets just like cheese for sale.  
+
+CHORUS:  
+Clever men like these take pains,  
+for here’s a marvel once again.  
+Devices new and strange they bring.  
+Who else would think up such a thing?  
+I’d not believe it—even though  
+I met someone who told me so.  
+
+DIONYSUS  
+Come on. Stand beside the balance scales.  
+
+AESCHYLUS and EURIPIDES [together]  
+ All right.  
+
+DIONYSUS  
+Now, each of you grab hold and don’t let go  
+until I yell at you—I’ll say “Cuckoo!”                                                                                               
+
+AESCHYLUS and EURIPIDES: [each one holding a scale pan]         
+We’re holding on.  
+
+DIONYSUS  
+ Speak your line into the scale.  
+
+EURIPIDES [reciting]  
+“I wish that Argive ship had never flown . . .”                                                                   
+
+AESCHYLUS [reciting]  
+         “O river Spercheios, where cattle graze . . .”  
+
+DIONYSUS  
+Cuckoo!!! Let go . . .  
+
+[Dionysus inspects the scale pans and sees that Aeschylus’ side has sunk more]  
+
+ The pan on this man's side  
+has gone much further down.  
+
+EURIPIDES  
+ And why is that?  
+
+DIONYSUS  
+Why? Because he put a river in it.  
+He wet his words the way wool-sellers do—  
+whereas you put in a word with wings.  
+
+EURIPIDES  
+All right, let him speak again and match me.  
+
+DIONYSUS  
+Grab hold again.  
+
+AESCHYLUS and EURIPIDES  
+ We’re ready.  
+
+DIONYSUS  
+ So speak down.                                                                                 
+
+EURIPIDES [reciting]  
+“Persuasion has no temple except speech.”  
+
+AESCHYLUS [reciting] 
+“The only god who loves no gifts is Death.”                                                                       
+
+DIONYSUS  
+Let go. Let go. This one’s going down again.  
+He put death in—the heaviest of harms.  
+
+EURIPIDES  
+But I put in persuasion—and my line  
+was beautifully expressed.  
+
+DIONYSUS  
+ Persuasion’s light—  
+she’s got no brains at all. Say something else,  
+a heavy line, immense and ponderous, 
+to make you sink.  
+
+EURIPIDES  
+ A heavy line like that,  
+where can I find such lines in all my verse?  
+
+DIONYSUS  
+I’ll tell you. “ Achilles threw the dice—                                                                                          
+two snake’s eyes and a four.” You’d better speak—                                
+it’s the last time the two of you get weighed. 
+
+EURIPIDES [reciting]  
+“His right hand grasped the heavy iron club . . .”  
+
+AESCHYLUS [reciting]  
+“Chariot piled on chariot, corpse on corpse . . .”  
+
+DIONYSUS  
+This time he got you once again.  
+
+EURIPIDES  
+ How so?  
+
+DIONYSUS  
+He put in two chariots and two stiffs.  
+A hundred Egyptians couldn’t shift that load.[^note-364]  
+
+AESCHYLUS  
+No more contest with me word for word—  
+put him in the scale pan with his wife and kids,  
+throw on Cephisophon. Let him step in,  
+sit down—he can bring all his books. For me—                                     
+I’ll only speak two verses of my own.                                                                                             
+
+DIONYSUS  
+These men are friends of mine, so I won’t judge  
+the two of them. I don’t want to be at war  
+with either man. One of them, I think,  
+is really clever. The other I enjoy.  
+
+PLUTO  
+Won’t you fail to get the thing you came for?  
+
+DIONYSUS  
+What if I chose the other man?  
+
+PLUTO  
+ Take one—  
+whichever one you wish, so you don’t leave  
+and make your trip in vain.  
+
+DIONYSUS  
+ May gods bless you.  
+Look, how ’bout this—I came here for a poet.                                                                 
+
+EURIPIDES  
+What for?  
+
+DIONYSUS  
+ So I might save our city  
+and let it keep its choruses. Therefore,  
+whichever one of you will give our state                                                                                      
+the best advice, well, that’s the man I’ll take.  
+So first, a question for each one of you—  
+What’s your view of Alcibiades?[^note-365]  
+This issue plagues our city.  
+
+EURIPIDES  
+ The people there—  
+what do they think of him?  
+
+DIONYSUS  
+ What do they think?  
+The city yearns for him, but hates him, too,  
+yet wants him back. But you two, tell me this—                                     
+what’s your sense of him?  
+
+.EURIPIDES  
+ I hate a citizen  
+who helps his native land by seeming slow,  
+but then will quickly inflict injuries  
+which profit him but give our city nothing.  
+
+DIONYSUS  
+By Poseidon, that’s well said. Now, Aeschylus,                                                                      
+what’s your view on this?  
+
+AESCHYLUS  
+ The wisest thing 
+is not to rear a lion cub inside the city,  
+but if that's what the citizens have done,  
+we’d must adjust ourselves to fit its ways.  
+
+DIONYSUS  
+By Zeus the saviour, this decision’s hard.                                                                              
+One spoke with skill, the other was so clear.  
+All right, each one of you speak up again.  
+Tell me of our state—how can we save her?  
+
+EURIPIDES  
+Use Cinesias as Cleocritus’ wings—  
+then winds would lift them over the flat sea.[^note-366]  
+
+DIONYSUS  
+A really funny sight. But what’s the point?  
+
+EURIPIDES  
+In a sea fight, they’d take some vinegar,                                                                                     
+and dump the bottles in opponents’ eyes.  
+But I know the answer—let me speak.  
+
+DIONYSUS  
+All right, say on.  
+
+EURIPIDES  
+ When those among us                                      
+who have no faith act faithfully, and things  
+bereft of trust are trusted . . .  
+
+DIONYSUS  
+ What’s that?  
+I don’t get what you’re saying. Speak out  
+more clearly—more matter with less art.  
+
+EURIPIDES  
+If we removed our trust from politicians  
+on whom we now rely, and used the ones  
+we don’t use now, we could be saved. It’s clear  
+we’re not doing well with what we’re doing now,  
+if we reversed our course, we might be saved.                                                                       
+
+DIONYSUS  
+Well put, O Palamedes,[^note-367]   you clever man.                                                                           
+Did you come up with this idea yourself,  
+or is it from Cephisophon?  
+
+EURIPIDES  
+ It’s mine alone.  
+that bit about those jars of vinegar—  
+Cephisophon’s idea.  
+
+DIONYSUS [to Aeschylus]  
+ Now you. What do you say?  
+
+AESCHYLUS  
+About our state—acquaint me first of all  
+with those in her employ. Surely they’re good men?  
+
+DIONYSUS  
+Of course they’re not. She hates those worst of all.  
+
+AESCHLYUS  
+She loves the ne’er-do-wells?  
+
+DIONYSUS  
+ Not really—  
+but she's got no choice. She has to use them.  
+
+AESCHYLUS  
+How can one save a city like this one,                                                                                     
+which has no taste for woolen city coats  
+or country cloaks of goat skin?  
+
+DIONYSUS  
+ By Zeus,  
+to get upstairs, you’d best come up with something.                                                       
+
+AESCHYLUS  
+Up there I’d talk, but I don’t want to here.  
+
+DIONYSUS  
+Don’t be that way. Send something good from here.  
+
+AESCHYLUS  
+When they consider their foe’s land their own  
+and think of their land as the enemy’s,  
+and when they look upon their ships as riches  
+and see their wealth as wretchedness . . .[^note-368]  
+
+DIONYSUS  
+Yes, but jury members wolf down all the cash.                                                               
+
+PLUTO  
+You should decide.  
+
+DIONYSUS  
+ I’ll make my choice between them.  
+I’ll choose the one who’s pleasing to my soul.  
+
+EURIPIDES  
+Do not forget those gods by whom you swore  
+to take me home. You have to choose your friends . . .                                               
+
+DIONYSUS  
+My tongue made that oath, but I choose Aeschylus.  
+
+EURIPIDES  
+What have you done, you foulest of all men?  
+
+DIONYSUS  
+Me? I’ve picked Aeschylus to win. Why not?  
+
+EURIPIDES  
+Do you dare to look me in the face  
+after you’ve done the dirtiest of deeds?  
+
+DIONYSUS  
+What’s dirty if this audience approves?                                                                                   
+
+EURIPIDES  
+You’re heartless. Will you never think of me  
+now that I’m dead?  
+
+DIONYSUS  
+ What if living isn’t really dying,  
+or breathing dining, or sleep a pillow slip?[^note-369]  
+
+PLUTO  
+Come inside now, Dionysus.  
+
+DIONYSUS  
+ What for?  
+
+PLUTO  
+So I can entertain you here, before you go.  
+
+DIONYSUS  
+An excellent idea, by god. I won’t say no.                                                                                  
+
+CHORUS  
+Blest is the man with keen intelligence—  
+we learn this truth in many ways  
+Once he’s shown his own good sense  
+he goes back home again.                                                                                                                    
+He brings our citizens good things  
+as well as family and friends,  
+with his perceptive mind.                                                                                                                            
+So to be truly civilized,  
+don’t sit by Socrates and chat  
+or cast the Muses’ work aside,  
+forgetting the most vital skills  
+of writing tragedies.  
+Wasting time with pompous words,  
+while idly scratching verbal bits—                                                          
+that suits a man who’s lost his wits  
+
+PLUTO  
+So now, farewell, Aeschylus—go,                                                                                                        
+save our city with your noble thoughts,  
+and educate our fools—we have so many.  
+Take this sword, hand it to Cleophon.  
+Present this rope to tax collector  
+Myrmex and his colleague Nicomachos—  
+this hemlock give to Archenomos.  
+Tell them to come here fast without delay.  
+If they don’t come soon, then, by Apollo,        
+I’ll brand and cripple them, then ship them down  
+at full speed underground with Adeimantos,  
+Leucolophos's son.[^note-370]  
+
+AESCHYLUS  
+That I'll do. As for my chair of honour,  
+give it to Sophocles to keep safe for me  
+in case I ever come back here. He’s the one  
+whose talent I would put in second place.  
+Bear in mind—the rogue right there, this clown,                                                                
+this liar, will never occupy my chair,  
+not even by mistake.  
+
+PLUTO [to the Chorus]  
+ Let your torches shine,                                                                                             
+your sacred torches light the way for him,  
+escort him on his way—and praise his fame  
+with his own songs and dances.  
+
+CHORUS  
+First, all you spirits underneath the ground,  
+let’s bid our poet here a fond farewell,  
+as he goes upward to the light. To the city  
+grant worthy thoughts of every excellence.                                                                              
+Then we could put an end to our great pain,  
+the harmful clash of arms Let Cleophon—  
+and all those keen to fight—war on their enemy                                   
+in their ancestral fields, on their own property.[^note-371]  
+
+ 
+  
+
+[^note-301]: (line 21) Phrynichus, Ameipsias, Lycias: comic poets, rivals of Aristophanes. 
+
+[^note-302]: (line 44) the fight at sea refers to the naval victory of Arginusae. Athenian slaves who had fought were freed (this is the first of a number of references to this action). 
+
+[^note-303]: (line 61) Cleisthenes: a well-known homosexual in Athens, a favourite target of Aristophanes. 
+
+[^note-304]: (line 68) Molon: a man remarkable for his size—either very large or very small. The joke would seem to demand something very small. Given the sexual innuendo, it may be the case that Molon was a very big man with (reputedly) a very small penis. 
+
+[^note-305]: (line 72) brother: Hercules and Dionysus are both sons of Zeus, hence brothers. 
+
+[^note-306]: (line 76) stew: Hercules was famous for his enormous appetite. 
+
+[^note-307]: (line 82) dead: Euripides had died in Macedonia the year before the first production of The Frogs. 
+
+[^note-308]: (line 88) Iophon: son of Sophocles and a writer of tragedies. 
+
+[^note-309]: (line 101) Agathon: an important and successful Athenian tragic playwright. He’d recently left Athens and was living in Macedonia. 
+
+[^note-310]: (line 102) Xenocles and Pythangelos: minor Athenian tragic playwrights. 
+
+[^note-311]: (line 131) Cerberus: in one of Hercules’ most famous exploits, he went down into Hell and returned with the Cerberus, the watch dog of Hades. 
+
+[^note-312]: (line 148) hemlock: a lethal poison which begins by numbing the lower limbs. 
+
+[^note-313]: (line 153) Kerameikos: a district in Athens. 
+
+[^note-314]: (line 167) two obols: the standard amount for welfare payments or daily pay for soldiers and sailors. 
+
+[^note-315]: (line 168) Theseus: the legendary founder of Athens, who made his own journey to Hades and back, and hence (according to this comment) introduced Athenian customs into Hades. 
+
+[^note-316]: (line 178) Morsimus: an inferior tragic playwright. 
+
+[^note-317]: (line 179) Cinesias: an Athenian poet. 
+
+[^note-318]: (line 185) the mysteries: secret cult religious rituals for special groups of initiates. 
+
+[^note-319]: (line 190) Pluto: god of Hades. 
+
+[^note-320]: (line 218) Ravens: a reference to a curse invoking the ravens to pick someone’s bones. Charon lists various regions of Hell like so many stop on a bus route.  
+
+[^note-321]: (line 226) Wuthering Rock: a part of the landscape of hell (possibly invented here by Aristophanes). 
+
+[^note-322]: (line 239) Salamis: an island close to Athens, famous for its sailors. 
+
+[^note-323]: (line 245) Chorus of Frogs: it’s not clear whether this chorus remains off stage or not. 
+
+[^note-324]: (line 254) feast of Jars: a reference to an annual Athenian festival (the Anthesteria) held early in the year in the precinct of Dionysus "in the marsh" (Limnai). The festival involved a lot of drinking. 
+
+[^note-325]: (line 332) Empousa: a celebrated Athenian ghost-monster who could change her shape. 
+
+[^note-326]: (line 336) so we can drink together: Dionysus here appeals to the audience, specifically to the Priest of Dionysus who traditionally sat in the front row. 
+
+[^note-327]: (line 343) Hegelochos . . . seals are calm: Hegelochos was an actor in Euripides' plays who garbled a word and made the lines ridiculous (like changing "sea" to "seal"). 
+
+[^note-328]: (line 361) Iacchos was a minor divine presence associated with Dionysian celebrations. Diagoras may refer to a notorious Athenianatheist. 
+
+[^note-329]: (line 375) daughter of Demeter: a reference to Persephone, wife of Pluto, king of Hades. 
+
+[^note-330]: (line 399) Cratinus:a well-known and successful comic poet before Aristophanes. 
+
+[^note-331]: (line 414) Aegina . . . Thoracion . . . Epidauros: Aegina was an island centre for illegal trade during the war. Thoracion was (one assumes) well known as a corrupt official. Epidauros was a naval centre close to Athens. 
+
+[^note-332]: (line 479) Archedemos . . . teeth: a complex joke about a prominent Athenian politician, alleging that he is not a genuine citizen (sometingthat was determined at seven years of age). 
+
+[^note-333]: (line 498) Corinth, son of Zeus: an expression meaning (in effect) "always the same old stuff." People from Corinth were (by reputation) never tired of boasting about the divine origin of the founder of their city. 
+
+[^note-334]: (line 600) Theramenes: An Athenian politician famous for his political survival skills. 
+
+[^note-335]: (line 633) Cleon . . . Hyperbolos: Athenian politicians with a special interest in leading the common people. 
+
+[^note-336]: (line 762) Cleophon . . . votes are equal: Cleophon was an Athenian politician in favour of the war. The gibe here suggests he's not a true Athenian. Aristophanes' prediction that Cleophon would soon be sentenced to death came true a year later. 
+
+[^note-337]: (line 768) Phrynichus: Athenian politician who led the revolution in 411 BC. 
+
+[^note-338]: (line 775) Plataeans . . . masters instead of slaves: after the naval battle of Arginusae, the Athenians freed the slaves who had fought and gave them rights of citizenship equivalent to the rights of the Plataeans, important allies of Athens. 
+
+[^note-339]: (line 800) Cleigenes . . . clothes: Aristophanes here attacks the keeper of a public bath and laundry for cheating his customers, predictng that soon he will lose his political office. 
+
+[^note-340]: (line 804) our new gold ones, as well: a famous comparison between the political leaders and the debased coinage (one of the effects of the war). 
+
+[^note-341]: (line 815) palaestra: the traditional school in Athens, emphasizing physical fitness and the arts. 
+
+[^note-342]: (line 817) red heads: a reference to foreigners or slaves, not true Athenians. 
+
+[^note-343]: (line 821) scapegoat: once a year in Athens two condemned criminals were beaten out of the city and executed in a purification ritual to cleanse the city of its collective guilt. 
+
+[^note-344]: (line 962) about to break: Dionysus pretends he needs to offer a sacrifice to placate the god of storms. 
+
+[^note-345]: (line 850) monodies . . . marriage into art: an attack on Euripides’ innovations and on the alleged immorality in his plays. Monodies are long lyrical solos for main characters. 
+
+[^note-346]: (line 981) Telephos: a beggar hero of one of Euripides’ plays. 
+
+[^note-347]: (line 1041) Phrynichos: the most important writer of tragedy before Aeschylus. 
+
+[^note-348]: (line 1076) rooster . . . just for the tragedy: Aeschylus refers to a rooster in Agamemnon. 
+
+[^note-349]: (line 1086) Cephisophon: an Athenian who lived in Euripides’ house and was rumoured have assisted Euripides with his plays and had an affair with his wife. 
+
+[^note-350]: (line 1101) line you could take: Euripides’ sympathies in his life appeared to be with the oligarchs, not with the democrats in Athens. 
+
+[^note-351]: (line 1117) with bells attached: Cycnus and Memnon were characters in plays by Aeschylus. Warriors had bells attached to their shields or to their horses’ harnesses. 
+
+[^note-352]: (line 1122) Cleitophon: an Athenian member of the group around Socrates. 
+
+[^note-353]: (line 1128) Achaean: this joke is hard to render accurately. The Greek says (literally) “not a Chian [i.e., from Chios] but a Kian” or (more freely) “not a Chian with a ch but a Kian with a k,” indicating the man’s slippery character, able to change nationality by altering the spelling of the word. The change to “Achaean” may make the joke somewhat more compressed and workable, especially when the speech is spoken rather than read. 
+
+[^note-354]: (line 1155) Achilles: calling Aeschylus "Achilles" is a reminder both of his traditionally noble character and of his mood. Like Achilles he sits there silent and enraged. 
+
+[^note-355]: (line 1203) finest act: a reference to the defeat of the Persians at the Battle of Marathon in 490 BC, for most Athenians the high point of their city’s history. 
+
+[^note-356]: (line 1231) Phaedra and Sthenoboea: an attack on heroines in plays by Euripides. 
+
+[^note-357]: (line 1273) by the fish: a reference to the fact that fish was an expensive food in Athens at the time. 
+
+[^note-358]: (line 1277) Paralos’ crew: the Paralos was the flag ship of the Athenian navy. 
+
+[^note-359]: (line 1391) and returns: Aeschylus’ hair-splitting point is that “come back” and “return” mean different things, because the latter is appropriate for those whose political status is uncertain.  
+
+[^note-360]: (line 1429) Erastinides: Athenian general condemned to death after the battle of Arginusae. 
+
+[^note-361]: (line 1438) demonstrate: in the section which follows Aeschylus repeatedly uses the phrase "lost his little oil jug" to bring out the triviality of Euripides' verse, especially its rhythms and its imagery. 
+
+[^note-362]: (line 1570) that too: Aeschylus is calling attention to the rhythmic feet in Euripides’ verse. Dionysus, of course, misunderstands and starts inspecting Aeschylus’ feet. 
+
+[^note-363]: (line 1573) Cyrene: a notorious prostitute. 
+
+[^note-364]: (line 1666) raise that load: Egyptians had a reputation for great strength. 
+
+[^note-365]: (line 1686) Alcibiades: a brilliant and charismatic, but erratic and controversial Athenian politician and general in the closing years of the Peloponnesian War. 
+
+[^note-366]: (line 1705) flat sea: Cinesias was very tall and skinny, and Cleocritus was reported to look like an ostrich. 
+
+[^note-367]: (line 1720) Palamedes: a hero in the Trojan war. 
+
+[^note-368]: (line 1739) wretchedness: Aeschylus is here apparently defending the early Athenian policy of putting all their faith in the navy to prosecute the war, leaving the land open for enemy occupation. 
+
+[^note-369]: (line 1753) pillow slip: Dionysus is here mocking Euripides with echoes of the latter’s own verses. 
+
+[^note-370]: (line 1783) Adeimantos: a general in Athens, later accused of treachery. 
+
+[^note-371]: (line 1801) properties: Cleophon was a leader of the pro-war party. The point here is that many of those advocating war were not putting their own property in danger, unlike many Athenian farmers and landowners whose lands were occupied by the enemy forces. 
+  
+

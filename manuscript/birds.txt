@@ -1,0 +1,4431 @@
+# BIRDS {#book-1}  
+  
+C> *This edition is based on the [publicly available](http://records.viu.ca/~johnstoi/aristophanes/birds.htm) translation by Ian Johnston*  
+  
+...  
+  
+  
+**HISTORICAL NOTE**  
+
+The Birds was first produced at the drama festival in 414 BC, where it won second prize. At this period, during the Peloponnesian War, Athens was very powerful and confident, having just launched the expedition to Sicily, fully expecting to triumph in that venture and in the larger war.  
+  
+...  
+  
+  
+**DRAMATIS PERSONAE**  
+
+PISTHETAIROS: a middle-aged Athenian  
+EUELPIDES: a middle-aged Athenian  
+SERVANT-BIRD: a slave serving Tereus, once a man  
+TEREUS: a hoopoe bird, once a man  
+FLAMINGO  
+PEACOCK  
+A SECOND HOOPOE  
+GLUTTON-BIRD: a fictitious species  
+CHORUS LEADER  
+CHORUS: of birds  
+XANTHIAS: slave serving Pisthetairos  
+MANODOROS: slave serving Euelpides, also called MANES.  
+PROCNE: a nightingale with a woman’s body, consort ofTereus.  
+PRIEST  
+POET  
+ORACLE MONGER: a collector and interpreter of oracles  
+METON: a land surveyor  
+COMMISSIONER OF COLONIES: an Athenian official  
+STATUTE SELLER: man who sells laws  
+FIRST MESSENGER: a construction-worker bird  
+SECOND MESSENGER: a soldier bird  
+IRIS: messenger goddess, daughter of Zeus  
+FIRST HERALD: a bird  
+YOUNG MAN: young Athenian who wants to beat up his father  
+CINESIAS: a very bad dithyrambic poet and singer  
+SYCOPHANT: a common informer  
+PROMETHEUS: the Titan  
+POSEIDON: god of the sea, brother of Zeus  
+HERCULES: the legendary hero, now divine  
+TRIBALLIAN GOD: an uncouth barbarian god  
+PRINCESS: a divine young lady  
+SECOND HERALD  
+  
+
+Scene: A rugged, treed wilderness area up in the rocky hills. Enter Pisthetairos and Euelpides, both very tired. They are clambering down from the rocky heights towards the level stage. Pisthetairos has a crow perched on his arm or shoulder,and Euelpides has a jackdaw. Both Pisthetairos and Euelpides are carrying packs on their back. They are followed by two slaves carrying more bags. The slaves stay well out of the way until they get involved in the action later on.  
+
+
+EUELPIDES [speaking to the bird he is carrying]  
+ Are you telling us to keep going straight ahead?
+ Over there by that tree?
+
+PISTHETAIROS  
+ Blast this bird—  
+ it’s croaking for us to head back, go home.  
+
+EUELPIDES  
+ Why are we wandering up and down like this?
+ You’re such a fool—this endless weaving round  
+ will kill us both.  
+
+PISTHETAIROS  
+ I must be an idiot  
+ to keep hiking on along these pathways,  
+ a hundred miles at least, and just because  
+ that’s what this crow keeps telling me to do.  
+
+EUELPIDES  
+ What about me? My poor toe nails are thrashed.                             
+ I’ve worn them out because I’m following  
+ what this jackdaw says.  
+
+PISTHETAIROS [looking around]  
+ I have no idea  
+ where on earth we are.  
+
+EUELPIDES  
+ You mean from here  
+ you couldn’t make it back to your place?                                                                  
+
+PISTHETAIROS:  
+ No way—not even Execestides  
+ could manage that.[^note-101]  
+
+EUELPIDES  
+ We’re in a real mess.  
+
+PISTHETAIROS  
+ Well, you could try going along that pathway.  
+
+[The two men start exploring different paths down to opposite sides of the stage]  
+
+EUELPIDES  
+ We two were conned by that Philokrates,  
+ the crazy vendor in the marketplace  
+ who sells his birds on trays. He claimed these two                
+ would take us straight to Tereus the hoopoe,  
+ a man who years ago became a bird.  
+ That’s why we paid an obol for this one,  
+ this jackdaw, son of Tharreleides.*
+ and three more for the crow. And then what?
+ The two know nothing, except how to bite.  
+
+[The jackdaw with Euelpides begins to get excited about something. Euelpides talks to the bird]  
+
+ What’s got your attention now? In those rocks?                                                
+ You want to take us there? There’s no way through.  
+
+PISTHETAIROS [calling across the stage to Euelpides]  
+ By god, the same thing over here, no road.  
+
+EUELPIDES  
+ What’s your crow saying about the pathway?                                        
+
+PISTHETAIROS  
+ By god, it’s not cawing what it did before.  
+
+EUELPIDES [shouting]  
+ But what’s it saying about the road?
+
+PISTHETAIROS  
+ Nothing—  
+ it’s saying nothing, just keeps on croaking—  
+ something about biting my fingers off.  
+
+EUELPIDES [addressing the audience]  
+ Don’t you think it’s really odd the two of us,  
+ ready and eager to head off for the birds,[^note-102]  
+ just can’t find the way. You see, we’re not well.  
+ All you men sitting there to hear our words,                                                         
+ we’re ill with a disease, not like the one  
+ which Sacas suffers,[^note-103]   no—the opposite.                                                      
+ He’s no true citizen, yet nonetheless  
+ he’s pushing his way in by force, but we,  
+ both honoured members of our tribe and clan,[^note-104]  
+ both citizens among you citizens,  
+ with no one trying to drive us from the city,  
+ have winged our way out of our native land  
+ on our two feet. We don’t hate the city  
+ because we think it’s not by nature great  
+ and truly prosperous—open to all,  
+ so they can spend their money paying fines.                                         
+ Cicadas chirp up in the trees a while,  
+ a month or two, but our Athenians                                                                                 
+ keep chirping over lawsuits all their lives.  
+ That’s why right now we’ve set off on this trip,  
+ with all this stuff—basket, pot, and myrtle boughs.[^note-105]  
+ We’re looking for a nice relaxing spot,  
+ where we can settle down, live out our lives.  
+ We’re heading for Tereus, that hoopoe bird—  
+ we’d like to know if in his flying around  
+ he’s seen a city like the one we want.                                                           
+
+PISTHETAIROS  
+ Hey!  
+
+EUELPIDES  
+ What?
+
+PISTHETAIROS  
+ My crow keeps cawing upwards—  
+ up there.  
+
+EUELPIDES  
+ My jackdaw’s looking up there, too,                                                                               
+ as if it wants to show me something.  
+ There must be birds around these rocks. I know—  
+ let’s make noise and then we’ll see for sure.  
+
+PISTHETAIROS  
+ You know what you should do? Kick that outcrop.  
+
+EUELPIDES  
+ Why not use your head? There’d be twice the noise.  
+
+[Pisthetairos and Euelpides start climbing back up the rocky outcrops towards a door in the middle of the rocks]  
+
+PISTHETAIROS  
+ Pick up a stone and then knock on the door.  
+
+EUELPIDES  
+ All right. Here I go.  
+
+[Euelpides knocks very loudly on the door and calls out]  
+
+ Hey, boy . . . boy!  
+
+PISTHETAIROS  
+ What are you saying? Why call the hoopoe “boy”?                          
+ Don’t say that—you should call out  
+       [giving a bird call]  
+                                             “hoopoe-ho.”  
+
+EUELPIDES [knocking on the door and calling again]  
+Hoopoe-ho! . . . Should I knock again? . . . Hoopoe-ho!  
+
+SERVANT-BIRD [inside]  
+ Who is it? Who’s shouting for my master?                                                               
+
+[The door opens and an actor-bird emerges. He has a huge beak which terrifies Euelpides and Pisthetairos. 
+They fall back in fear, and the birds they have been carrying disappear]  
+
+EUELPIDES  
+ My lord Apollo, save us! That gaping beak—  
+
+SERVANT-BIRD [also frightened]  
+ Oh, oh, now we’re in for it. You two men,  
+ you’re bird-catchers!  
+
+EUELPIDES  
+ Don’t act so weird!  
+ Can’t you say something nice?
+
+SERVANT-BIRD [trying to scare them off]  
+ You two men will die!  
+
+EUELPIDES  
+ But we’re not men.  
+
+SERVANT-BIRD  
+What? What are you, then?
+
+EUELPIDES  
+ Well . . . I’m a chicken-shitter . . . a Libyan bird . . .  
+
+SERVANT-BIRD  
+ That’s rubbish.  
+
+EUELPIDES  
+ No, it’s not—I’ve just dropped my load—              
+ down both my legs. Take a look.  
+
+SERVANT-BIRD  
+ And this one here?
+ What kind of bird is he?
+
+[to Pisthetairos]  
+ Can you speak?
+
+PISTHETAIROS  
+ Me? . . . a crapper-fowl . . . from Phasis.  
+
+EUELPIDES  
+ God knows what kind of animal you are!  
+
+SERVANT-BIRD  
+ I’m a servant bird.  
+
+EUELPIDES  
+ Beaten by some rooster                                                             
+ in a cock fight?
+
+SERVANT-BIRD  
+ No. It was my master—  
+ when he became a hoopoe, well, I prayed  
+ that I could turn into a bird. That way  
+ he’d still have me to serve and wait on him.  
+
+EUELPIDES  
+ Does a bird need his own butler bird?                                                          
+
+SERVANT-BIRD  
+ He does—I think it’s got something to do  
+ with the fact that earlier he was a man.  
+ So if he wants to taste some fish from Phalerum,  
+ I grab a plate and run off for sardines.  
+ If he wants soup, we need pot and ladle,  
+ so I dash off for the spoon.  
+
+EUELPIDES  
+A runner bird—  
+ that’s what you are. Well, my little runner,  
+ do you know what we’d like to have you do?                                                                     
+ Go call your master for us.  
+
+SERVANT-BIRD  
+ But he’s asleep—  
+ for heaven’s sake, his after-dinner snooze—                       
+ he’s just had gnats and myrtle berries.  
+
+EUELPIDES  
+ Wake him up anyway.  
+
+SERVANT-BIRD  
+ I know for sure  
+ he’ll be annoyed, but I’ll do it, just for you.  
+
+[Exit Servant-Bird back through the doors]  
+
+PISTHETAIROS  
+ Damn that bird—he scared me half to death.  
+
+EUELPIDES  
+ Bloody hell—he frightened off my bird!  
+
+PISTHETAIROS  
+ You’re such a coward—the worst there is.  
+ Were you so scared you let that jackdaw go?
+
+EUELPIDES  
+ What about you? Didn’t you collapse  
+ and let your crow escape?
+
+PISTHETAIROS  
+ Not me, by god.  
+
+EUELPIDES  
+ Where is it then?
+
+PISTHETAIROS  
+It flew off on its own.  
+
+EUELPIDES  
+ You didn’t let go? What a valiant man!  
+
+TEREUS: [from inside, speaking in a grand style]  
+ Throw open this wood, so I may issue forth.  
+
+[The doors open. Enter Tereus, a hoopoe bird, with feathers on his head and wings but none on his body. 
+He struts and speaks with a ridiculously affected confidence. Euelpides and Pisthetairos are greatly amused 
+at his appearance]  
+
+EUELPIDES  
+ O Hercules, what kind of beast is this?
+ What’s that plumage? What sort of triple crest?
+
+TEREUS  
+ Who are the persons here who seek me out?
+
+EUELPIDES  
+ The twelve gods, it seems, have worked you over.[^note-106]  
+
+TEREUS  
+ Does seeing my feathers make you scoff at me?
+ Strangers, I was once upon a time a man.  
+
+EUELPIDES  
+ It’s not you we’re laughing at.  
+
+TEREUS  
+ Then what is it?
+
+EUELPIDES  
+ It’s your beak—to us it looks quite funny.                                             
+
+TEREUS  
+ It’s how Sophocles distorts Tereus—                                                                            
+ that’s me—in his tragedies.  
+
+EUELPIDES  
+You’re Tereus?
+ Are you a peacock or a bird?[^note-107]  
+
+TEREUS  
+I am a bird.  
+
+EUELPIDES  
+ Then where are all your feathers?
+
+TEREUS  
+ They’ve fallen off.  
+
+EUELPIDES  
+ Have you got some disease?
+
+TEREUS  
+ No, it’s not that.  
+ In winter time all birds shed their feathers,  
+ then new ones grow again. But tell me this—  
+ who are the two of you?
+
+EUELPIDES  
+ Us? We’re human beings.  
+
+TEREUS  
+ From what race were you born?
+
+EUELPIDES  
+ Our origin?
+ In Athens—which makes the finest warships.                                    
+
+TEREUS  
+ Ah, so you’re jury-men, are you?
+
+EUELPIDES  
+ No, no.  
+ We’re different—we keep away from juries.  
+
+TEREUS  
+ Does that seedling flourish in those parts?                                                            
+
+EUELPIDES  
+ If you go searching in the countryside,  
+ you’ll find a few.  
+
+TEREUS  
+ So why have you come here?
+ What do you need?
+
+EUELPIDES  
+ To talk to you.  
+
+TEREUS  
+ What for?        
+
+EUELPIDES  
+ Well, you were once a man, as we are now.  
+ You owed people money, as we do now.  
+ You loved to skip the debt, as we do now.  
+ Then you changed your nature, became a bird.                              
+ You fly in circles over land and sea.  
+ You’ve learned whatever’s known to birds and men.  
+ That’s why we’ve come as suppliants to you,                                                      
+ to ask if you can tell us of some town,  
+ where life is sheepskin soft, where we can sleep.  
+
+TEREUS  
+ Are you looking for a mighty city,  
+ more powerful than what Cranaus built?[^note-108]  
+
+EUELPIDES  
+ Not one more powerful, no. What we want  
+ is one which better suits the two of us.  
+
+TEREUS  
+ You clearly want an aristocracy.                                          
+
+EUELPIDES  
+ Me? No, not at all. The son of Scellias  
+ is someone I detest.[^note-109]  
+
+TEREUS  
+ All right, then,  
+ What kind of city would you like to live in?
+
+EUELPIDES  
+ I’d like a city where my biggest problem  
+ would be something like this—in the morning  
+ a friend comes to my door and says to me,  
+         “In the name of Olympian Zeus, take a bath,                                                    
+ an early one, you and your children,  
+ then come to my place for the wedding feast  
+ I’m putting on. Don’t disappoint me now.                                            
+ If you do, then don’t come looking for me  
+ when my affairs get difficult for me.”[^note-110]  
+
+TEREUS  
+ By heaven, you poor man, you do love trouble.  
+ What about you?
+
+PISTHETAIROS  
+ I’d like the same.  
+
+TEREUS  
+ Like what?
+
+PISTHETAIROS  
+ To have the father of some handsome lad  
+ come up to me, as if I’d done him wrong,  
+ and tell me off with some complaint like this—  
+         “A fine thing there between you and my son,                                                   
+ you old spark. You met him coming back  
+ from the gymnasium, after his bath—                                 
+ you didn’t kiss or greet him with a hug,  
+ or even try tickling his testicles—  
+ yet you’re a friend of mine, his father.”  
+
+TEREUS  
+ How you yearn for problems, you unhappy man.  
+ There is a happy city by the sea,  
+ the Red Sea, just like the one you mention.[^note-111]  
+
+EUELPIDES  
+ No, no. Not by the sea! That’s not for us,  
+ not where that ship Salamia can show up  
+ with some man on board to serve a summons  
+ early in the morning. What about Greece?                                          
+ Can you tell us of some city there?[^note-112]  
+
+TEREUS  
+ Why not go and settle down in Elis—  
+ in Lepreus?
+
+EUELPIDES  
+ In Leprous? By the gods,  
+ I hate the place—although I’ve never seen it—                                                
+ it’s all Melanthius’ fault.[^note-113]  
+
+TEREUS  
+ You could go  
+ to the Opuntians—they’re in Locris—  
+ you might settle there.  
+
+EUELPIDES  
+ Be Opuntius—  
+ no way, not for a talent’s weight in gold.[^note-114]  
+ But what’s it like here, living with the birds?
+ You must know it well.  
+
+TEREUS  
+ It’s not unpleasant.                                  
+ First of all, you have to live without a purse.  
+
+EUELPIDES  
+ So you’re rid of one great source of fraud in life.  
+
+TEREUS  
+ In the gardens we enjoy white sesame,                                                                    
+ the myrtles, mint, and poppies.  
+
+EUELPIDES  
+ So you live  
+ just like newly-weds.  
+
+PISTHETAIROS  
+That’s it! I’ve got it!  
+ I see a great plan for this race of birds—  
+ and power, too, if you’ll trust what I say.  
+
+TEREUS  
+ What do you want to get us all to do?
+
+PISTHETAIROS  
+ What should you be convinced to do? Well, first,  
+ don’t just fly about in all directions,                                                            
+ your beaks wide open—that makes you despised.  
+ With us, you see, if you spoke of men  
+ who always flit about and if you asked,  
+> “Who’s that Teleas” someone would respond,  
+> The man’s a bird—he’s unreliable,  
+ flighty, vague, never stays in one place long.”[^note-115]    
+
+TEREUS  
+ By Dionysus, that’s a valid point—  
+ the criticism’s fair. What should we do?
+
+PISTHETAIROS  
+ Settle down together in one city.  
+
+TEREUS  
+ What sort of city could we birds set up?                                                  
+
+PISTHETAIROS  
+ Why ask that? What a stupid thing to say!  
+ Look down.  
+
+TEREUS  
+All right.  
+
+PISTHETAIROS  
+ Now look up.  
+
+TEREUS  
+ I’m looking up.  
+
+PISTHETAIROS  
+ Turn your head round to the side.  
+
+TEREUS  
+ By Zeus,  
+ this’ll do me good, if I twist off my neck.  
+
+PISTHETAIROS  
+ What do you see?
+
+TEREUS  
+ Clouds and sky.  
+
+PISTHETAIROS  
+ Well, then,  
+ isn’t this a staging area for birds?
+
+TEREUS  
+ A staging area? How come it’s that?
+
+PISTHETAIROS  
+ You might say it’s a location for them—                                                                 
+ there’s lots of business here, but everything  
+ keeps moving through this zone, so it’s now called              
+ a staging place. But if you settled here,  
+ fortified it, and fenced it off with walls,  
+ this staging area could become your state.  
+ Then you’d rule all men as if they’re locusts  
+ and annihilate the gods with famine,  
+ just like in Melos.[^note-116]  
+
+TEREUS  
+How’d we manage that?
+
+PISTHETAIROS  
+ Look, between earth and heaven there’s the air.  
+ Now, with us, when we want to go to Delphi,  
+ we have to ask permission to pass through  
+ from the Boeotians. You should do the same.                                   
+ When men sacrifice, make gods pay you cash.                                                 
+ If not, you don’t grant them rights of passage.  
+ You’ll stop the smell of roasting thigh bones  
+ moving through an empty space and city  
+ which don’t belong to them.  
+
+TEREUS  
+ Wow!!! Yippee!!  
+ By earth, snares, traps, nets, what a marvellous scheme!  
+ I’ve never heard a neater plan! So now,  
+ with your help, I’m going to found a city,  
+ if other birds agree.  
+
+PISTHETAIROS  
+The other birds?
+ Who’s going to lay this business out to them?                                   
+
+TEREUS  
+ You can do it. I’ve taught them how to speak.                                                   
+ Before I came, they could only twitter,  
+ but I’ve been with them here a long, long time.  
+
+PISTHETAIROS  
+ How do you call to bring them all together?
+
+TEREUS  
+ Easy. I’ll step inside my thicket here,  
+ and wake my nightingale. Then we’ll both call.  
+ Once they hear our voices they’ll come running.  
+
+PISTHETAIROS  
+ O, you darling bird, now don’t just stand there—  
+ not when I’m begging you to go right now,  
+ get in your thicket, wake your nightingale.                                          
+
+[Tereus goes back through the doors][^note-117]  
+
+TEREUS [singing]  
+ Come my queen, don’t sleep so long,  
+ pour forth the sound of sacred song—                                                       
+ lament once more through lips divine  
+ for Itys, your dead child and mine,  
+ the one we’ve cried for all this time.[^note-118]  
+
+ Sing out your music’s liquid trill  
+ in that vibrato voice—the thrill  
+ which echoes in those purest tones  
+ through leafy haunts of yew trees roams  
+ and rises up to Zeus’ throne.                                                                 
+
+ Apollo with the golden hair  
+ sits listening to your music there—  
+ and in response he plucks his string—  
+ his lyre of ivory then brings  
+ the gods themselves to dance and sing.  
+
+ Then from gods’ mouths in harmony                                                          
+ come sounds of sacred melody.  
+
+[A flute starts playing within, in imitation of the nightingale’s song. The melody continues for a few moments]  
+
+EUELPIDES  
+ By lord Zeus, that little birdie’s got a voice!  
+ She pours her honey all through that thicket!  
+
+PISTHETAIROS  
+ Hey!  
+
+EUELPIDES  
+ What?
+
+PISTHETAIROS  
+ Shut up.  
+
+EUELPIDES  
+ Why?
+
+PISTHETAIROS  
+ That hoopoe bird—270                           
+ he’s all set to sing another song.  
+
+TEREUS [issuing a bird call to all the birds. His song or chant is accompanied by the flute indicating the nightingale’s song]  
+
+ Epo-popo-popo-popo-popoi,  
+ Io, io, ito, ito, ito, ito.  
+
+ Come here to me,  
+ all you with feathers just like mine,                                                                             
+ all you who live in country fields  
+ fresh-ploughed, still full of seed,  
+ and all you thousand tribes  
+ who munch on barley corn  
+ who gather up the grain,                                                                                          
+ and fly at such a speed  
+ and utter your sweet cries,  
+ all you who in the furrows there  
+ twitter on the turned-up earth,  
+ and sweetly sing  
+ tio tio tio tio tio tio tio tio—  
+
+ All those of you  
+ who like to scavenge food  
+ from garden ivy shoots,                                                                                                            
+ all you in the hills up there                                                  
+ who eat from olive and arbutus trees.  
+ come here as quickly as you can,  
+ fly here in answer to this call—  
+ trio-to trio-to toto-brix!  
+
+ And every one of you  
+ in low-lying marshy ground  
+ who snap sharp-biting gnats,  
+ by regions of well-watered land,  
+ and lovely fields of Marathon,  
+ all you variously coloured birds,                                                                      
+ godwits and francolins—  
+ I’m calling you.  
+
+ You flocks who fly across the seas                                                                                  
+ across the waves with halcyons  
+ come here to learn the news.  
+ We’re all assembling here,  
+ all tribes of long-neck birds.  
+ A shrewd old man’s arrived—  
+ he’s here with a new plan,  
+ a man of enterprise,                                                                                                     
+ all set to improvise.  
+ So gather all of you  
+ to hear his words.  
+
+[The final words gradually change from coherent speech into a bird call]  
+
+ Come here, come here,  
+ come here, come here.  
+ Toro-toro toro-toro-tix  
+ Kik-kabau, kik-kabau.                                                                                                               
+ Toro-toro toro-toro li-li-lix  
+
+[Euelpides and Pisthetairos start looking up into the sky for birds]  
+
+PISTHETAIROS  
+ Seen any birds lately?
+
+EUELPIDES  
+ No, by Apollo, I haven’t—  
+ even though I’m staring up into the sky,                                                 
+ not even blinking.  
+
+PISTHETAIROS  
+It seems to me  
+ that hoopoe bird was just wasting time  
+ hiding, like a curlew, in that thicket,  
+ and screaming out his bird calls—  
+         [imitating Tereus] po-poi po-poi        
+
+[There is an instant response to Pisthetairos’ call from off stage, a loud bird call which really scares Pisthetairos and Euelpides]  
+
+BIRD [offstage]  
+ Toro-tix, toro-tix.  
+
+PISTHETAIROS  
+ Hey, my good man, here comes a bird.  
+
+[Enter a flamingo, very tall and flaming red-something Pisthetairos and Euelpides have never seen]  
+
+EUELPIDES  
+ By Zeus,  
+ that’s a bird? What kind would you call that?
+ It couldn’t be a peacock, could it?
+
+[Tereus re-enters from the thicket]  
+
+PISTHETAIROS  
+ Tereus here will tell us. Hey, my friend,                                                  
+ what’s that bird there?
+
+TEREUS  
+ Not your everyday fowl—  
+ the kind you always see. She’s a marsh bird.                                                       
+
+EUELPIDES  
+ My goodness, she’s gorgeous—flaming red!  
+
+TEREUS  
+ Naturally, that’s why she’s called Flamingo.  
+
+[A second bird enters, a Peacock]  
+
+EUELPIDES [to Pisthetairos]  
+ Hey . . .  
+
+PISTHETAIROS  
+ What is it?
+
+EUELPIDES  
+ Another bird’s arrived.  
+
+PISTHETAIROS  
+ You’re right. By god, this one looks really odd.  
+         [To Tereus] Who’s this bizarre bird-prophet of the Muse,  
+ this strutter from the hills?
+
+TEREUS  
+ He’s called the Mede.  
+
+PISTHETAIROS  
+ He’s a Mede? By lord Hercules, how come  
+ a Mede flew here without his camel?                                                          
+
+EUELPIDES  
+ Here’s another one . . .  
+
+[The next bird enters, another Hoopoe]  
+
+. . . what a crest of feathers!  
+PISTHETAIROS [To Tereus]  
+ What’s this marvel? You’re not the only hoopoe?                                          
+ This here’s another one?
+
+TEREUS  
+He’s my grandson—  
+ son of Philocles the Hoopoe—it’s like  
+ those names you pass along, when you call  
+ Hipponicus the son of Callias,  
+ and Callias son of Hipponicus.[^note-119]  
+
+PISTHETAIROS  
+ So this bird is Callias. His feathers—  
+ he seems to have lost quite a few.  
+
+TEREUS  
+ Yes, that’s true—  
+ being a well-off bird he’s plucked by parasites,                                
+ and female creatures flock around him, too,  
+ to yank his plumage out.  
+
+[Enter the Glutton-bird, an invented species, very fat and brightly coloured]  
+
+PISTHETAIROS  
+ By Poseidon,  
+ here’s another bright young bird. What’s it called?
+
+TEREUS  
+ This one’s the Glutton-bird.  
+
+PISTHETAIROS  
+Another glutton?
+ Cleonymus is not the only one?[^note-120]  
+
+EUELPIDES  
+ If this bird were like our Cleonymus,                                                                         
+ wouldn’t he have thrown away his crest?
+
+PISTHETAIROS  
+ Why do all the birds display such head crests?
+ Are they going to run a race in armour?
+
+TEREUS  
+ No, my dear fellow, they live up on the crests,                                 
+ because it’s safer, like the Carians.[^note-121]  
+
+PISTHETAIROS [looking offstage]  
+ Holy Poseidon, do you see those birds!  
+ What a fowl bunch of them—all flocking here!  
+
+EUELPIDES [looking in the same direction]  
+ Lord Apollo, there’s a huge bird cloud! Wow!  
+ So many feathered wings in there I can’t see  
+ a way through all those feathers to the wings.  
+
+[Enter the Chorus of Birds in a dense mass. Pisthetairos and Euelpides clamber up the rock to get a better look at them]  
+
+PISTHETAIROS  
+ Hey, look at that—  
+ it’s a partridge, and that one over there,  
+ by Zeus, a francolin—there’s a widgeon—  
+ and that’s a halcyon!  
+
+EUELPIDES  
+ What’s the one behind her?
+
+PISTHETAIROS  
+ What is it? It’s a spotted shaver.  
+
+EUELPIDES  
+ Shaver?                                      
+ You mean there’s a bird that cuts our hair?
+
+PISTHETAIROS  
+ Why not?
+ After all, there’s that barber in the city—  
+ the one we all call Sparrow Sporgilos.[^note-122]                                                                       
+ Here comes an owl.  
+
+EUELPIDES  
+Well, what about that?
+ Who brings owls to Athens?[^note-123]  
+
+PISTHETAIROS [identifying birds in the crowd]  
+. . . a turtle dove,  
+ a jay, lark, sedge bird . . .  
+
+EUELPIDES  
+. . . finch, pigeon . . .  
+
+PISTHETAIROS  
+                                                                . . . falcon,  
+ hawk, ring dove . . .  
+
+EUELPIDES  
+. . . cuckoo, red shank . . .  
+
+PISTHETAIROS  
+                                                             . . . fire-crest . . .  
+
+EUELPIDES  
+         . . . porphyrion, kestrel, dabchick, bunting,  
+ vulture, and that one’s there’s a . . . [he’s stumped]  
+
+PISTHETAIROS  
+. . . woodpecker!!  
+
+EUELPIDES  
+ What a crowd of birds! A major flock of fowls!                                
+ All that twitter as they prance around,  
+ those rival cries! . . . Oh, oh, what’s going on?
+ Are they a threat? They’re looking straight at us—  
+ their beaks are open!  
+
+PISTHETAIROS  
+It looks that way to me.  
+
+CHORUS LEADER [starting with a bird call]  
+ To-toto-to to-toto-to to-to.                                                                                                  
+ Who’s been calling me?
+ Where’s he keep his nest?
+
+TEREUS  
+ I’m the one. I’ve been waiting here a while.  
+ I’ve not left my bird friends in the lurch.  
+
+CHORUS LEADER  
+ Ti-tit-ti ti-tit-ti ti-ti-ti-ti                                                        
+ tell me as a friend what you have to say.  
+
+TEREUS  
+ I have news for all of us—something safe,  
+ judicious, sweet, and profitable.  
+ Two men have just come here to visit me,  
+ two subtle thinkers . . .  
+
+CHORUS LEADER [interrupting]  
+ What? What are you saying?
+
+TEREUS  
+ I’m telling you two old men have arrived—                                                        
+ they’ve come from lands where human beings live  
+ and bring the stalk of a stupendous plan.  
+
+CHORUS LEADER  
+ You fool! This is the most disastrous thing  
+ since I was hatched. What are you telling us?                                    
+
+TEREUS  
+ Don’t be afraid of what I have to say.  
+
+CHORUS LEADER  
+ What have you done to us?
+
+TEREUS  
+ I’ve welcomed here  
+ two men in love with our society.  
+
+CHORUS LEADER  
+ You dared to do that?
+
+TEREUS  
+ Yes, indeed, I did.  
+ And I’m very pleased I did so.  
+
+CHORUS LEADER  
+ These two men of yours,  
+ are they among us now?
+
+TEREUS  
+Yes, as surely as I am.  
+
+CHORUS [breaking into a song of indignation]  
+ Aiiii, aiiiii  
+ He’s cheated us,  
+ he’s done us wrong.  
+ That friend of ours,                                                                                         
+ who all along  
+ has fed with us  
+ in fields we share,                                                                                                            
+ now breaks old laws  
+ and doesn’t care.  
+
+ We swore a pact  
+ of all the birds.  
+ He’s now trapped us  
+ with deceitful words—  
+ so power goes                                                              
+ to all our foes,  
+ that wicked race  
+ which since its birth  
+ was raised for war  
+ with us on earth.  
+
+CHORUS LEADER  
+ We’ll have some words with that one later.  
+ These two old men should get their punishment—  
+ I think we should give it now. Let’s do it—  
+ rip ’em to pieces, bit by bit.  
+
+PISTHETAIROS  
+ We’re done for.  
+
+EUELPIDES  
+ It’s all your fault—getting us into this mess.                                        
+ Why’d you bring me here?
+
+PISTHETAIROS  
+I wanted you to come.                                                     
+
+EUELPIDES  
+ What? So I could weep myself to death?
+
+PISTHETAIROS  
+ Now, you’re really talking nonsense—  
+ how do you intend to weep, once these birds  
+ poke out your eyes?
+
+CHORUS [advancing towards Pisthetairos and Euelpides  
+On, on . . .  
+ let’s move in to attack,  
+ and launch a bloody rush,  
+ come in from front and back,  
+ and break ’em in the crush—  
+ with wings on every side                                                      
+ they’ll have no place to hide.  
+
+ These two will start to howl,  
+ when my beak starts to eat  
+ and makes ’em food for fowl.  
+ There’s no well-shaded peak,  
+ no cloud or salt-grey sea                                                                                                         
+ where they can flee from me.  
+
+CHORUS LEADER  
+ Now let’s bite and tear these two apart!  
+ Where’s the brigadier? Bring up the right wing!  
+
+[The birds start to close in on Pisthetairos and Euelpides, cowering up on the rocks]  
+
+EUELPIDES  
+ This is it! I’m done for. Where can I run?                                              
+
+PISTHETAIROS  
+ Why aren’t you staying put?
+
+EUELPIDES  
+ Here with you?
+ I don’t want ’em to rip me into pieces.  
+
+PISTHETAIROS  
+ How do you intend to get away from them?
+
+EUELPIDES  
+ I haven’t a clue.  
+
+PISTHETAIROS  
+ Then I’ll tell you how—  
+ we have to stay right here and fight it out.  
+ So put that cauldron down.  
+
+[Pisthetairos takes the cauldron from Euelpides and sets it down on the ground in front of them]  
+
+EUELPIDES  
+ What good’s a cauldron?
+
+PISTHETAIROS  
+ It’ll keep the owls away from us.  
+
+EUELPIDES  
+ What about the birds with claws?
+
+PISTHETAIROS [rummaging in the pack]  
+Grab this spit—  
+ stick it in the ground in front of you.  
+
+EUELPIDES  
+ How do we protect our eyes?                                                                                              
+
+PISTHETAIROS [producing a couple of tin bowls]  
+ An upturned bowl.                                          
+ Set this on your head.  
+
+EUELPIDES: [putting the tin bowl upside down on his head and holding up the pot, with the spit stuck in the ground]  
+ That’s brilliant!  
+ What a grand stroke of warlike strategy!  
+ In military matters you’re the best—  
+ already smarter than that Nikias[^note-124]  
+
+[Pisthetairos and Euelpides, with tin bowls on their heads, await the birds’ charge-with Pisthetairos hiding behind 
+Euelpides, who is holding up the big pot. Their two slaves cower behind them]  
+
+CHORUS LEADER  
+El-el-el-eu . . . Charge!  
+ Keep those beaks level—no holding back now!  
+ Pull ‘em, scratch ’em, hit ’em, rip their skins off!  
+ Go smash that big pot first of all.  
+
+[As the Chorus is about to start its charge, Tereus rushes in between the two men and the Chorus and tries 
+to stop the Chorus Leader]  
+
+TEREUS  
+ Hold on, you wickedest of animals!  
+ Tell me this: Why do you want to kill these men,                         
+ to tear them both to bits? They’ve done no wrong.  
+ Besides, they’re my wife’s relatives, her clansmen.  
+
+CHORUS LEADER  
+ Why should we be more merciful to them  
+ than we are to wolves? What other animals  
+ are greater enemies of ours than them?
+ Have we got better targets for revenge?                                                                  
+
+TEREUS  
+ Yes, by nature enemies—but what if  
+ they’ve got good intentions? What if they’ve come  
+ to teach you something really valuable?
+
+CHORUS LEADER  
+ How could they ever teach us anything,                                                  
+ or tell us something useful—they’re enemies,  
+ our feathered forefathers’ fierce foes.  
+
+TEREUS  
+ But folks with fine minds find from foemen  
+ they can learn a lot. Caution saves us all.  
+ We don’t learn that from friends. But enemies  
+ can force that truth upon us right away.  
+ That’s why cities learn, not from their allies,  
+ but from enemies, how to build high walls,  
+ assemble fleets of warships—in that way,  
+ their knowledge saves their children, homes, and goods. 490             
+
+CHORUS LEADER  
+ Well, here’s what seems best to me—first of all,  
+ let’s hear what they have come to say. It’s true—  
+ our enemies can teach us something wise.  
+
+PISTHETAIROS [to Euelpides}
+ I think their anger’s easing off. Let’s retreat.  
+
+[Pisthetairos and Euelpides inch their way toward the doors, still bunched together, with Euelpides holding up the pot]  
+
+TEREUS [to the Chorus Leader]  
+ It’s only fair—and you do owe me a favour,  
+ out of gratitude.  
+
+CHORUS LEADER  
+ In other things,  
+ before today, we’ve never stood against you.  
+
+PISTHETAIROS  
+ They’re acting now more peacefully to us—  
+ so put that pot and bowl down on the ground.  
+ But we’d better hang onto the spit, our spear.                                   
+ We’ll use it on patrol inside our camp                                                                       
+ right by this cauldron here. Keep your eyes peeled—  
+ don’t even think of flight.  
+
+[Euelpides puts down the cauldron, removes his tin-plate helmet, and marches with the spear back and forth 
+by the cauldron, on guard]  
+
+EUELPIDES  
+ What happens if we’re killed? Where on earth  
+ will we be buried?
+
+PISTHETAIROS  
+ In Kerameikos—  
+ where the potters live—they’ll bury both of us.  
+ We’ll get it done and have the public pay—  
+ I’ll tell the generals we died in battle,  
+ fighting with the troops at Orneai.[^note-125]  
+
+CHORUS LEADER  
+ Fall back into the ranks you held before. 510              
+ Bend over, and like well-armed soldier boys,  
+ put your spirit and your anger down.  
+ We’ll look into who these two men may be,  
+ where they come from, what their intentions are.  
+
+[The Chorus of Birds breaks up and retreats]  
+
+ Hey, Hoopoe bird, I’m calling you!  
+
+TEREUS  
+You called?
+ What would you like to hear?
+
+CHORUS LEADER  
+ These two men—  
+ where do they come from and who are they?
+
+TEREUS  
+ These strangers are from Greece, font of wisdom.  
+
+CHORUS LEADER  
+ What accident or words                                                                                                           
+ now brings them to the birds?                                                                            
+
+TEREUS  
+ The two men love your life,  
+ adore the way you live—  
+ they want to share with you  
+ in all there is to give.  
+
+CHORUS LEADER  
+ What’s that you just said?
+ What plan is in their head?
+
+TEREUS  
+ Things you’d never think about—  
+ you’ll be amazed—just hear him out.  
+
+CHORUS LEADER  
+ He thinks it’s good that he  
+ should stay and live with me?                                                                             
+ Is he trusting in some plan  
+ to help his fellow man  
+ or thump his enemy?                                                                                                                  
+
+TEREUS  
+ He talks of happiness  
+ too great for thought or words  
+ He claims this emptiness—  
+ all space—is for the birds—  
+ here, there, and everywhere.  
+ You’ll be convinced, I swear.  
+
+CHORUS LEADER  
+ Is he crazy in the head?                                                                                             
+
+TEREUS  
+ He is shrewder than I said.  
+
+CHORUS LEADER  
+ A brilliant thinking box?
+
+TEREUS  
+ The subtlest, sharpest fox—  
+ he’s been around a lot  
+ knows every scheme and plot.                                                                                          
+
+CHORUS LEADER  
+ Ask him to speak to us, to tell us all.  
+ As I listen now to what you’re telling me,  
+ it makes me feel like flying—taking off!  
+
+TEREUS [to the two slaves]  
+ Take their suits of armour in the house—  
+ hang the stuff up in the kitchen there,                                                      
+ beside the cooking stool—may it bring good luck!  
+
+[turning to Pisthetairos]  
+
+ Now you. Lay out your plans—explain to them  
+ the reason why I called them all together.  
+
+[Pisthetairos is struggling with the servants, refusing to give up his armour]  
+
+PISTHETAIROS  
+ No. By Apollo, I won’t do it—  
+ not unless they swear a pact with me  
+ just like one that monkey Panaitios,                                                                           
+ who makes our knives, had his wife swear to him—  
+ not to bite or pull my balls or poke me.  
+
+CHORUS LEADER  
+ You mean up your . . .  
+
+PISTHETAIROS  
+No, not there. I mean the eyes.  
+
+CHORUS LEADER  
+ Oh, I’ll agree to that.  
+
+PISTHETAIROS  
+ Then swear an oath on it.                                        
+
+CHORUS LEADER  
+ I swear on this condition—that I get  
+ all the judges’ and spectators’ votes and win.[^note-126]  
+
+PISTHETAIROS  
+ Oh, you’ll win!  
+
+CHORUS LEADER  
+ And if I break the oath  
+ then let me win by just a single vote.  
+ Listen all of you! The armed infantry  
+ can now pick up their weapons and go home.  
+ Keep an eye out for any bulletins  
+ we put up on our notice boards.                                                                                      
+
+CHORUS [singing]  
+ Man’s by nature’s born to lie.  
+ But state your case. Give it a try.                                                                      
+ There’s a chance you have observed  
+ some useful things inside this bird,  
+ some greater power I possess,  
+ which my dull brain has never guessed.  
+ So tell all here just what you see.  
+ If there’s a benefit to me,  
+ we’ll share in it communally.  
+
+CHORUS LEADER  
+ Tell us the business that’s brings you here.                                                           
+ Persuade us of your views. So speak right up.  
+ No need to be afraid—we’ve made a pact—                        
+ we won’t be the ones who break it first.  
+
+PISTHETAIROS [aside to Euelpides]  
+ By god, I’m full of words, bursting to speak.  
+ I’ve worked my speech like well-mixed flour—  
+ like kneading dough. There’s nothing stopping me.  
+
+[giving instructions to the two slaves]  
+
+ You, lad, fetch me a speaker’s wreath—and, you,  
+ bring water here, so I can wash my hands.  
+
+[The two slaves go into the house and return with a wreath and some water]  
+
+EUELPIDES [whispering to Pisthetairos]  
+ You mean it’s time for dinner? What’s going on?
+
+PISTHETAIROS  
+ For a long time now I’ve been keen, by god,  
+ to give them a stupendous speech—overstuffed—  
+ something to shake their tiny birdy souls.                                             
+
+[Pisthetairos, with the wreath on his head, now turns to the birds and begins his formal oration]  
+
+ I’m so sorry for you all, who once were kings . . .  
+
+CHORUS LEADER  
+ Kings? Us? What of?
+
+PISTHETAIROS  
+You were kings indeed,  
+ you ruled over everything there is—  
+ over him and me, first of all, and then  
+ over Zeus himself. You see, your ancestry  
+ goes back before old Kronos and the Titans,  
+ way back before even Earth herself![^note-127]  
+
+CHORUS LEADER  
+ Before the Earth?
+
+PISTHETAIROS  
+Yes, by Apollo.  
+
+CHORUS LEADER  
+ Well, that’s something I never knew before!                                                      
+
+PISTHETAIROS  
+ That’s because you’re naturally uninformed—                    
+ you lack resourcefulness. You’ve not read Aesop.  
+ His story tells us that the lark was born  
+ before the other birds, before the Earth.  
+ Her father then grew sick and died. For five days  
+ he lay there unburied—there was no Earth.  
+ Not knowing what to do, at last the lark,  
+ at her wits’ end, set him in her own head.  
+
+EUELPIDES  
+ So now, the father of the lark lies dead  
+ in a headland plot.  
+
+PISTHETAIROS  
+ So if they were born  
+ before the Earth, before the gods, well then,                                      
+ as the eldest, don’t they get the right to rule?
+
+EUELPIDES  
+ By Apollo, yes they do.  
+
+[addressing the audience]  
+
+ So you out there,  
+ look ahead and sprout yourselves a beak—  
+ in good time Zeus will hand his sceptre back                                                     
+ to the birds who peck his sacred oaks.  
+
+PISTHETAIROS  
+ Way back then it wasn’t gods who ruled.  
+ They didn’t govern men. No. It was the birds.  
+ There’s lots of proof for this. I’ll mention here  
+ example number one—the fighting cock—  
+ first lord and king of all those Persians,                                                  
+ well before the time of human kings—  
+ those Dariuses and Megabazuses.  
+ Because he was their king, the cock’s still called  
+ the Persian Bird.  
+
+EUELPIDES  
+ That’s why to this very day  
+ the cock’s the only bird to strut about  
+ like some great Persian king, and on his head  
+ he wears his crown erect.  
+
+PISTHETAIROS  
+ He was so great,  
+ so mighty and so strong, that even now,  
+ thanks to his power then, when he sings out  
+ his early morning song, all men leap up                              
+ to head for work—blacksmiths, potters, tanners,                                          
+ men who deal in corn or supervise the baths,  
+ or make our shields or fabricate our lyres—  
+ they all lace on their shoes and set off in the dark.  
+
+EUELPIDES  
+ I can vouch for that! I had some bad luck,  
+ thanks to that cock—I lost my cloak to thieves,  
+ a soft and warm one, too, of Phrygian wool.  
+ I’d been invited to a festive do,  
+ where some child was going to get his name,  
+ right here in the city. I’d had some drinks—                        
+ and those drinks, well, they made me fall asleep.  
+ Before the other guests began to eat,  
+ that bird lets rip his cock-a-doodle-doo!  
+ I thought it was the early morning call.  
+ So I run off for Halimus[^note-128]  —but then,  
+ just outside the city walls, I get mugged,  
+ some coat thief hits me square across the back—  
+ he used a cudgel! When I fall down there,  
+ about to cry for help, he steals my cloak!  
+
+PISTHETAIROS  
+ To resume—way back then the Kite was king.                                 
+ He ruled the Greeks.  
+
+CHORUS LEADER  
+King of the Greeks!!  
+
+PISTHETAIROS  
+ That’s right.  
+ As king he was the first to show us how                                                                   
+ to grovel on the ground before a kite.  
+        
+EUELPIDES  
+ By Dionysus, I once saw a kite  
+ and rolled along the ground, then, on my back,  
+ my mouth wide open, gulped an obol down.  
+ I had to trudge home with an empty sack.[^note-129]  
+
+PISTHETAIROS  
+ Take Egypt and Phoenicia—they were ruled  
+ by Cuckoo kings. And when they cried “Cuckoooo!!”  
+ all those Phoenicians harvested their crop—                       
+ the wheat and barley in their fields.  
+
+EUELPIDES  
+ That’s why  
+ if someone’s cock is ploughing your wife’s field,  
+ we call you “Cuckoo!”—you’re being fooled![^note-130]  
+
+PISTHETAIROS  
+ The kingship of the birds was then so strong  
+ that in the cities of the Greeks a king—  
+ an Agamemnon, say, or Menelaus—  
+ had a bird perched on his regal sceptre.  
+ And it got its own share of all the gifts                                                                      
+ the king received.  
+
+EUELPIDES  
+ Now, that I didn’t know.  
+ I always get amazed in tragedies           
+ when some king Priam comes on with a bird.  
+ I guess it stands on guard there, keeping watch  
+ to see what presents Lysicrates gets.[^note-131]  
+
+PISTHETAIROS  
+ Here’s the weirdest proof of all—lord Zeus  
+ who now commands the sky, because he’s king,  
+ carries an eagle on his head. There’s more—  
+ his daughter has an owl, and Apollo,  
+ like a servant, has a hawk.  
+
+EUELPIDES  
+ That’s right,  
+ by Demeter! What’s the reason for those birds?
+
+PISTHETAIROS  
+ So when someone makes a sacrifice                                    
+ and then, in accordance with tradition,  
+ puts the guts into god’s hands, the birds  
+ can seize those entrails well before Zeus can.  
+ Back then no man would swear upon the gods—  
+ they swore their oaths on birds. And even now,                                             
+ our Lampon seals his promises “By Goose,”  
+ when he intends to cheat.[^note-132]   In days gone by,  
+ all men considered you like that—as great  
+ and sacred beings. Now they all think of you  
+ as slaves and fools and useless layabouts.                                              
+ They throw stones at you, as if you’re mad.  
+ And every hunter in the temples there  
+ sets up his traps—all those nooses, gins,  
+ limed sticks and snares, fine mesh and hunting nets,  
+ and cages, too. Then once they’ve got you trapped,  
+ they sell you by the bunch. Those who come to buy  
+ poke and prod your flesh. If you seem good to eat,                                      
+ they don’t simply roast you by yourself—no!  
+ They grate on cheese, mix oil and silphium  
+ with vinegar—and then whip up a sauce,                                               
+ oily and sweet, which they pour on you hot,  
+ as if you were a chunk of carrion meat.  
+
+CHORUS  
+ This human speaks  
+ of our great pain  
+ our fathers’ sins                                                                                                                 
+ we mourn again—  
+ born into rule,  
+ they threw away  
+ what they received,  
+ their fathers’ sway.                                                                            
+
+ But now you’ve come—  
+ fine stroke of fate—  
+ to save our cause.  
+ Here let me state  
+ I’ll trust myself  
+ and all my chicks  
+ to help promote  
+ your politics.  
+
+CHORUS LEADER  
+ You need to stick around to tell us all  
+ what we should do. Our lives won’t be worth living              
+ unless by using every scheme there is  
+ we get back what’s ours—our sovereignty.  
+
+PISTHETAIROS  
+ Then the first point I’d advise you of is this:                                                        
+ there should be one single city of the birds.  
+ Next, you should encircle the entire air,  
+ all this space between the earth and heaven,  
+ with a huge wall of baked brick—like Babylon.  
+
+EUELPIDES  
+ O Kebriones and Porphyrion!  
+ What a mighty place! How well fortified![^note-133]  
+
+PISTHETAIROS  
+ When you’ve completed that, demand from Zeus               
+ he give you back your rule. If he says no,  
+ he doesn’t want to and won’t sign on at once,  
+ you then declare a holy war on him.  
+ Tell those gods they can’t come through your space  
+ with cocks erect, the way they used to do,  
+ rushing down to screw another woman—  
+ like Alkmene, Semele, or Alope.[^note-134]  
+ For if you ever catch them coming down  
+ you’ll stamp your seal right on their swollen pricks—                                      
+ they won’t be fucking women any more.                                               
+ And I’d advise you send another bird  
+ as herald down to human beings to say  
+ that since the birds from now on will be kings,  
+ they have to offer sacrifice to them.  
+ The offerings to the gods take second place.  
+ Then each of the gods must be closely matched  
+ with an appropriate bird. So if a man  
+ is offering Athena holy sacrifice,  
+ he must first give the Coot some barley corn.  
+ If sacrificing sheep to god Poseidon,                                                           
+ let him bring toasted wheat grains to the Duck.  
+ And anyone who’s going to sacrifice  
+ to Hercules must give the Cormorant  
+ some honey cakes. A ram for Zeus the king?
+ Then first, because the Wren is king of birds,  
+ ahead of Zeus himself, his sacrifice  
+ requires the worshipper to execute  
+ an uncastrated gnat.  
+
+EUELPIDES  
+I like that bit about  
+ the slaughtered gnat. Now thunder on, great Zan.[^note-135]                                        
+
+CHORUS LEADER  
+ But how will humans think of us as gods                             
+ and not just jackdaws flying around on wings?
+
+PISTHETAIROS  
+ A foolish question. Hermes is a god,  
+ and he has wings and flies—so do others,  
+ all sorts of them. There’s Victory, for one,  
+ with wings of gold. And Eros is the same.  
+ Then there’s Iris—just like a timorous dove,  
+ that’s what Homer says.  
+
+EUELPIDES  
+But what if Zeus  
+ lets his thunder peal, then fires down on us  
+ his lightning bolt—that’s got wings as well.  
+
+PISTHETAIROS [ignoring Euelpides]  
+Now, if men in their stupidity                                             
+ think nothing of you and keep worshipping  
+ Olympian gods, then a large cloud of birds,  
+ of rooks and sparrows, must attack their farms,  
+ devouring all the seed. And as they starve,  
+ let Demeter then dole out grain to them.                                                              
+
+EUELPIDES  
+ She won’t be willing to do that, by Zeus.  
+ She’ll make excuses—as you’ll see.  
+
+PISTHETAIROS  
+Then as a test,  
+ the ravens can peck out their livestock’s eyes,  
+ the ones that pull the ploughs to work the land,  
+ and other creatures, too. Let Apollo                                    
+ make them better—he’s the god of healing.  
+ That’s why he gets paid.  
+
+EUELPIDES  
+ But you can’t do this  
+ ’til I’ve sold my two little oxen first.  
+
+PISTHETAIROS  
+ But if they think of you as god, as life,  
+ as Earth, as Kronos and Poseidon, too,  
+ then all good things will come to them.  
+
+CHORUS LEADER  
+ Tell me  
+ what these good things are.  
+
+PISTHETAIROS  
+ Well, for starters,  
+ locusts won’t eat the blossoms on their vines.  
+ The owls and kestrels in just one platoon  
+ will rid them of those pests. Mites and gall wasps 790             
+ won’t devour the figs. One troop of thrushes  
+ will eradicate them one and all.  
+
+CHORUS LEADER  
+ But how will we make people wealthy?
+ That’s what they mostly want.  
+
+PISTHETAIROS  
+ When people come  
+ petitioning your shrines, the birds can show  
+ the mining sites that pay. They’ll tell the priest  
+ the profitable routes for trade. That way  
+ no captain of a ship will be wiped out.  
+
+CHORUS LEADER  
+ Why won’t those captains come to grief?
+
+PISTHETAIROS  
+ They’ll always ask the birds about the trip.                                           
+ Their seer will say, “A storm is on the way.  
+ Don’t sail just yet” or “Now’s the time to sail—  
+ you’ll turn a tidy profit.”  
+
+EUELPIDES  
+Hey, that’s for me—  
+ I’ll buy a merchant ship and take command.  
+ I won’t be staying with you.  
+
+PISTHETAIROS  
+ Birds can show men  
+ the silver treasures of their ancestors,  
+ buried in the ground so long ago.  
+ For birds know where these are. Men always say,                                         
+> “No one knows where my treasure lies, no one,  
+> except perhaps some bird.”  
+
+EUELPIDES  
+ I’ll sell my boat.                                           
+ I’ll buy a spade and dig up tons of gold.  
+
+CHORUS LEADER  
+ How will we provide for human health?
+ Such things dwell with the gods.  
+
+PISTHETAIROS  
+ If they’re doing well,  
+ is that not giving them good health?
+
+EUELPIDES  
+You’re right.  
+ A man whose business isn’t very sound  
+ is never medically well.  
+
+CHORUS LEADER  
+ All right,  
+ but how will they get old? That’s something, too,  
+ Olympian gods bestow. Must they die young?
+
+PISTHETAIROS  
+ No, no, by god. The birds will add on years,  
+ three hundred more.  
+
+CHORUS LEADER  
+ And where will those come from?                        
+
+PISTHETAIROS  
+ From the birds’ supply. You know the saying,  
+ “Five human lifetimes lives the cawing crow.”[^note-136]    
+
+EUELPIDES  
+ My word, these birds are much more qualified                                                
+ to govern us than Zeus.  
+
+PISTHETAIROS  
+ Far better qualified!  
+ First, we don’t have to build them holy shrines,  
+ made out of stone, or put up golden doors  
+ to decorate their sanctuaries. They live  
+ beneath the bushes and young growing trees.  
+ As for the prouder birds, an olive grove  
+ will be their temple. When we sacrifice,                                                  
+ no need to go to Ammon or to Delphi—  
+ we’ll just stand among arbutus trees                                                                           
+ or oleasters with an offering—  
+ barley grains or wheat—uttering our prayers,  
+ our arms outstretched, so from them we receive  
+ our share of benefits. And these we’ll gain  
+ by throwing them a few handfuls of grain.  
+
+CHORUS LEADER  
+ Old man, how much you’ve been transformed for me—  
+ From my worst enemy into my friend,  
+ my dearest friend. These strategies of yours—                    
+ I’ll not abandon them, not willingly.  
+
+CHORUS  
+ The words you’ve said make us rejoice—  
+ and so we’ll swear with just one voice  
+ an oath that if you stand with me—                                                                            
+ our thoughts and aims in unity—  
+ honest, pious, just, sincere,  
+ to go against the gods up there,  
+ if we’re both singing the same song  
+ the gods won’t have my sceptre long.  
+
+CHORUS LEADER  
+ Whatever can be done with force alone                              
+ we’re ready to take on—what requires brains  
+ or thinking through, all that stuff’s up to you.  
+
+PISTHETAIROS  
+ That’s right, by Zeus. No time for dozing now,                                                
+ or entertaining doubts, like Nikias.[^note-137]  
+ No—let’s get up and at it fast.  
+
+TEREUS  
+ But first, you must come in this nest of mine,  
+ these sticks and twigs assembled here. So now,  
+ both of you, tell us your names.  
+
+PISTHETAIROS  
+That’s easy.  
+ My name’s Pisthetairos.  
+
+TEREUS  
+And this man here?
+
+EUELPIDES  
+ I’m Euelpides, from Crioa.                                                                                      
+
+TEREUS  
+ Welcome both of you!  
+
+PISTHETAIROS and EUELPIDES  
+ Thanks very much.  
+
+TEREUS  
+ Won’t you come in?
+
+PISTHETAIROS  
+ Let’s go. But you go first—  
+ show us the way.  
+
+TEREUS  
+ Come on, then.  
+
+[Tereus enters his house]  
+
+PISTHETAIROS [holding back, calling into the house]  
+ But . . . it’s strange . . .  
+ Come back a minute.  
+
+[Tereus reappears at the door]  
+
+ Look, tell us both  
+ how me and him can share the place with you  
+ when you can fly but we’re not able to.                                                                   
+
+TEREUS  
+ I don’t see any problem there.  
+
+PISTHETAIROS  
+ Maybe,  
+ but in Aesop’s fables there’s a story told  
+ about some fox who hung around an eagle,  
+ with unfortunate results.  
+
+TEREUS  
+ Don’t be afraid.                                                  
+ We have a little root you nibble on—  
+ and then you’ll grow some wings.  
+
+PISTHETAIROS  
+ All right then,  
+ let’s go. [To the slaves] Manodorus, Xanthias,  
+ bring in our mattresses.  
+
+CHORUS LEADER [to Tereus]  
+ Hold on a second—  
+ I’m calling you.  
+
+TEREUS  
+ Why are you calling me?
+
+CHORUS LEADER  
+ Take those two men in—give ‘em a good meal.  
+ But bring your tuneful nightingale out here,  
+ who with the Muses sings such charming songs—  
+ leave her with us so we can play together.                                                            
+
+PISTHETAIROS  
+ Yes, by god—agree to their request.                                                            
+ Bring out your little birdie in the reeds.  
+
+EUELPIDES  
+ For gods’ sake, bring her out, so we can see  
+ this lovely nightingale of yours.  
+
+TEREUS  
+ If that’s what you both want, it must be done.  
+         [calling inside]  
+ Come here, Procne. Our guests are calling you.  
+
+[Enter Procne from the house. She has a nightingale’s head and wings but the body of a young woman. 
+She is wearing gold jewellery]  
+
+PISTHETAIROS  
+ Holy Zeus, that’s one gorgeous little bird!  
+ What a tender chick!  
+
+EUELPIDES  
+ How I’d love to help that birdie  
+ spread her legs, if you catch my drift.  
+
+PISTHETAIROS  
+ Look at that—  
+ all the gold she’s wearing—just like a girl.                                                             
+
+EUELPIDES  
+ What I’d like to do right now is kiss her.                                                 
+
+PISTHETAIROS  
+ You idiot—look at that beak she’s got,  
+ a pair of skewers.  
+
+EUELPIDES  
+ All right, by god,  
+ we’ll treat her like an egg—peel off the shell,  
+ take it clean off her head, and then we’ll kiss her.  
+
+TEREUS  
+ Let’s get inside.  
+
+PISTHETAIROS  
+ You lead us in—good luck to all!  
+
+[Pisthetairos, Euelpides, Tereus, Xanthias, and Manodorusenter the house]  
+
+CHORUS [singing to Procne]  
+ Ah, my tawny throated love,  
+ of all the birds that fly above  
+ you’re dearest to my heart  
+ your sweet melodious voice  
+ in my song plays its part—                                          
+ my lovely Nightingale,  
+ you’ve come,                                                                                                         
+ you’ve come.  
+ And now youre here with me.  
+ Pour forth your melody.  
+ Pipe out the lovely sounds of spring,  
+ a prelude to my rhythmic speech  
+ in every melody you sing.  
+
+[Procne plays on the flute for a few moments as the Chorus Leader prepares to address the audience directly. 
+He steps forward getting close to the spectators]  
+
+CHORUS LEADER  
+ Come now, you men out there, who live such dark, sad lives—  
+ you’re frail, just like a race of leaves—you’re shaped from clay,           
+ you tribes of insubstantial shadows without wings,  
+ you creatures of a day, unhappy mortal men,  
+ you figures from a dream, now turn your minds to us,  
+ the eternal, deathless, air-borne, ageless birds,  
+ whose wisdom never dies, so you may hear from us  
+ the truth about celestial things, about the birds—                                         
+ how they sprang into being, how the gods arose,  
+ how rivers, Chaos, and dark Erebus were formed[^note-138]    
+ — about all this you’ll learn the truth. And so from me  
+ tell Prodicus in future to depart.[^note-139]   At the start,                                  
+ there was Chaos, and Night, and pitch-black Erebus,  
+ and spacious Tartarus. There was no earth, no heaven,  
+ no atmosphere. Then in the wide womb of Erebus,  
+ that boundless space, black-winged Night, first creature born,  
+ made pregnant by the wind, once laid an egg. It hatched,  
+ when seasons came around, and out of it sprang Love—  
+ the source of all desire, on his back the glitter  
+ of his golden wings, just like the swirling whirlwind.  
+ In broad Tartarus, Love had sex with murky Chaos.  
+ From them our race was born—our first glimpse of the light.         
+ Before that there was no immortal race at all,  
+ not before Love mixed all things up. But once they’d bred                          
+ and blended in with one another, Heaven was born,  
+ Ocean and Earth—and all that clan of deathless gods.  
+ Thus, we’re by far the oldest of all blessed ones,  
+ for we are born from Love. There’s lots of proof for this.  
+ We fly around the place, assisting those in love—  
+ the handsome lads who swear they’ll never bend for sex,  
+ but who, as their young charms come to an end, agree  
+ to let male lovers bugger them, thanks to the birds,                      
+ our power as gifts—one man gives a porphyrion,  
+ another man a quail, a third one gives a goose,  
+ and yet another offers up a Persian Fowl.[^note-140]  
+ All mortals’ greatest benefits come from us birds.  
+ The first is this: we make the season known—springtime,  
+ winter, autumn—it’s time to sow, as soon as Crane  
+ migrates to Lybia with all that noise. He tells                                                    
+ the master mariner to hang his rudder up  
+ and go to sleep awhile. He tells Orestes, too,  
+ to weave himself a winter cloak, so he won’t freeze              
+ when he sets out again to rip off people’s clothes.[^note-141]  
+ Then after that the Kite appears, to let you know  
+ another season’s here—it’s time to shear the sheep.  
+ Then Swallow comes. Now you should sell your winter cloak  
+ and get yourself a light one. So we’re your Ammon,  
+ Delphi and Dodona—we’re your Apollo, too.[^note-142]  
+ See how, in all your business, you first look to birds—  
+ when you trade, buy goods, or when a man gets married.  
+ Whatever you think matters in a prophecy,  
+ you label that a bird—to you, Rumour’s a bird;                                               
+ you say a sneeze or a chance meeting is a bird,  
+ a sound’s a bird, a servant’s a bird—and so’s an ass.  
+ It’s clear you look on us as your Apollo.  
+
+CHORUS  
+ So you ought to make gods of your birds,  
+ your muses prophetic, whose words  
+ all year round you’ve got,  
+ unless it’s too hot.  
+ Your questions will always be heard.  
+
+ And we won’t run away to a cloud  
+ and sit there like Zeus, who’s so proud—                             
+ we’re ready to give,  
+ hang out where you live,  
+ and be there for you in the crowd.  
+
+CHORUS LEADER  
+ Yes, to you, your children, and their children, too,                                      
+ we’ll grant wealth and health, good life, and happiness,  
+ peace, youth, laughter, dances, festivals of song—  
+ and birds’ milk, too—so much, you’ll find yourself worn out  
+ with our fine gifts—yes, that’s how rich you’ll be.  
+
+CHORUS  
+ O woodland Muse  
+ Tio-tio-tio-tiotinx                                               
+ my muse of varied artful song  
+ on trees and from high mountain peaks                                                  
+ tio-tio-tio-tiotinx  
+ to your notes I sing along  
+ in my leafy ash tree seat.  
+ tio-tio-tio-tiontinx  
+ From my tawny throat I fling  
+ my sacred melodies to Pan.  
+ In holy dance I chant and sing  
+ our mother from the mountain land.                                          
+ Toto-toto-toto-toto-toto-totinx  
+ Here Phrynichus would always sip                                                                 
+ ambrosial nectar from our tone  
+ to make sweet music of his own.  
+ tio-tio-tio-tiotinx.  
+
+CHORUS LEADER  
+ If there’s someone out there in the audience  
+ who’d like to spend his future life among the birds  
+ enjoying himself, he should come to us. Here, you see,  
+ whatever is considered shameful by your laws,  
+ is all just fine among us birds. Consider this—                    
+ if your tradition says one shouldn’t beat one’s dad,  
+ up here with us it’s all right if some young bird  
+ goes at his father, hits him, cries, “You wanna fight?
+ Then put up your spur!” If out there among you all                                      
+ there is, by chance, a tattooed slave who’s run away,  
+ we’ll call him a spotted francolin. Or else,  
+ if someone happens to be Phrygian, as pure  
+ as Spintharos, he’ll be a Philemon-bred finch.  
+ If he’s like Execestides, a Carian slave,  
+ let him act the Cuckoo—steal his kin from us—                  
+ some group of citizens will claim him soon enough.  
+ And if the son of Peisias still has in mind  
+ betraying our city gates to worthless men,  
+ let him become his father’s little partridge cock—  
+ for us there’s nothing wrong with crafty partridge stock.  
+
+CHORUS  
+ Tio-tio-tio-tio-tinx-
+ That’s how the swans                                                                                    
+ massed in a crowd  
+ with rustling wings  
+ once raised aloud                                               
+ Apollo’s hymn.  
+
+ Tio-tio-tio-tio-tinx  
+ They sat in rows  
+ on river banks  
+ where Hebros flows.  
+ Tio-tio-tio-tio-tinx  
+
+ Their song then rose  
+ through cloud and air—  
+ it cast its spell  
+ on mottled tribes                                               
+ of wild beasts there—  
+ the silent sky  
+ calmed down the sea.  
+ Toto-toto-toto-toto-totinx.  
+
+ Olympus rang—                                                                                                
+ amazement seized  
+ its lords and kings.  
+ Then Muses there  
+ and Graces, too,  
+ voiced their response—                                      
+ Olympus sang.  
+ Tio-tio-tio-tio-tiotinx.  
+
+CHORUS LEADER  
+ There’s nothing sweeter or better than growing wings.  
+ If any of you members of the audience  
+ had wings, well, if you were feeling bored or hungry  
+ with these tragic choruses, you could fly away,  
+ go home for dinner, and then, once you’d had enough,  
+ fly back to us again. Or if, by any chance,  
+ a Patrocleides sits out there among you all,                                                         
+ dying to shit, he wouldn’t have to risk a fart                        
+ in his own pants—he could fly off and let ’er rip,  
+ take a deep breath, and fly back down again.  
+ If it should be the case that one of you out there  
+ is having an affair, and you observe her husband  
+ sitting here, in seats reserved for Council men,  
+ well, once again, you could fly off and fuck the wife,  
+ then fly back from her place and take your seat once more.  
+ Don’t you see how having wings to fly beats everything?
+ Just look at Diitrephes—the only wings he had  
+ were handles on his flasks of wine, but nonetheless,                      
+ they chose him to lead a squad of cavalry,  
+ then for a full command, so now, from being nobody,  
+ he carries out our great affairs—he’s now become                                      
+ a tawny civic horse-cock.[^note-143]  
+
+[Enter Pisthetairos and Euelpides from Tereus’ house. They now have wings on and feathers on their heads 
+instead of hair}
+
+PISTHETAIROS  
+ Well, that’s that. By Zeus,  
+ I’ve never seen a more ridiculous sight!  
+
+EUELPIDES  
+ What are you laughing at?
+
+PISTHETAIROS  
+ At your feathers.  
+ Have you any idea what you look like—  
+ what you most resemble with those feathers on?
+ A goose painted by some cheap artiste!  
+
+EUELPIDES  
+ And you look like a blackbird—one whose hair                  
+ has just been cut using a barber’s bowl.  
+
+PISTHETAIROS  
+ People will use us as metaphors—  
+ as Aeschlyus would say, “We’re shot by feathers  
+ not from someone else but of our very own.”  
+
+CHORUS LEADER  
+ All right, then. What do we now need to do?
+
+PISTHETAIROS  
+ First, we have to name our city, something  
+ fine and grand. Then after that we sacrifice                                                        
+ an offering to the gods.  
+
+EUELPIDES  
+ That’s my view, too.  
+
+CHORUS LEADER  
+ So what name shall we give our city?
+
+PISTHETAIROS  
+ Well, do you want to use that mighty name                        
+ from Lacedaimon—shall we call it Sparta?
+
+EUELPIDES  
+ By Hercules, would I use that name Sparta  
+ for my city? No. I wouldn’t even try  
+ esparto grass to make my bed, not if  
+ I could use cords of linen.[^note-144]  
+
+PISTHETAIROS  
+All right then, what name  
+ shall we provide?
+
+CHORUS LEADER  
+Some name from around here—  
+ to do with clouds, with high places full of air,  
+ something really extra grand.  
+
+PISTHETAIROS  
+ Well, then,  
+ how do you like this: Cloudcuckooland?
+
+CHORUS LEADER  
+ Yes! That’s good! You’ve come up with a name 1090            
+ that’s really wonderful—it’s great!  
+
+EUELPIDES  
+ Hang on,  
+ is this Cloudcuckooland the very spot  
+ where Theogenes keeps lots of money,  
+ and Aeschines hides all his assets?[^note-145]  
+
+PISTHETAIROS  
+ It’s even more than that—it’s Phlegra Plain,  
+ the place where gods beat up on all the giants  
+ in a bragging match.[^note-146]  
+
+EUELPIDES  
+ This fine metropolis!  
+ O what a glittering thing this city is!  
+ Now who should be the city’s guardian god?
+ Who gets to wear the sacred robes we weave?                                  
+
+PISTHETAIROS  
+ Why not let Athena do the guarding?
+
+EUELPIDES  
+ But how can we have a finely ordered state  
+ where a female goddess stands there fully armed,                                        
+ while Cleisthenes still fondles weaving shuttles.[^note-147]  
+
+PISTHETAIROS  
+ Well, who will hold our city’s strong Storkade?
+
+CHORUS LEADER  
+ A bird among us of a Persian breed—  
+ it’s said to be the fiercest anywhere  
+ of all the war god’s chicks.  
+
+EUELPIDES  
+ Some princely cocks?
+ They’re just the gods to live among the rocks!  
+
+PISTHETAIROS [to Euelpides]  
+ Come now, you must move up into the air,                                        
+ and help the ones who’re building up the wall—  
+ hoist rubble for ’em, strip and mix the mortar,  
+ haul up the hod, and then fall off the ladder.                                                     
+ Put guards in place, and keep all fires concealed.  
+ Make your inspection rounds holding the bell.[^note-148]  
+ Go to sleep up there. Then send out heralds—  
+ one to gods above, one down to men below.  
+ And then come back from there to me.  
+
+EUELPIDES  
+ And you?
+ You’ll stay here? Well, to hell with you . . .  
+
+PISTHETAIROS  
+ Hey, my friend,  
+ you should go where I send you—without you                    
+ none of that work I mentioned will get done.  
+ We need a sacrifice to these new gods.  
+ I’ll call a priest to organize the show.  
+
+[Euelpides exits. Pisthetairos calls to the slaves through the doors of Tereus’ house]  
+
+ You, boy, pick up the basket, and you,  
+ my lad, grab up the holy water.                                                                                        
+
+[Pisthetairos enters the house. As the Chorus sings, the slaves emerge and prepare for the sacrifice. 
+The Chorus is accompanied by a raven playing the pipes]  
+
+CHORUS  
+ I think it’s good and I agree,  
+ your notions here are fine with me,  
+ a great big march with dancing throngs  
+ and to the gods send holy songs,  
+ and then their benefits to keep                                   
+ we’ll sacrifice a baby sheep—  
+ let go our cry, the Pythian shout,  
+ while Chaeris plays our chorus out.  
+
+[The Raven plays erratically on the pipe. Pisthetairos comes out of the house. He brings a priest with him, 
+who is leading a small scrawny goat for the sacrifice]  
+
+PISTHETAIROS [to the Raven]  
+ Stop blowing all that noise! By Hercules,  
+ what’s this? I’ve seen some strange things, heaven knows,                   
+ but never this—a raven with a pipe  
+ shoved up his nose. Come on, priest, work your spell,  
+ and sacrifice to these new gods as well.  
+
+PRIEST  
+ I’ll do it. But where’s the basket-bearing boy?
+
+[The slave appears with the basket]  
+
+ Let us now pray to Hestia of the birds,[^note-149]                                                    
+ and to the Kite that watches o’er the hearth,  
+ to all Olympian birds and birdesses . . .  
+
+PISTHETAIROS [to himself]  
+ O Hawk of Sunium, all hail to you,  
+ Lord of the Sea . . .  
+
+PRIEST  
+ And to the Pythian Swan of Delos—  
+ let’s pray to Leto, mother of the quail                                                                        
+ to Artemis the Goldfinch . . .  
+
+PISTHETAIROS  
+ Ha! No more goddess  
+ of Colaenis now, but goldfinch Artemis . . .  
+
+PRIEST  
+ . . . to Sabazdios, Phrygian frigate bird,  
+ to the great ostrich mother of the gods                       
+ and of all men . . .  
+
+PISTHETAIROS  
+ . . . to Cybele, our ostrich queen,  
+ mother of Cleocritos[^note-150]   . . .  
+
+PRIEST  
+ . . . may they give  
+ to all Cloudcuckooites security,  
+ good health, as well—and to the Chians, too.[^note-151]  
+
+PISTHETAIROS  
+ I do like that—the way those Chians                                                                           
+ always get tacked on everywhere—  
+
+PRIEST  
+         . . . to Hero birds, and to their chicks,  
+ to Porphyrions and Pelicans,  
+ both white and grey, to Raptor-birds and Pheasants,  
+ Peacocks and Warblers . . .  
+
+[The Priest starts to get carried away]  
+  
+ . . . Ospreys and Teals  
+ Herons and Gannets, Terns, small Tits, big Tits, and . . .  
+
+PISTHETAIROS [interrupting]  
+ Hold on, dammit—stop calling all these birds.  
+ You idiot! In what sort of sacrifice                                                                                 
+ does one call for ospreys and for vultures?
+ Don’t you see—one kite could snatch this goat,  
+ then carry it away? Get out of here,  
+ you and your garlands, too. I’ll do it myself—  
+ I’ll offer up this beast all on my own.  
+
+[Pisthetairos pushes the Priest away. Exit Priest]  
+
+CHORUS  
+ Now once again I have to sing  
+ a song to purify you all,  
+ a holy sacred melody.                                                                                   
+ The Blessed Ones I have to call—  
+ but if you’re in a mood to eat  
+ we just need one and not a score  
+ for here our sacrificial meat                                                                                  
+ is horns and hair, and nothing more.  
+
+PISTHETAIROS  
+ Let us pray while we make sacrifice  
+ to our feathery gods . . . [raises his eyes to sky and shuts his eyes]  
+
+[A poet suddenly bursts on the scene reciting his verses as he enters]  
+
+POET [reciting]  
+ O Muse, in your songs sing the renown  
+ of Cloudcuckooland—this happy town . . .  
+
+PISTHETAIROS  
+ Where’d this thing come from? Tell me—who are you?                      
+
+POET  
+ Me? I’m a sweet tongued warbler of the words—  
+ a nimble servant of the Muse, as Homer says.                                                  
+
+PISTHETAIROS  
+ You’re a slave and wear your hair that long?
+
+POET  
+ No, but all poets of dramatic songs  
+ are nimble servants of the Muse, as Homer says.  
+
+PISTHETAIROS  
+ No doubt that’s why your nimble cloak’s so thin.  
+ But, oh poet, why has thou come hither?
+
+POET  
+ I’ve been making up all sorts of splendid songs  
+ to celebrate your fine Cloudcuckoolands—  
+ dithyrambs and virgin songs and other tunes                      
+ after the style of that Simonides.[^note-152]  
+
+PISTHETAIROS  
+ When did you compose these tunes? Some time ago?                                      
+
+POET  
+ O long long ago—yes, I’ve been singing  
+ the glory of this town for years.  
+
+PISTHETAIROS  
+ Look here—  
+ I’ve just been making sacrifice today—  
+ the day our city gets its name. What’s more,  
+ it’s only now, as with a new-born child,  
+ I’ve given it that name.  
+
+POET  
+ Ah yes, but Muses’ words are swift indeed—  
+ like twinkling hooves on rapid steeds.  
+ So thou, oh father, first of Aetna’s kings,                                                
+ whose name means lots of holy things,  
+ present me something from thy grace  
+ whate’er you wish, just nod your face.[^note-153]                                                                     
+
+PISTHETAIROS  
+ This fellow here is going to give us trouble—  
+ unless we can escape by giving something.  
+
+[Calling one of the slaves]  
+
+ You there with the tunic and the jerkin on.  
+ Strip off the leather jerkin. Give it up  
+ to this master poet. Take this jerkin.  
+ You look as if you’re really freezing cold.  
+
+POET  
+ The darling Muse accepts the gift                                         
+ and not unwillingly—  
+ But now your wit should get a lift  
+ from Pindar’s words which . . .  
+
+PISTHETAIROS  
+ This fellow’s never going to go away!                                                                         
+
+POET [making up a quotation]  
+         “Out there amid nomadic Scythians,  
+ he wanders from the host in all his shame,  
+ he who has no woven garment shuttle-made—  
+ a jerkin on, but no tunic to his name.”  
+ I speak so you can understand.  
+
+PISTHETAIROS  
+ Yes, I get it—you want the tunic, too.                                                        
+         [To the slave] Take it off. We must assist our poets.  
+ Take it and get out.  
+
+POET  
+I’m on my way—  
+ But as I go I’ll still make songs like these  
+ in honour of your city—  
+         “O thou sitting on a golden throne,                                                                             
+ sing to celebrate that shivering, quivering land.  
+ I walked its snow-swept fruitful plains . . .”  
+
+[At this point Pisthetairos has had enough. He grabs the poet and throws him into the wings]  
+
+POET [as he exits]  
+ Aaaaiiiii!  
+
+PISTHETAIROS [calling after him]  
+ Well, by Zeus, at least you’ve now put behind  
+ the cold, since you’ve got that little tunic on!  
+ God knows, that’s a problem I’d not thought about—              
+ he learned about our city here so fast.  
+ [resuming the sacrifice] Come, boy, pick up the holy water  
+ and walk around again. Let everyone  
+ observe a sacred holy silence now . . .  
+
+[Enter an Oracle Monger, quickly interrupting the ceremony. He is carrying a scroll]  
+
+ORACLE MONGER  
+ Don’t sacrifice that goat!  
+
+PISTHETAIROS  
+ What? Who are you?
+
+ORACLE MONGER  
+ Who am I? I’m an oracular interpreter.  
+
+PISTHETAIROS  
+ To hell with you!                                                                                                                              
+
+ORACLE MONGER  
+Now, now, my dear good man,  
+ don’t disparage things divine. You should know  
+ there’s an oracle of Bacis which speaks  
+ of your Cloudcuckooland—it’s pertinent.                                              
+
+PISTHETAIROS  
+ Then how come you didn’t talk to me  
+ about this prophecy some time before  
+ I set my city here?
+
+ORACLE MONGER  
+I could not do that—  
+ powers divine held me in check.  
+
+PISTHETAIROS  
+ Well, I guess  
+ there’s nothing wrong in listening to it now.  
+
+ORACLE MONGER [unrolling the scroll and reading from it]  
+ “Once grey crows and wolves shall live together  
+ in that space between Corinth and Sicyon . . .”  
+
+PISTHETAIROS  
+ What my connection to Corinthians?
+
+ORACLE MONGER  
+ Its Bacis’ cryptic way of saying “air.”                                                                            
+ “First sacrifice to Pandora a white-fleeced ram.                              
+ Whoever first comes to prophesy my words,  
+ let him receive a brand new cloak and sandals.”  
+
+PISTHETAIROS  
+ Are sandals in there, too?
+
+ORACLE MONGER [showing the scroll]  
+ Consult the book.  
+ “Give him the bowl, fill his hands full with offal . . .”  
+
+PISTHETAIROS  
+ The entrails? Does it says that in there?
+
+ORACLE MONGER  
+ Consult the book. “Inspired youth,  
+ if thou dost complete what here I do command,  
+ thou shalt become an eagle in the clouds—if not,  
+ if thou will not give them me, you’ll ne’er become              
+ an eagle, or a turtle dove, or woodpecker.”  
+
+PISTHETAIROS  
+ That’s all in there, as well?
+
+ORACLE MONGER  
+ Consult the book.                                                                            
+
+PISTHETAIROS [pulling out a sheet of paper from under his tunic]  
+ Your oracle is not at all like this one—  
+ Apollo’s very words. I them wrote down.  
+ “When an impostor comes without an invitation—  
+ a cheating rogue—and pesters men at sacrifice,  
+ so keen is he to taste the inner parts, well then,  
+ he must be beaten hard between the ribs . . .”  
+
+ORACLE MONGER  
+ I don’t think you’re reading that.  
+
+PISTHETAIROS  
+ Consult the book.  
+ “Do not spare him, even if he’s way up there,                                   
+ an eagle in the clouds, or if he’s Lampon  
+ or great Diopeithes in the flesh.”[^note-154]  
+
+ORACLE MONGER  
+ That’s not in there, is it?
+
+PISTHETAIROS  
+ Consult the book.  
+ Now, get out! To hell with you . . .  
+
+{Pisthetairos beats the Oracle Monger off stage, hitting him with the scroll]  
+
+ORACLE MONGER  
+ Ooooh . . . poor me! [Exit]                             
+
+PISTHETAIROS  
+ Run off and do your soothsaying somewhere else!  
+
+[Enter Meton, carrying various surveying instruments, and wearing soft leather buskin boots][^note-155]  
+
+METON  
+ I have come here among you all . . .  
+
+PISTHETAIROS  
+ Here’s more trouble.  
+ And what have you come here to do? Your scheme—  
+ what’s it look like? What do you have in mind?
+ Why hike up here in buskin?
+
+METON  
+ I intend  
+ to measure out the air for you—dividing it                          
+ in surveyed lots.  
+
+PISTHETAIROS  
+ For heaven’s sake,  
+ who are you?
+
+METON [shocked]  
+ Who am I? I’m Meton—  
+ famous throughout Greece and Colonus.[^note-156]  
+
+PISTHETAIROS  
+ What are these things you’ve got?
+
+METON  
+ Rods to measure air.  
+ You see, the air is, in its totality,                                                                                     
+ shaped like a domed pot cover . . . Thus . . . and so,  
+ from up above I’ll lay my ruler . . . it bends . . . thus . . .  
+ set my compass inside there . . . You see?
+
+PISTHETAIROS  
+ I don’t get it.  
+
+METON  
+ With this straight ruler here  
+ I measure this, so that your circle here                                
+ becomes a square—and right in the middle there  
+ we have a market place, with straight highways  
+ proceeding to the centre, like a star,  
+ which, although circular, shines forth straight beams  
+ in all directions . . . Thus . . .  
+
+PISTHETAIROS  
+ This man’s a Thales[^note-157]  
+ Now, Meton . . .  
+
+METON  
+What?
+
+PISTHETAIROS  
+You know I love you—                                                   
+ so do as I say and head out of town.  
+
+METON  
+ Am I in peril?
+
+PISTHETAIROS  
+ It’s like in Sparta—  
+ they’re kicking strangers out—lots of trouble—  
+ plenty of beatings on the way through town.                                     
+
+METON  
+ You mean a revolution?
+
+PISTHETAIROS  
+ God no, not that.  
+
+METON  
+ Then what?
+
+PISTHETAIROS  
+ They’ve reached a firm decision—  
+ it was unanimous—to punch out every quack.  
+
+METON  
+ I think I’d best be off.  
+
+PISTHETAIROS  
+You should, by god,  
+ although you may not be in time—the blows  
+ are coming thick and fast . . .  
+
+[Pisthetairos starts hitting Meton]  
+
+METON [running off]  
+ O dear me . . . I’m in a pickle.  
+
+[Exit Meton. Pisthetairos yells after him]  
+
+PISTHETAIROS  
+ Didn’t I say that some time ago?
+ Go somewhere else and do your measuring!                                                      
+
+[Enter an Athenian Commissioner. He is carrying voting urns. He is dressed in an extravagantly official costume][^note-158]  
+
+COMMISSIONER  
+ Where are your honorary governors?
+
+PISTHETAIROS  
+ Who is this man—a Sardanapallos?[^note-159]                                                            
+
+COMMISSIONER  
+ I have come here to Cloudcuckooland  
+ as your Commissioner—I was picked by lot.  
+
+PISTHETAIROS  
+ As Commissioner? Who sent you here?
+
+COMMISSIONER  
+ Some dreadful paper from that Teleas.[^note-160]  
+
+PISTHETAIROS  
+ How’d you like to receive your salary  
+ and leave, without doing anything?
+
+COMMISSIONER  
+ By god,  
+ that would be nice. I should be staying at home  
+ for the assembly. I’ve been doing some work  
+ on Pharnakes’ behalf.[^note-161]  
+
+PISTHETAIROS  
+Then take your fee  
+ and go. Here’s what you get . . . [strikes him]  
+
+COMMISSIONER  
+ What was that?                                                     
+
+PISTHETAIROS  
+ A motion on behalf of Pharnakes.                                                                                
+
+[Pisthetairos strikes him again]  
+
+COMMISSIONER  
+ I call on witnesses—he’s hitting me—  
+ He can’t do that—I’m a Commissioner!  
+
+[Exit the Commissioner, on the run. Pisthetairos chases him]  
+
+PISTHETAIROS  
+ Piss off! And take your voting urns with you!  
+ Don’t you find it weird? Already they’ve sent out  
+ Commissioners to oversee the city,  
+ before we’ve made the gods a sacrifice.  
+
+[Enter a Statute-Seller reading from a long scroll]  
+
+STATUTE SELLER  
+         “If a resident of Cloudcuckooland  
+ should wrong a citizen of Athens . . .”  
+
+PISTHETAIROS  
+ Here come scrolls again—what’s the trouble now?                      
+
+STATUE SELLER  
+ I’m a statute seller—and I’ve come here  
+ to sell you brand-new laws.  
+
+PISTHETAIROS  
+ What laws?
+
+STATUTE SELLER  
+Like this—  
+ “Residents of Cloudcuckooland must use                                                               
+ the same weights and measures and currency  
+ as those in Olophyxia.”[^note-162]  
+
+PISTHETAIROS [kicking him in the bum]  
+ Soon enough  
+ you’ll use them on your ass, you Fix-your-Holean!!  
+
+STATUTE SELLER  
+ What’s up with you?
+
+PISTHETAIROS  
+Take your laws and shove off!  
+ Today I’ll give you laws you really feel!  
+
+[Statute Seller runs off. The Commissioner enters from the other side, behind Pisthetairos]  
+
+COMMISSIONER [reading from a paper]  
+ “I summon Pisthetairos to appear in court  
+ in April on a charge of official outrage . . .”                                         
+
+PISTHETAIROS [turning]  
+ Really? You again! Why are you still here?
+
+[Pisthetairos chases the Commissioner off again. The Statute Seller then re-appears on the other side, 
+also reading from a paper]  
+
+STATUTE SELLER  
+ “If anyone chases off court officers  
+ and won’t receive them as the law decrees . . .”                                               
+
+PISTHETAIROS [turning]  
+ This is getting really bad—you still here?
+
+[Pisthetairos chases off the Statute Seller. The Commissioner re-appears on the other side of the stage]  
+
+COMMISSIONER  
+ I’ll ruin you! I’ll take you to court—  
+ ten thousand drachmas you’ll . . .  
+
+PISTHETAIROS: [turning and chasing the Commissioner off stage]  
+ And I’ll throw out those voting urns of yours!  
+
+STATUTE SELLER [reappearing]  
+ Have you any memory of those evenings  
+ when you used to shit on public pillars  
+ where our laws are carved?                                                                                    
+
+[The Statute Seller turns his back on Pisthetairos, lifts up his tunic, and farts at him]  
+
+PISTHETAIROS [reacting to the smell]  
+ Oh god! Someone grab him.  
+
+[The slaves try to catch the Statute Seller but he runs off. Pisthetairos calls after him]  
+
+ Not going to stick around?
+[to slaves] Let’s get out of here—and fast. Go inside.  
+We’ll sacrifice the goat to the gods in there.  
+
+[Pisthetairos and the slaves to inside the house]  
+
+CHORUS  
+ All mortal men commencing on this day  
+ at every shrine will sacrifice to me,  
+ from now on offering me the prayers they say,                                               
+ for I control them all and everything I see.  
+ I watch the entire world, and I protect  
+ the growing crops, for I have power to kill  
+ the progeny of all the world’s insects,                                                        
+ whose all-devouring jaws would eat their fill  
+ of what bursts out from seeds on ground below,  
+ or fruit above for those who lodge in trees.  
+ I kill the ones who, as the greatest foe,  
+ in sweet-smelling gardens cause great injuries  
+ All living beasts that bite and crawl  
+ are killed—my wings destroy them all.                                                                    
+
+CHORUS LEADER  
+ This public notice has been proclaimed today:  
+ the man who kills Diagoras the Melian  
+ will receive one talent—and if one of you                           
+ assassinates some tyrant long since dead and gone,  
+ he, too, will get one talent. So now, the birds, as well,  
+ wish to make the same announcement here. Anyone  
+ who kills Philocrates the Sparrowman will get  
+ one talent—and if he brings him in alive,  
+ he’ll get four.[^note-163]   That man strings finches up together,  
+ then sells ‘em—a single obol gets you seven.  
+ He injures thrushes by inflating them with air                                                  
+ then puts them on display. And he stuff feathers  
+ up the blackbird’s nose. He captures pigeons, too,                      
+ keeps them locked up, and forces them to work for him,  
+ tied up as decoy birds, underneath his nets.  
+ We wish to make this known to you. If anyone  
+ is keeping birds in cages in your courtyards,  
+ we tell you, “Let them go.” If you don’t obey,  
+ you, in your turn, will be arrested by the birds,  
+ tied up and forced to work as decoys where we live.  
+
+CHORUS  
+ O happy tribes  
+ of feathered birds—  
+ we never need                                                             
+ a winter cloak.                                                                                                                    
+ In summer days  
+ the sun’s far rays  
+ don’t injure us.  
+ I live at ease  
+ among the leaves  
+ in flowery fields.  
+ In love with sun  
+ cicadas sing  
+ through noonday heat                                                 
+ their sharp-toned song  
+ divinely sweet.  
+ In winter caves  
+ and hollow spots  
+ I play all day  
+ with mountain nymphs.  
+ In spring we eat  
+ white myrtle buds,  
+ our virgin treat,  
+ in garden places                                                          
+ of the Graces.                                                                                                                       
+
+CHORUS LEADER  
+ We want to speak to all the judges here  
+ about our victory—the splendid things  
+ we’ll give them if their verdict goes our way—  
+ how they’ll get much lovelier gifts than those  
+ which Alexander got.[^note-164]   And first of all,  
+ what every judge is really keen to have,  
+ some owls of Laureium who’ll never leave.[^note-165]  
+ They’ll nest inside your homes, hatch in your purse,  
+ and always breed small silver change. And then,                           
+ as well as this, you’ll live in temple-homes.  
+ The birds will make your roof tops eagle-style,                                                
+ with pediments.[^note-166]   If you hold some office,  
+ a minor post, and wish to get rich quick,  
+ we’ll set a sharp-beaked falcon in your hands.  
+ And if you need to eat, then we’ll dispatch  
+ a bird’s crop, where it keep its stored-up food.  
+ If you don’t vote for us, you should prepare  
+ some little metal plates to guard your head.  
+ You’ll need to wear them, just like statues do.                                  
+ For those of you without that head plate on,        
+ when you dress up in fine white brand-new clothes,  
+ the birds will crap on as a punishment.  
+
+[Enter Pisthetairos from the house]  
+
+PISTHETAIROS  
+ You birds, we’ve made a splendid sacrifice.  
+ But why is there still no messenger  
+ arriving from the walls to bring us news                                                                 
+ of what’s going on up there? Ah, here comes one,  
+ panting as if he’d run across that stream  
+ at Elis where Olympian athletes race.  
+
+[Enter First Messenger, out of breath]  
+
+FIRST MESSENGER [he doubles up and can hardly speak]  
+ Where is . . . Where is he . . . where . . . where is . . .                      
+ where . . . where . . . where . . . our governor Pisthetairos?
+
+PISTHETAIROS  
+ I’m here.  
+
+FIRST MESSENGER  
+ The building of your wall . . . it’s done.  
+
+PISTHETAIROS  
+ That’s great news.  
+
+FIRST MESSENGER  
+ The result—the best there is . . .  
+ the most magnificent . . . so wide across . . .  
+ that Proxenides of Braggadocio  
+ and Theogenes could drive two chariots  
+ in opposite directions past each other  
+ along the top, with giant horses yoked,  
+ bigger than that wooden horse at Troy.  
+
+PISTHETAIROS [genuinely surprised]  
+ By Hercules!  
+
+FIRST MESSENGER  
+ I measured it myself— 1450            
+ its height—around six hundred feet.  
+
+PISTHETAIROS  
+ Wow!  
+ By Poseidon, that’s some height! Who built the wall  
+ as high as that?
+
+FIRST MESSENGER  
+ The birds—nobody else.  
+ No Egyptian bore the bricks—no mason,  
+ no carpenter was there. They worked by hand—  
+ I was amazed. Thirty thousand cranes flew in  
+ from Lybia—they brought foundation stones  
+ they’d swallowed down. The corn crakes chipped away  
+ to form the proper shapes. Ten thousand storks  
+ brought bricks. Lapwings and other river birds                    
+ fetched water up into the air from down below.                                             
+
+PISTHETAIROS  
+ Who hauled the mortar up there for them?
+
+FIRST MESSENGER  
+ Herons—  
+ they carried hods.  
+
+PISTHETAIROS  
+ How’d they load those hods?
+
+FIRST MESSENGER  
+ My dear man, that was the cleverest thing of all.  
+ Geese shoved their feet into the muck and slid them,  
+ just like shovels, then flicked it in the hods.  
+
+PISTHETAIROS  
+ Is there anything we can’t do with our feet?
+
+FIRST MESSENGER: Then, by god, the ducks, with slings attached  
+ around their waists, set up the bricks. Behind them  
+ flew the swallows, like young apprentice boys, 1470            
+ with trowels—they carried mortar in their mouths.  
+
+PISTHETAIROS  
+ Why should we hire wage labour any more?
+ Go on—who finished off the woodwork on the wall?
+
+FIRST MESSENGER  
+ The most skilled craftsmen-birds of all of ‘em—  
+ woodpeckers. They pecked away to make the gates—  
+ the noise those peckers made—an arsenal!  
+ Now the whole thing has gates. They’re bolted shut  
+ and guarded on all sides. Sentries make rounds,  
+ patrolling with their bells, and everywhere                                                          
+ troops are in position, with signal fires                                
+ on every tower. But I must go now—  
+ I need to wash. You’ll have to do the rest.  
+
+[Exit First Messenger]  
+
+CHORUS LEADER  
+ What’s up with you? Aren’t you astonished  
+ to hear the wall’s been finished up so fast?
+
+PISTHETAIROS  
+ Yes, by gods, I am. It is amazing!  
+ To me it sounds just like some made-up lie.  
+ But here comes a guard from there—he’ll bring news  
+ to us down here of what’s going on up top.  
+ He face looks like a dancing warrior’s.  
+
+[Enter the Second Messenger in a great panic and out of breath]  
+
+SECOND MESSENGER  
+ Hey . . . hey . . . Help . . . hey you . . . help! 1490            
+
+PISTHETAIROS  
+ What’s going on?
+
+SECOND MESSENGER  
+We suffered something really bad . . .  
+ one of the gods from Zeus has just got through,  
+ flown past the gates into the air, slipping by  
+ the jackdaw sentinels on daytime watch.  
+
+PISTHETAIROS  
+ That’s bad! A bold and dangerous action.  
+ Which god was it?
+
+SECOND MESSENGER  
+We’re not sure. He had wings—  
+ we do know that.  
+
+PISTHETAIROS  
+You should have sent patrols  
+ of frontier guards out after him without delay.  
+
+SECOND MESSENGER  
+ We did dispatch the mounted archers—  
+ thirty thousand falcons, all moving out 1500            
+ with talons curved and ready—kestrels, buzzards,  
+ vultures, eagles, owls—the air vibrating  
+ with the beat and rustle of their wings,  
+ as they search out that god. He’s not far off—  
+ in fact, he’s here somewhere already.  
+
+[Exit Second Messenger]  
+
+PISTHETAIROS  
+ We’ll have to get our sling-shots out—and bows.  
+ All you orderlies come here! Fire away!  
+ Strike out! Someone fetch a sling for me!  
+
+[Xanthias and Manodorus enter with slings and bows. The group huddles together with weapons ready]  
+
+CHORUS [in grand epic style]  
+ And now the combat starts, a strife beyond all words,  
+ me and the gods at war. Let everyone beware, 1510             
+ protect the cloud-enclosing air, which Erebus  
+ gave birth to long ago. Make sure no god slips through  
+ without our catching sight of him. Maintain your watch  
+ on every side—already I can hear close by  
+ the sound of beating wings from some god in the sky.  
+
+[Enter Iris, in long billowing dress and with a pair of wings. She descends from above, suspended by 
+a cable and hovering in mid-air flapping her wings]  
+
+PISTHETAIROS  
+ Hey, you—just where do you think you’re flying?
+ Keep still. Stay where you are. Don’t move. Stop running.                               
+ Who are you? Where you from? You’ve got to tell me.  
+ Where’d you come from?
+
+IRIS  
+ I’m from the Olympian gods.  
+
+PISTHETAIROS  
+ You got a name? You look like a ship up there—                
+ the Salaminia or the Paralos.[^note-167]  
+
+IRIS  
+ I’m fast Iris.  
+
+PISTHETAIROS  
+ Fast as in a boat or fast as in a bitch?
+
+IRIS  
+ What is all this?
+
+PISTHETAIROS  
+Is there a buzzard here  
+ who’ll fly up there to arrest this woman?
+
+IRIS  
+ Arrest me? Why are you saying such rubbish?
+
+PISTHETAIROS [making at attempt to hit Iris by swinging his sling]  
+ You’re going to be very sorry about this.  
+
+IRIS  
+ This whole affair is most unusual.  
+
+PISTHETAIROS  
+ Listen, you silly old fool, what gates  
+ did you pass through to get by the wall?
+
+IRIS  
+ What gates?
+ By god, I don’t have the least idea. 1530            
+
+PISTHETAIROS  
+ Listen to her—how she feigns ignorance!  
+ Did you go past the jackdaw generals?
+ You won’t answer that? Well then, where’s your pass,  
+ the one the storks give out?
+
+IRIS  
+ What’s wrong with you?
+
+PISTHETAIROS  
+ You don’t have one, do you?
+
+IRIS  
+ Have you lost your wits?
+
+PISTHETAIROS  
+ Didn’t some captain of the birds up there  
+ stick a pass on you?
+
+IRIS  
+ By god no, no one up there  
+ made a pass or shoved his stick at me, you wretch.  
+
+PISTHETAIROS  
+ So you just fly in here, without a word,  
+ going through empty space and through a city                    
+ which don’t belong to you?
+
+IRIS  
+ What other route  
+ are gods supposed to fly?
+
+PISTHETAIROS  
+I’ve no idea.  
+ But, by god, not this way. It’s not legal.                                                                   
+ Right now you’re in breach of law. Do you know,  
+ of all the Irises there are around,  
+ if you got what you most deserve, you’d be  
+ the one most justly seized and sent to die.  
+
+IRIS  
+ But I’m immortal.  
+
+PISTHETAIROS  
+ In spite of that,  
+ you would have died. For it’s obvious to me  
+ that we’d be suffering the greatest injury,                                              
+ if, while we rule all other things, you gods  
+ do just what you like and won’t recognize  
+ how you must, in your turn, attend upon  
+ those more powerful than you. So tell me,  
+ where are you sailing on those wings of yours?
+
+IRIS  
+ Me? I’m flying to men from father Zeus,                                                                
+ instructing them to sacrifice some sheep  
+ to the Olympian gods on sacred hearths—  
+ and fill their streets with smells of offerings.  
+
+PISTHETAIROS  
+ Who are you talking about? Which gods?                                              
+
+IRIS  
+ Which gods? Why us of course—the gods in heaven.  
+
+PISTHETAIROS  
+ And you’re the gods?
+
+IRIS  
+ Are there any other deities?
+
+PISTHETAIROS  
+ The birds are now men’s gods—and to the birds  
+ men must now sacrifice and not, by god, to Zeus.  
+
+IRIS [in the grand tragic style]  
+ Thou fool, thou fool, stir not the awesome minds of gods,  
+ lest Justice with the mighty mattock of great Zeus                                        
+ destroy your race completely—and smoke-filled flames  
+ from Licymnian lightning bolts burn into ash  
+ your body and your home . . .  
+
+PISTHETAIROS [interrupting]  
+ Listen, woman—stop your spluttering.  
+ Just keep still. Do you think you’re scaring off                    
+ some Lydian or Phrygian with such threats?
+ You should know this—if Zeus keeps on annoying me,  
+ I’ll burn his home and halls of Amphion,  
+ reduce them all to ash with fire eagles.  
+ I’ll send more than six hundred birds—porphyrions  
+ all dressed in leopard skins, up there to heaven,                                            
+ to war on him. Once a single porphyrion  
+ caused him distress enough.[^note-168]   And as for you,  
+ if you keep trying to piss me off, well then,  
+ I’ll deal with Zeus’ servant Iris first—                                   
+ I’ll fuck your knickers off—you’d be surprised  
+ how hard an old man’s prick like mine can be—  
+ it’s strong enough to ram your hull three times.  
+
+IRIS  
+ Blast you, you wretch, and your obscenities!  
+
+PISTHETAIROS  
+ Go way! Get a move on! Shoo!  
+
+[Iris begins to move up and away]  
+
+IRIS  
+ My father  
+ won’t stand for insolence like this—he’ll stop you!  
+
+PISTHETAIROS  
+ Just go away, you silly fool! Fly off                                                                                
+ and burn someone to ashes somewhere else.  
+
+[Exit Iris]  
+
+CHORUS  
+ On Zeus’ family of gods we’ve shut our door—  
+ they’ll not be passing through my city any more.                          
+ Nor will men down below in future time invoke  
+ the gods by sending them their sacrificial smoke.  
+
+PISTHETAIROS  
+ Something’s wrong. That messenger we sent,  
+ the one that went to human beings, what if  
+ he never gets back here again?                                                                                         
+
+[Enter First Herald, a bird, carrying a golden crown]  
+
+FIRST HERALD  
+ O Pisthetairos, you blessed one,  
+ wisest and most celebrated of all men . . .  
+ the cleverest and happiest . . . trebly blest . . .        
+         [He’s run out of adjectives] . . . Speak something to me . . .  
+
+ PISTHETAIROS  
+What are you saying?
+
+FIRST HERALD [offering Pisthetairos the golden crown]  
+ All people, in honour of your wisdom,                                                     
+ crown you with this golden diadem.  
+
+PISTHETAIROS [putting on the crown]  
+ I accept.  
+ But why do people honour me so much?
+
+FIRST HERALD  
+ O you founder of this most famous town,  
+ this city in the sky, do you not know  
+ how much respect you have among all men,  
+ how many men there are who love this place?
+ Before you built your city in the air,                                                                            
+ all men were mad for Sparta—with long hair,  
+ they went around half starved and never washed,  
+ like Socrates—and carrying knobbed sticks.                                       
+ But now they’ve all completely changed—these days  
+ they’re crazy for the birds. For sheer delight  
+ they imitate the birds in everything.  
+ Early in the day when they’ve just got up,  
+ like us, they all flock to feed together,  
+ but on their laws, browsing legal leaflets,  
+ nibbling their fill of all decrees. So mad  
+ have they become for birds that many men                                                        
+ have had the names of birds assigned to them.  
+ One lame tradesman now is called the Partridge.                         
+ And Melanippus’ name is changed to Swallow,[^note-169]  
+ Opuntius the Raven with One Eye.  
+ Philocles becomes the Lark, and Sheldrake  
+ is now Teagenes’ name. Lycurgus  
+ has become the Ibis, Chaerephon the Bat,  
+ Syracosius the Jay, and Meidias  
+ is now named the Quail—he looks like one  
+ right after the quail flicker’s tapped its head.[^note-170]  
+ They’re so in love with birds they all sing songs                                              
+ with lines about a swallow or a duck,                                                         
+ or goose, some kind of pigeon, or just wings,  
+ even about some tiny bits of feather.  
+ That what’s going on down there. I tell you,  
+ more than ten thousand men are coming here,  
+ demanding wings and talons in their lives.  
+ You’ve got to find a way to get some wings  
+ for your new colonists and settlers.  
+
+[Exit First Herald]  
+
+PISTHETAIROS  
+ All right, by god, this is no time for us  
+ to just stand around. [To a slave] You, get inside there—  
+ fill all the crates and baskets up with feathers.1640            
+ Get on with it as fast as possible.  
+ Let Manes haul the wings out here to me.[^note-171]  
+ I’ll welcome those who come from down below.  
+
+[Xanthias and Manodoros go inside the house and start bringing out baskets of feathers]  
+
+CHORUS  
+ Our city soon will have a reputation  
+ for a large and swelling population.  
+
+PISTHETAIROS  
+ Just let our luck hold out!  
+
+CHORUS  
+ Our city here inspires so much love . . .  
+
+PISTHETAIROS [to Manodoros, who is bringing out a basket]  
+ I’m telling you you’ve got to bring it fast!  
+
+CHORUS  
+ For what do we not have here up above  
+ which any men require in their places?                                                    
+ Desire, Wisdom, and eternal Graces—  
+ we’ve got them all and what is still the best—  
+ the happy face of gentle peaceful Rest.  
+
+PISTHETAIROS [to Manes who is taking his time bringing out more baskets]  
+ God, you’re a lazy slave—move it! Faster!  
+
+CHORUS  
+ Let him bring the wings in baskets on the go—  
+ then once more run at him—give him a blow.  
+ The lad is like a donkey—he’s that slow.  
+
+PISTHETAIROS [frantically sorting feathers]  
+ Yes, that Manes is a useless slave.  
+
+CHORUS  
+ Now first of all you need to sort                                                                                      
+ these wings all out for each cohort—                                   
+ musical wings and wings of seers,  
+ wings for the sea. You must be clear—  
+ you need to look at all such things  
+ when you give every man his wings.  
+
+[Manes comes out with a basket, again moving very slowly]  
+
+PISTHETAIROS [going at Manes and grabbling him]  
+ By the kestrels, I can’t stop grabbing you—  
+ when I see how miserably slow you are.  
+
+[Manes twists loose and runs back into the house. A young man enters singing]  
+
+YOUNG MAN [singing]  
+ Oh, I wish I could an eagle be  
+ soaring high above the barren sea,  
+ the grey-blue ocean swell so free.  
+
+PISTHETAIROS  
+ It looks like our messenger told us the truth—                    
+ here comes someone singing that eagle-song.  
+
+YOUNG MAN  
+ Damn it—there’s nothing in the world as sweet  
+ as flying . . .  
+
+<PISTHETAIROS  
+ You’ve come to get some wings from us, I guess.[^note-172]  >
+
+YOUNG MAN  
+ Yes, I’m in love with all your birdy ways—  
+ I want to live with you and fly. Besides,  
+ I think your laws are really keen.  
+
+PISTHETAIROS  
+ What laws? The birds have many laws.  
+
+YOUNG MAN  
+ All of them—but I really like that one  
+ which says it’s all right for a younger bird  
+ to beat up his old man and strangle him.                                               
+
+PISTHETAIROS  
+ Yes, by god, we think it very manly  
+ when a bird, while still a chick, beats up his dad.                                           
+
+YOUNG MAN  
+ That’s why I want to re-locate up here—  
+ I’d love to choke my father, get all his stuff.  
+
+PISTHETAIROS  
+ But there’s an ancient law among the birds—  
+ inscribed in stone on tablets of the storks,  
+         “When father stork has raised up all his young,  
+ when they are set to fly out of the nest,  
+ then young storks must, in their turn, care for him.”  
+
+YOUNG MAN  
+ So coming here has been no use, by god,                                              
+ if I’ve now got to feed my father, too.  
+
+PISTHETAIROS  
+ No, no. My dear young man, since you came here                                      
+ in all good faith, I’ll fix you up with wings  
+ just like an orphan bird.[^note-173]   And I’ll give you  
+ some fresh advice—something I learned myself  
+ when I was just a lad. Don’t thump your dad.  
+
+[Pisthetairos starts dressing the boy as a bird as he says the following lines]  
+
+ Take this wing here, and in your other hand  
+ hold this spur tight. Think of this crest on top  
+ as from a fighting cock. Then stand your guard,  
+ go on a march, live on a soldier’s pay—                              
+ and let your father live. You like to fight,  
+ so fly away to territories in Thrace,  
+ and do your fighting there.  
+
+YOUNG MAN  
+ By Dionysus,  
+ I think the advice you give is good.                                                                              
+ I’ll do just what you say.  
+
+PISTHETAIROS  
+ And now, by Zeus,  
+ you’re talking sense.  
+
+[Exit Young Man. Enter Cinesias, singing and dancing very badly][^note-174]  
+
+CINESIAS [singing]   
+ To Olympus on high  
+with my wings I will fly—  
+On this song’s path I’ll soar  
+and then sing a few more . . .                                
+
+PISTHETAIROS  
+ This creature needs a whole pile of wings!  
+
+CINESIAS [singing]   
+ For my body and mind  
+ know not fear, so I’ll find . . .  
+
+PISTHETAIROS  
+ Cinesias, welcome. Let me now greet  
+ a man as thin as bark on linden trees!  
+ Why have you come whirling here on such lame feet?
+
+CINESIAS  
+ A bird—that’s what I long to be,                                                        
+ a clear-voice nightingale—that’s me.  
+
+PISTHETAIROS  
+ Stop singing—just tell me what you want to say.  
+
+CINESIAS  
+ I want you to give me wings then float up,                                           
+ flying high into the clouds where I can pluck  
+ wind-whirling preludes swept with snow.  
+
+PISTHETAIROS  
+ You want to get your preludes from the clouds?
+
+CINESIAS  
+ But all our skill depends upon the clouds.  
+ Our brilliant dithyrambs are made of air—  
+ of mist and gleaming murk and wispy wings.  
+ You’ll soon see that—once you’ve heard a few.                                               
+
+PISTHETAIROS  
+ No, no—I won’t.  
+
+CINESIAS  
+ Yes, by Hercules, you will.  
+For you I’ll run through all the airs . . . [starts singing]  
+
+ O you images of birds,                                                                                               
+ who extend your wings,  
+ who tread upon the air,  
+ you long-necked birds . . .  
+
+PISTHETAIROS [trying to interrupt]  
+ All right. Enough!  
+
+CINESIAS [ignoring Pisthetairos, continuing to sing another song]  
+ Soaring upward as I roam.  
+ I wander floating on the breeze . . .  
+
+PISTHETAIROS [looking in one of the baskets of wings]  
+ By heaven, I’ll stop these blasting winds of yours!  
+
+[Pisthetairos takes a pair of wings and starts poking Cinesiasaround the stage with them, tickling him]  
+
+CINESIAS [dodging away from Pisthetairos, giggling, and continuing to sing]  
+ First I head along the highway going down south,  
+ but then my body turns towards the windy north,  
+ as I slice airy furrows where no harbour lies . . . 1740            
+
+[Cinesias has to stop singing because Pisthetairos is tickling him too much with the wings. 
+He stops running off and singing. He’s somewhat out of breath]  
+
+ Old man, that’s a clever trick—pleasant, too—  
+ but really clever.  
+
+PISTHETAIROS  
+ You mean you don’t enjoy  
+ being whisked with wings?
+
+CINESIAS  
+ Is that the way you treat  
+ the man who trains the cyclic choruses—  
+ the one whom tribes of men still fight to have?[^note-175]  
+
+PISTHETAIROS  
+ Would you like to stick around this place  
+ to train a chorus here for Leotrophides,[^note-176]  
+ made up of flying birds—the swallow tribe?
+
+CINESIAS  
+ You’re making fun of me—that’s obvious.  
+ But I won’t stop here until I get some wings                        
+ and I can run through all the airs.  
+
+[Exit Cinesias. Enter a Sycophant, singing to himself]  
+
+SYCOPHANT [singing]  
+ Who are these birds with mottled wing?                                                                
+ They don’t appear to own a thing—  
+ O dappled swallow with extended wing . . .  
+
+PISTHETAIROS  
+ This is no minor problem we’ve stirred up—  
+ here comes one more person singing to himself.  
+
+SYCOPHANT [singing]  
+ O long and dappled wings, I call once more . . .  
+
+PISTHETAIROS  
+ It seems to me his song’s about his cloak—  
+ he needs a lot of swallows to bring in the spring.[^note-177]  
+
+SYCOPHANT  
+ Where’s the man who’s handing out the wings                    
+ to all who travel here?
+
+PISTHETAIROS  
+ He’s standing here.  
+ But you should tell me what you need.  
+
+SYCOPHANT  
+ Wings, wings.  
+ I need wings. Don’t ask me that again.                                                                    
+
+PISTHETAIROS  
+ Do you intend to fly off right away,  
+ heading for Pellene?
+
+SYCOPHANT  
+ No, not at all.    
+ I’m a summons server for the islands—  
+ an informer, too . . .  
+
+PISTHETAIROS  
+ You’re a lucky man  
+ to have such a fine profession.  
+
+SYCOPHANT  
+ . . . and I hunt around  
+ to dig up law suits. That’s why I need wings,  
+ to roam around delivering summonses                               
+ in allied states.  
+
+PISTHETAIROS  
+If you’re equipped with wings,  
+ will that make you more skilled in serving men?
+
+SYCOPHANT  
+ No. But I’d escape being hurt by pirates.  
+ And then I could return home with the cranes,  
+ once I’ve swallowed many law suits down  
+ to serve as ballast.[^note-178]  
+
+PISTHETAIROS  
+Is that what you do for work?                                         
+ Tell me this—you’re a strong young lad and yet  
+ don’t you slander strangers for a living?
+
+SYCOPHANT  
+ What can I do? I never learned to dig.  
+
+PISTHETAIROS  
+ But, by god, there are other decent jobs,                                                
+ where a young man like you can earn his way,  
+ more honest trades than launching still more law suits.  
+
+SYCOPHANT  
+ My good man, don’t keep lecturing me like this.  
+ Give me some wings.  
+
+PISTHETAIROS  
+I’m giving you some wings—      
+ I’m doing it as I talk to you right now.  
+
+SYCOPHANT  
+ How can you put wings on men with words?
+
+PISTHETAIROS  
+ With words all men can give themselves their wings.  
+
+SYCOPHANT  
+ All men?
+
+PISTHETAIROS  
+ Have you never heard in barber shops  
+ how fathers always talk of their young sons—                                                  
+ “It’s dreadful the way that Diitrephes’ speech                      
+ has given my young lad ambitious wings,  
+ so now he wants to race his chariot.”  
+ Another says “That boy of mine has wings  
+ and flutters over tragedies.”  
+
+SYCOPHANT  
+ So with words  
+ they’re really given wings?
+
+PISTHETAIROS  
+ That what I said.  
+ With words our minds are raised—a man can soar.  
+ That’s how I want to give you wings—with words,  
+ with useful words, so you can change your life  
+ and get a lawful occupation.  
+
+SYCOPHANT  
+ But I don’t want to.                                                              
+
+PISTHETAIROS  
+ What will you do?
+
+SYCOPHANT  
+I’ll not disgrace my folks.                                    
+ Informing—that’s my family’s profession.  
+ So give me now some light, fast falcon’s wings—  
+ or kestrel’s—then I can serve my papers  
+ on those foreigners, lay the charges here,  
+ and fly back there again.  
+
+PISTHETAIROS  
+ Ah, I get it—  
+ what you’re saying is that the case is judged  
+ before the stranger gets here.  
+
+SYCOPHANT  
+ That’s right.  
+ You understand exactly what I do.  
+
+PISTHETAIROS  
+ And then, while he’s travelling here by ship,  
+ you fly out there to seize his property.                                                      
+
+SYCOPHANT  
+ You’ve said it all. I’ve got to whip around                                                              
+ just like a whirling top.  
+
+PISTHETAIROS  
+ I understand—  
+ a whirling top. Well, here, by god, I’ve got  
+ the finest wings. They’re from Corcyra . . . here!  
+
+[Pisthetairos produces a whip from the basket and begins hitting the Sycophant, who dodges around to evade the blows]  
+
+SYCOPHANT  
+ Ouch! That’s a whip you’ve got!  
+
+PISTHETAIROS  
+No—a pair of wings.  
+ With them I’ll make you spin around all day!  
+
+SYCOPHANT  
+ Ow! Help! That hurts!  
+
+PISTHETAIROS  
+Wing your way from here!  
+ Get lost—I want rid of you, you rascal!  
+ I’ll show you legal tricks and twists—sharp ones, too!  
+
+[Pisthetairos beats the Sycophant off stage. Enter Xanthiasand Manodorus from the house]  
+
+ Let’s gather up these wings and go inside.                                             
+
+[Pisthetairos and the two slaves carry the baskets of wings back into the house]  
+
+CHORUS:  
+When we fly                                                                                                                             
+we often spy  
+strange amazing spots—  
+in those flights  
+peculiar sights.  
+
+ There’s a tree grows far from us  
+ simply called Cleonymos,  
+ a useless tree, without a heart—  
+ immense, and vile in every part.  
+ It always blooms in early spring,                                                                     
+ bursting forth with everything  
+ that launches legal quarrelling.  
+ and then in winter time it yields                                                                                     
+ a shedding foliage of shields.  
+
+ There’s a land  
+ ringed by the dark,  
+ a gloomy wilderness,  
+ where Heroes meet  
+ and with men eat.  
+
+ Men live with heroes in that place,                                                               
+ except at dusk—then it’s not safe  
+ for the two of them to meet.  
+ Men who in the night time greet                                                                                    
+ the great Orestes are stripped bare  
+ he strikes at them and leaves them there.  
+ And so without their clothes they bide—  
+ paralysed on their right side.[^note-179]  
+
+[Enter Prometheus, muffling his face in a long scarf and holding an unopened umbrella]  
+
+PROMETHEUS  
+ Oh, dear, dear, dear. I pray Zeus doesn’t see me.  
+ Where’s Pisthetairos?
+
+[Pisthetairos enters from the house carrying a chamber pot. He is surprised to see the new arrival]  
+
+PISTHETAIROS  
+ Who’s this? Why so muffled?
+
+PROMETHEUS  
+ Do you see any god who’s trailed me here?                                         
+
+PISTHETAIROS  
+ No, by Zeus, I don’t. But who are you?
+
+PROMETHEUS  
+ What time of day is it?
+
+PISTHETAIROS  
+ What time of day?
+ A little after noon. But who are you?
+
+PROMETHEUS  
+ Quitting time or later?                                                                                                              
+
+PISTHETAIROS  
+ You’re pissing me off . . .  
+
+PROMETHEUS  
+ What’s Zeus up to? What about the clouds—  
+ is he scattering ‘em—or bringing ‘em together?
+
+PISTHETAIROS  
+ You’re a total fool!  
+
+PROMETHEUS  
+ All right—then I’ll unwrap.  
+
+[Prometheus takes off the muffler concealing his face]  
+
+PISTHETAIROS  
+ Prometheus, my friend!  
+
+PROMETHEUS  
+Hey, quiet. Don’t shout.  
+
+PISTHETAIROS  
+ What’s the matter?
+
+PROMETHEUS  
+ Shhh . . . don’t shout my name.  
+ I’m done for if Zeus can see I’m here.                                                        
+ But I’ll tell you what’s going on up there,  
+ if you take this umbrella. Hold it up,  
+ above our heads—that way no god can see.  
+
+PISTHETAIROS  
+ Ah ha! Now that’s a smart precaution—                                                                  
+ that’s forethought, just like Prometheus!  
+ Come under here—make it fast—all right, now,  
+ you can talk without a worry.  
+
+[Pisthetairos and Prometheus huddle together under the umbrella]  
+
+PROMETHEUS  
+ Then listen.  
+
+PISTHETAIROS  
+ I’m listening—speak up.  
+
+PROMETHEUS  
+ Zeus is done for.  
+
+PISTHETAIROS  
+ And when was he done in?
+
+PROMETHEUS  
+ It happened  
+ once you colonized the air. From that point on,                            
+ no human being has made a sacrifice  
+ to any god, not once—and since that time  
+ no savoury smells from roasting thigh bones  
+ have risen up to us from down below.  
+ So now, without our offerings, we must fast,  
+ as if it’s time for Thesmophoria.[^note-180]  
+ The barbarian gods are starving—so now                                                              
+ they scream out like Illyrians and say  
+ their armies will march down attacking Zeus,  
+ unless he moves to get the ports re-opened,                                       
+ to make sliced entrails once again available.  
+
+PISTHETAIROS  
+ You mean other gods, barbarian ones,  
+ are there above you?
+
+PROMETHEUS  
+ Barbarian deities? Of course.  
+ That’s where Execestides derives  
+ all his ancestral family gods.  
+
+PISTHETAIROS  
+ What’s the name of these barbarian gods?
+
+PROMETHEUS  
+ The name? They’re called Triballians.[^note-181]  
+
+PISTHETAIROS  
+ I see—that must be where we get our phrase  
+ they’ve got me “by the balls.”                                                                                             
+
+PROMETHEUS  
+ You got that right.  
+ Now let me tell you something to the point—                     
+ ambassadors are coming here to settle this,  
+ from Zeus and those Triballians up there.  
+ But don’t agree to peace unless great Zeus  
+ gives back his sceptre to the birds again,  
+ and gives the Princess to you as your wife.  
+
+PISTHETAIROS  
+ Whose this Princess?
+
+PROMETHEUS  
+ The loveliest of girls—  
+ she’s the one in charge of Zeus’ thunderbolt  
+ and all his assets—wise advice, good laws,  
+ sound common sense, dockyards, slanderous talk—                                      
+ his paymistress who hands three obols out                          
+ to jury men . . .  
+
+PISTHETAIROS  
+ So in Zeus’ name,  
+ she’s the one in charge of everything?
+
+PROMETHEUS  
+ That’s right.  
+ If you get her from Zeus, you’ve got it all.  
+ That’s why I came here to tell you this.  
+ I’ve always been a friend of human beings.  
+
+PISTHETAIROS  
+ Yes, of all the gods it’s thanks to you  
+ that we can fry up fish.[^note-182]  
+
+PROMETHEUS  
+ I hate all gods—  
+ but you know that.  
+
+PISTHETAIROS  
+You’ve always hated them.  
+ Heaven knows—it’s something natural to you.  
+
+PROMETHEUS  
+ I’m Timon through and through.[^note-183]   Time to get back.                      
+ So let me have the parasol. That way,  
+ if Zeus does catch sight of me from there,  
+ he’ll think I’m following some basket girl.  
+
+PISTHETAIROS  
+ Take the piss pot, too—then you can act  
+ as if you’re the one who’s carrying the stool.  
+
+[Prometheus leaves with the umbrella and the pot. Pisthetairos goes back into the house]  
+
+CHORUS  
+ By that tribe of men with such huge feet  
+ they use them for a shade retreat,  
+ there’s stands a lake where Socrates,  
+ deceives men’s souls, that unwashed tease.  
+ Peisander went there to find out                                         
+ the spirit his life had been without.  
+ A big young camel he did slay,                                                                                          
+ then, like Odysseus, snuck away.  
+ By camel’s blood to that place drawn,  
+ up pops a Bat—it’s Chaerephon![^note-184]  
+
+[Enter Poseidon, Hercules, and the Triballian god]  
+
+POSEIDON  
+ Here it is—Cloudcuckooland—in plain view,  
+ city we’ve come to as ambassadors.  
+
+[Poseidon inspects the clothing on the Triballian god]  
+
+ What are you doing? Why drape your cloak that way,  
+ from right to left? It’s got to be re-slung  
+ the other way—like this.  
+
+[The Triballian tries to reshape his cloak but gets in a mess]  
+
+ You fumbling idiot—                       
+ a born Laespodias, that’s what you are![^note-185]  
+ O democracy! Where are you taking us,                                                                 
+ when gods vote in a clumsy oaf like this?
+
+[Poseidon continues to fuss over the Triballian’s appearance]  
+
+ Keep your hands still! Oh, to hell with you!  
+ You’re the most uncivilized of all the gods  
+ I’ve ever seen. All right, Hercules,  
+ what do we do?
+
+HERCULES  
+ You’ve heard what I propose.  
+ I’d like to wring his neck—whoever he is  
+ who set up this blockade against the gods.  
+
+POSEIDON  
+ But you forget, my friend, that we’ve been sent                  
+ as envoys to negotiate down here.  
+
+HERCULES  
+ That just makes me want to throttle him  
+ twice as much as I wanted to before.  
+
+[The wall of the house now moves off to reveal Pisthetairos and the slaves getting dinner ready. 
+They are preparing birds to cook in the oven]  
+
+PISTHETAIROS  
+ The grater for the cheese—can someone get it?
+ And bring the silphium. Hand me the cheese.  
+ Now, fire up the coals.                                                                                                               
+
+POSEIDON  
+ Greetings, mortal.  
+ We three are gods, and we salute you!  
+
+PISTHETAIROS  
+ But I’m grating silphium right now.  
+
+HERCULES  
+ What kind of meat is this?
+
+PISTHETAIROS  
+ The meat’s from birds—  
+ they’ve been tried and sentenced for rebellion,                              
+ rising up against the fowl democracy.  
+
+HERCULES  
+ Is that why you’re shredding silphium  
+ all over them before doing something else?
+
+PISTHETAIROS [looking up and recognizing Hercules]  
+ Well, hello there, Hercules. What’s up?
+
+POSEIDON  
+ We’ve come as envoys sent down from the gods  
+ to negotiate the terms for peace.  
+
+PISTHETAIROS [to one of the slaves] 
+ There’s no oil left in the jug.  
+
+HERCULES  
+ And bird meat  
+ should be glistening with lots of oil.                                                                            
+
+POSEIDON  
+ We gods get no advantage from this war.  
+ If you and yours were friendly to the gods,                                          
+ you’d have water from the rain in all your ponds—  
+ halcyon days would be here all the time.  
+ We’ve come with total powers in such things.  
+
+PISTHETAIROS  
+ From the start we didn’t launch a war on you—  
+ and we’re ready to talk peace, if that’s your wish,  
+ provided you’re prepared to do what’s right.  
+ And here’s what’s right: Zeus gives his sceptre back  
+ to us—I mean the birds—once more. And then,  
+ if we can settle this on these conditions,       
+ I’ll invite the envoys to have lunch with me.                                       
+
+HERCULES [salivating over the prepared bird]  
+ That’s just fine with me! I vote we say . . .  
+
+POSEIDON [interrupting]  
+ What’s that you fool! Idiotic glutton!  
+ You want give away your father’s power?                                                              
+
+PISTHETAIROS  
+ Is that what you think? Look, if birds here  
+ rule everything down there, won’t you gods above  
+ be even stronger? Now underneath the clouds  
+ men can bend down and swear false oaths to you.  
+ But once the birds and you become allies,                                                            
+ if any man should swear by Raven and by Zeus  
+ and then perjure himself, Raven would come by,                          
+ swoop down upon the man before he sees him,  
+ peck at his eye and pluck it out.  
+
+POSEIDON  
+ By Poseidon,  
+ what you’re saying makes good sense!  
+
+HERCULES  
+ Sounds good to me.  
+
+PISTHETAIROS [to the Triballian god]  
+ What do you say?
+
+TRIBALLIAN [speaking foreign gibberish]  
+Nab aist roo.  
+
+PISTHETAIROS  
+ You hear what he said? He agrees with you.  
+ Now listen up—here’s yet another benefit  
+ you’ll get from us. If any man once vows  
+ to one of the gods he’ll sacrifice a beast,  
+ then tries to talk his way out of doing it  
+ by splitting hairs and, acting on his greed,                                            
+ holds back his vow, saying “Gods are patient,”                                                 
+ we’ll make him pay for that as well.  
+
+POSEIDON  
+ How?
+ Tell us how you’d do that.  
+
+PISTHETAIROS  
+ Well, at some point,  
+ when that man is counting up his wealth  
+ or sitting in his bath, some kite will fly down,  
+ while he’s not paying attention, grab his cash,  
+ the value of two sheep, and carry that  
+ up to the god.  
+
+HERCULES  
+ He gets my vote again—  
+ I say we give the sceptre back to them.  
+
+POSEIDON  
+ All right—ask the Triballian.                                                                               
+
+HERCULES [threateningly]  
+ Hey, you—  
+ Triballian—want me to smack you round?
+
+TRIBALLIAN [afraid]  
+ Oo smacka skeen dat steek?
+
+HERCULES  
+ He says it’s fine—  
+ he agrees with me.  
+
+POSEIDON  
+ Well, if it’s what you want,                                                   
+ then it’s all right with me.  
+
+HERCULES [to Pisthetairos]  
+ Hey, we’re ready to agree to terms  
+ about the sceptre.  
+
+PISTHETAIROS  
+ By god, there’s one more thing—  
+ I’ve just remembered. I’ll let Zeus keep Hera,  
+ but he must give me that young girl Princess.  
+ She’s to be my wife.  
+
+POSEIDON  
+Then you don’t want  
+ a real negotiation. Come on, let’s go back home.  
+
+PISTHETAIROS  
+ That’s up to you. Hey, cook, watch that gravy.                                 
+ Make sure you make it sweet!  
+
+HERCULES  
+ Hey, Poseidon,  
+ my dear fellow, where you going? Come on,  
+ are we going to war about a woman?
+
+POSEIDON  
+ What should we do?
+
+HERCULES  
+ Do? Settle this matter.  
+
+POSEIDON  
+ What? You fool! Don’t you see what he’s doing,  
+ how all this time he’s been deceiving you?
+ You’re ruining yourself, you know. If Zeus dies,  
+ after giving all his sovereignty to birds,  
+ you’ll have nothing. Right now you’re his heir—  
+ you get whatever’s left when Zeus departs.                                           
+
+PISTHETAIROS [to Hercules]  
+ Oh dear, dear—how he’s trying to play with you.  
+ Come on over here—let me tell you something.  
+
+[Pisthetairos and Hercules talk apart from the others]  
+
+ You uncles’s putting one over on you,  
+ you poor fool—because, according to the law,  
+ you don’t get the smallest piece of property  
+ from your father’s goods. You’re illegitimate—                                                
+ you’re a bastard.  
+
+HERCULES  
+ A bastard? What do you mean?
+
+PISTHETAIROS  
+ I mean just what I say. Now, your mother—  
+ she was an alien woman. And Athena—  
+ do you think a daughter could inherit                                  
+ if she’s got legal brothers?
+
+HERCULES [very puzzled]  
+But once he dies,  
+ couldn’t my dad leave me all his property  
+ as a bastard’s share?
+
+PISTHETAIROS  
+ The law won’t let him.  
+ The first one to claim your father’s property  
+ will be Poseidon here, who’s raised your hopes.  
+ He’ll claim he’s your father’s legal brother.  
+ I’ll read you what Solon’s laws dictate—                                                                  
+
+[Pisthetairos pulls a piece of paper out and reads]  
+
+         “If there are lawful children, then a bastard  
+ has no rights as a close blood relative.  
+ If there are no lawful children, the goods                            
+ go to the nearest next of kin.”  
+
+HERCULES  
+ What!  
+ I don’t get anything from daddy’s stuff?
+
+PISTHETAIROS  
+ Not a thing, by god. So tell me this—  
+ has your father introduced you to his kin group yet?[^note-186]  
+
+HERCULES  
+ No, not me. As a matter of fact,  
+ I’ve been wondering about that for some time.  
+
+PISTHETAIROS  
+ Well, don’t just stare up there, mouth wide open,  
+ planning an assault. Join up with us instead.  
+ I’ll make you a king and give you bird’s milk.                                   
+
+HERCULES  
+ I’ve always thought you’re right in what you say  
+ about the girl. I’d hand her over to you.  
+
+PISTHETAIROS [to Poseidon]  
+ What do you say?
+
+POSEIDON  
+ I vote no.  
+
+PISTHETAIROS  
+ So now,  
+ it’s up to the Triballian here. What you say?
+
+TRIBALLIAN  
+ De geerl geeve over greet souvrin bridies.  
+
+HERCULES  
+ There! He says to hand her over.  
+
+POSEIDON  
+ No by god!                                                                  
+ he never said to give her up—no way.  
+ He’s just babbling like a swallow.  
+
+HERCULES  
+ So he said hand her over to the swallows!  
+
+POSEIDON  
+ You two work it out—agree on peace terms.                                      
+ Since you’re both for it, I’ll say nothing more.  
+
+HERCULES  
+ We ready now to give you all you ask.  
+ So come along with us in person—  
+ up to heaven—there you can get your Princess,  
+ and all those other things as well.  
+
+PISTHETAIROS [pointing to the cooking he’s been preparing]  
+ So these birds were slaughtered in good time  
+ before the wedding feast.  
+
+HERCULES  
+ If you want to,  
+ I could stay here and roast the meat. You go.                                                    
+
+POSEIDON  
+ Roast the meat? You mean you’d wolf it down,  
+ you glutton. Come on with us. Let’s go.                                                   
+
+HERCULES [reluctantly leaving]  
+ I’d have enjoyed eating that.  
+
+PISTHETAIROS [calling to his slaves]  
+ Hey, you—  
+ one of you bring me out some wedding clothes!  
+
+CHORUS  
+ In lands of Litigation there’s a place—  
+ it’s right beside the water clock—  
+ where that villainous and thieving race  
+ of tongue-and-belly men all flock.  
+ They use their tongues to sow and reap,  
+ to harvest grapes and figs en masse.  
+ A crude barbarian tribe, a heap                                                                                        
+ of Philipses and Gorgias.                                                                                          
+ From these horse-loving sycophants,  
+ who use their tongues to cram their gut,  
+ through all of Attica’s expanse  
+ in sacrifice the tongue’s first cut.[^note-187]  
+
+[Enter Second Herald]  
+
+SECOND HERALD  
+ You here who’ve done fine things, more wonderful  
+ than I can say, you thrice-blessed race with wings,  
+ you birds, welcome now your king on his return,  
+ as he comes back among these wealthy halls.  
+ Here he approaches—you’ll never see a star  
+ so bright in any gleaming home of gold.                                                                
+ No—not even the far-reaching rays of sun  
+ have ever shone as splendidly as he,  
+ the man who brings with him his lovely wife,  
+ too beautiful for words, and brandishing  
+ the winged thunderbolt from Zeus. Sweet smells  
+ are rising up, high into heaven’s vault,  
+ a glorious spectacle, and wisps of smoke  
+ from burning incense are blown far and wide.  
+ Here he is in person. Let the sacred Muse  
+ open her lips in a triumphal holy song.                                                    
+
+[Enter Pisthetairos and his bride Princess]  
+
+ CHORUS  
+ Back off, break up, make room—                                                                                  
+ And wing your way around the man  
+ so blessed with blissful fortune.  
+ Oh, oh—such beauty and such youth!  
+ What a blessing for this city of the birds  
+ is this fine marriage you have made.  
+
+ A great good fortune now attends us,  
+ the race of birds—such mighty bliss,  
+ thanks to this man. So welcome back  
+ with nuptial chants and wedding songs                               
+ our man himself and his Princess.  
+
+ Olympian Hera and great Zeus  
+ who rules the gods on lofty thrones  
+ the Fates once joined with wedding songs.  
+ O Hymen, Hymenaeus[^note-188]  
+
+ And rich young Eros in his golden wings  
+ held tight the reins as charioteer  
+ at Zeus’ wedding to the happy Hera.  
+
+ O Hymen, Hymenaeus,  
+ O Hymen, Hymenaeus.                                                                                            
+
+PISTHETAIROS  
+ Your chants fill me with great delight,  
+ as do you songs. And I just love your words.  
+
+CHORUS  
+ Come now, celebrate in song  
+ earth-shattering thunder, Zeus’ lightning fire—  
+ which now belong to him—  
+ that dreaded bolt white lighting, too.  
+ Oh, that great golden blaze of lightning,  
+ that immortal fiery spear of Zeus,  
+ and groaning thunders bringing rain—                                                                   
+ with you this man now rattles Earth.                                                          
+ And everything that Zeus once had,  
+ he’s got it all—and that includes  
+ our Princess, who once sat by Zeus’ throne.  
+ O Hymen, Hymenaeus!  
+
+PISTHETAIROS  
+ Now all you feathered tribes of friends,  
+ come follow me on this my wedding flight.  
+ Let’s wing our way up there to Zeus’ house  
+ and to our wedding bed. Reach out your hand,  
+ my blissful love, and take hold of my wing—                                                    
+ then dance with me. I’ll lift and carry you.                                           
+
+[Pisthetairos and Princess lead the procession off the stage]  
+
+CHORUS  
+ Alalalalai—  
+ Raise triumphal cries of joy,  
+ sing out the noble victor’s song—  
+ the mightiest and highest of all gods!  
+
+*[The procession exits singing and dancing, accompanying Pisthetairos and his bride up to Heaven]*  
+
+    
+
+ 
+
+[^note-101]: *Execestides*: An Athenian descended from Carian slaves and therefore not entitled to be a citizen. The point here is that he must have been extremely skilful to get to Athens, given where he started, and even he couldn’t navigate his way back to Athens in this terrain. 
+
+[^note-102]: *Tereus*: the name of a mythological king of Thrace who married Procne and raped her sister Philomela. The sisters killed his son and fed Tereus the flesh for dinner. All three were changed into birds: Tereus into a hoopoe, Procne into a nightingale, and Philomela into a swallow. 
+
+[^note-103]: *Tharreleides*: the reference here seems to be to a well-known member of the audience, perhaps celebrated for his small size and loud voice. 
+
+[^note-104]: *birds*: the Greek expression is “to the Ravens,” meaning “go to hell.” 
+
+[^note-105]: *Sacas*: a name for Acestor, a foreign-born tragic dramatist. 
+
+[^note-106]: *tribe and clan*: the political units of Athenian civic life. 
+
+[^note-107]: *basket, pot, and myrtle boughs*: these materials were necessary to conduct the sacrifices at the founding of a new city. 
+
+[^note-108]: *twelve gods*: the major Olympian deities, headed by Zeus. 
+
+[^note-109]: Most Athenians knew very little about peacocks. 
+
+[^note-110]: *Cranaus*: reference to a mythological king who founded Athens or a word derived from *kranaos*, meaning rugged, a word often applied to Athens. 
+
+[^note-111]: *son of Scellias*: the reference is to a man called Aristocrates, an important politician-soldier in Athens. 
+
+[^note-112]: *difficult for me*: this is a utopian fantasy because the neighbour is suggesting that, as a punishment, his friend Euelpides would not have to help him if he gets in financial trouble, even though he’s invited him to an important family celebration. 
+
+[^note-113]: *Red Sea*: a general term for any sea by the southern coasts of Asia. 
+
+[^note-114]: *summons*: Athenian citizens could be legally summoned home for trial. Salamia was an official ship often used for such voyages. 
+
+[^note-115]: *Melanthius’ fault*: the reference is to an Athenian tragic dramatist who had a very bad skin condition (making him look as if he had leprosy). 
+
+[^note-116]: *Opuntius*: a widely disliked Athenian informer. A talent’s weight is just under 30 kilograms. 
+
+[^note-117]: *Teleus*: Athenian politician with a reputation for being unpredictable. 
+
+[^note-118]: *Melos*: the Athenians committed a horrible atrocity during the Peloponnesian War, starving the population of Melos and then executing all male citizens. 
+
+[^note-119]: In some productions of *The Birds* the set design permits the audience to see inside Tereus’ quarters, so that the singer of the songs which follow remains visible to the audience. Alternatively, Tereus could move out onto a rocky balcony to deliver his song. It seems dramatically very weak to have him deliver these lyrics out of sight of the audience. 
+
+[^note-120]: *Itys*: son of Tereus and Procne, killed by his mother, who served him up as dinner, in revenge for Tereus’ rape and mutilation of her sister. 
+
+[^note-121]: *Hipponicus*: this passages refers to the Greek custom of naming children after their grandfathers. Philocles was a tragic dramatist. Callias, his son, was a notorious spendthrift who squandered his family inheritance on a debauched lifestyle. 
+
+[^note-122]: *Cleonymus*: an Athenian politician well known for his eating habits and his size. He also reputedly once threw his shield away in battle and ran off. 
+
+[^note-123]: *safer*: Pisthetairos refers to a race in which the runners wore helmets with plumes (crests), but Tereus misunderstands and talks about mountain crests where the birds live. Caria is in Asia Minor. 
+
+[^note-124]: *shaver*: the Greek bird *kerulos* was a mythological species. The passage here plays on the similarity of the verb *keirein* meaning to cut hair. 
+
+[^note-125]: *Athens*: to bring owls to Athens is an expression for something totally unnecessary (like bringing coals to Newcastle). 
+
+[^note-126]: *Nikias*: Athenian general famous for his tactical skill. 
+
+[^note-127]: *Orneai*: a siege in which some Athenians took part. There were no casualties. 
+
+[^note-128]: *win*: a reference to the fact that The Birds is competing in a drama festival. 
+
+[^note-129]: *Earth*: Kronos was the father of Zeus; the Titans were the sons of Kronos. Earth was the original mother goddess. 
+
+[^note-130]: *Halimus*: a community on the coast near Athens. 
+
+[^note-131]: *kite*: an old Greek custom of saluting the kite as the bird announcing the arrival of spring by rolling on the ground.This speech refers to the habit of carrying small coins in the mouth. Having eaten his money, he can’t buy the food he set out to purchase. 
+
+[^note-132]: These lines are an attempt to deal with an totally obscure sexual pun in the Greek. 
+
+[^note-133]: *Lysicrates gets*: a reference to a corrupt Athenian politician. 
+
+[^note-134]: *Lampon*: a well known soothsayer in Athens. “By Goose” is a euphemistic way of swearing “By Zeus.” 
+
+[^note-135]: *Kebriones* and *Porphyrion* were two Giants who fought against the Olympian gods. 
+
+[^note-136]: These women all had sexual encounters with gods. Alkmene and Zeus produced Hercules; Semele and Zeus produced Dionysus; and Alope and Poseidon produced Hippothoon. 
+
+[^note-137]: *Zan*: an archaic and contemptuous name for Zeus. 
+
+[^note-138]: *crow*: in legend and folk lore the life span of the crow was enormous. 
+
+[^note-139]: *Nikias*: Athenian general, famous for his hesitation about tactics. 
+
+[^note-140]: *Erebus*: the primeval darkness. 
+
+[^note-141]: *Prodicus*: a reference to a well known philosopher who offered a materialistic explanation for the origin of the gods. 
+
+[^note-142]: These lines refer to the custom of giving one’s lover a bird as a present. 
+
+[^note-143]: *Orestes*: the reference is to a well-known thief of other people’s clothing. 
+
+[^note-144]: In other words, we’re all the oracles you need. Ammon, Delphi, and Dodona are shrines famous for prophecy. Apollo is the god of prophecy. 
+
+[^note-145]: *Diitrephes*: prominent Athenian politician and general. A horse-cock is a mythological animal with the front of a horse and the rear of a cock. 
+
+[^note-146]: poor people used esparto grass to make rope chords to hold up the mattress. Rich folks used linen. The pun here is obviously on Sparta-esparto. Euelpides won’t have anything to do with Sparta or anything that sounds like it. 
+
+[^note-147]: *Theogenes and Aeschines*: two Athenian business men who constantly boasted they were richer than they were. 
+
+[^note-148]: the *giants* were the monstrous children of Uranus; the gods are the Olympians, headed by Zeus. The point here is that Cloud cuckoo land is so great, it’s a place for divine boasting, not just the sort of thing rich Athenians might brag about. 
+
+[^note-149]: *Cleisthenes*: a well-known homosexual in Athens, often satirized by Aristophanes. 
+
+[^note-150]: The officer inspecting the sentries regularly rang a small bell to indicate that all was well. 
+
+[^note-151]: *Hestia*: traditional goddess of the hearth. 
+
+[^note-152]: *Cleocritus*: a very ugly Athenian who was often compared to an ostrich. 
+
+[^note-153]: The *Chians* were staunch allies of Athens in the Peloponnesian War. 
+
+[^note-154]: *Simonides*: well-known lyric poet of the previous generation. 
+
+[^note-155]: These lines are a jumble of allusions to well known poems. The founder of Aetna is Heiron, ruler of Syracuse, whose name is the same as the word for “of holy things.” In Homer a nod of the head signifies divine assent. 
+
+[^note-156]: *Lampon and Diopeithes* were well-known soothsayers in Athens. 
+
+[^note-157]: *Meton* was a famous astronomer and engineer. 
+
+[^note-158]: *Colonus*: a district of Athens. 
+
+[^note-159]: *Thales*: very famous astronomer and thinker from distant past. Thales is often considered the founder of philosophy. 
+
+[^note-160]: *Commissioner*: an official who was sent out to supervise and report on a new colony. 
+
+[^note-161]: *Sardanapallos* was the last king of Assyria, famous in legend for his extravagant lifestyle and appearance. 
+
+[^note-162]: *Teleas*, an Athenian politician, would have proposed sending the Commissioner out. 
+
+[^note-163]: *Pharnakes* was an important Persian official. Dealing with him would be considered treasonous in some quarters. 
+
+[^note-164]: A small town in the remote north east of Greece (by Mount Athos). 
+
+[^note-165]: At the drama festival formal public announcements like this were part of the script. Diagoras was a notorious atheist who had fled Athens. The reward for killing old tyrants was part of a ritual pronouncement to protect democracy. 
+
+[^note-166]: *Alexander*: another name for Paris of Troy. 
+
+[^note-167]: The owls of Laureium are coins. The owl was stamped on Athenian coins, and Laureium was the site of the silver mines. 
+
+[^note-168]: Greek temples commonly had triangular pediments known as “eagles.” 
+
+[^note-169]: Pisthetairus compares Iris to a ship because her dressing is billowing like a sail. The two names he gives are the two main flag ships of the Athenian fleet. 
+
+[^note-170]: *Porphyrion* was the name of one of the giants who went to war against Zeus. 
+
+[^note-171]: The lines following refer to a number of political figures in Athens. 
+
+[^note-172]: This reference is to a very popular betting game in which a quail was placed inside a circle and tapped on the head to see if it would back off or stand its ground. 
+
+[^note-173]: Manes is probably another name for Manodoros, since there are only two slaves in the play. 
+
+[^note-174]: I follow Sommerstein’s useful suggestion and add this line here to make sense of the lines which follow. 
+
+[^note-175]: At the festival for tragic drama, the war orphans were paraded around in special armour given to them by the state. 
+
+[^note-176]: *Cinesias* was a well-known and frequently satirized poet in Athens. He was extremely thin and evidently suffered very badly from diarrhea. 
+
+[^note-177]: The tribes were the political divisions in Athenian life. The dithyrambic competitions were organized by tribes, each one wanting the services of the best poets. 
+
+[^note-178]: *Leotrophides* was another Athenian famous for being extremely thin (like Cinesias). 
+
+[^note-179]: The point here seems to be that the Sycophant’s cloak is so thin and worn that he’s singing for warm weather, when he won’t need it. 
+
+[^note-180]: Cranes reputedly swallowed stones to serve as ballast on their flights. 
+
+[^note-181]: These lines refer to the notion that meeting up with ghosts of heroes is all right during the day but harmful at night. There is also another reference here to the thief Orestes (mentioned earlier by the Chorus Leader) who beats people and steals their clothes. 
+
+[^note-182]: *Thesmophoria*: an important religious festival in Greece, during which there was a period of fasting. 
+
+[^note-183]: *Triballians*: the name of a barbarian tribe in Thrace, north of Greece. The Tiballian god who enters with Poseidon and Hercules a few lines later on cannot speak Greek, so his lines are incomprehensible gibberish. 
+
+[^note-184]: *Prometheus* stole fire from heaven and gave it to human beings. 
+
+[^note-185]: *Timon* was a legendary Athenian who hated his fellow citizens. 
+
+[^note-186]: *Peisander*: an Athenian with a reputation for corruption and cowardice. Chaerephon was well known as an associate of Socrates. 
+
+[^note-187]: *Laespodias*: Athenian politician who dressed oddly to conceal his misshapen legs. 
+
+[^note-188]: A kin group (*phrateres*) was a group of citizens who shared a common ancestor. 
+
+[^note-189]: These lines attack the Sophists who earned their living by teaching rhetoric. Gorgias was a famous sophist and Philip was his pupil and disciple. They are called horse-loving either to suggest extravagant ambitions or their non-Athenian tribal origins. In sacrificing an animal, the Athenians cut out the tongue first. The suggestion seems to be that that’s what the speaker would like to do with the Sophists. 
+
+[^note-190]: A customary salute to the gods of marriage. 
+  
+
